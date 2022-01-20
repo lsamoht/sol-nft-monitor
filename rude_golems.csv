@@ -70,6 +70,7 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Background,Chain,Eyes,Innate Vir
 1598,5,3078,70.09,https://magiceden.io/item-details/Dgmsz746itmFe1ejvaQjvmRCDC5riCto1p5iTB5MM2BM,Bronze Knight,Aquamarina,None,Lost Eye Patch,Supreme Intelligence,Solana Bandana,Bird Family,,Scaly,
 1622,19.5,656,0,https://magiceden.io/item-details/CY6rctYN3Cy4rHCKSi96bZ3AG5n4hYogXdg3uW2mbRRz,Silver Knight,Black,Sherlock O'Clock,None,Unbreakable Defense,Bubble Gum,None,,Jelly Skelly,
 1644,6.49,3412,53.68,https://magiceden.io/item-details/8m6xeuKwdgQqnmta2XzgKFt7pFPpk46pzA5fhkcMMWPb,Convicted,Raging Volcano,None,Purple Force,Supreme Intelligence,6ixn9ne Rainbow Grillz,Red Stones Mohican,,Yellow Energy,
+1646,10.3,2033,21.81,https://magiceden.io/item-details/77M8yVTdUvVbZ4gvnr5RwFcwd1r176QyFMVdPC6mqhGV,None,Black,Rude OG,3D Glasses,Annihilating Power,Bloodthirsty Teeth,Sombrero,,Glacial Ice,
 1722,37,64,0,https://magiceden.io/item-details/8xrX9cdeEAPCMZTNaB5VLfUsJmrJQvgwu7Q2hvs4ztTd,Bronze Knight,Green Pillars,Rude OG,None,Annihilating Power,None,Gold Bullish Helmet,,Base,
 1754,8,1708,46.28,https://magiceden.io/item-details/DqzBHdxmkREoJNkmFsUs5HJ1tkRtxBnh82ZKCWgAtRoo,Convicted,Yellow,6ix9ine Iced Out,ThugLife Shades,Supreme Intelligence,Tartar Dentures,Bird Family,,Grey Marble,
 1758,15,1650,0,https://magiceden.io/item-details/JCpRjGMK6Hy7sSHjaSjgiUELg6sa4b3KXm46cB7c8Pu7,None,Dangerous Laboratory,Boxing Gloves,ThugLife Shades,Supreme Intelligence,6ixn9ne Rainbow Grillz,Bird Family,,Red Rock,
@@ -213,7 +214,6 @@ id,price,moonRank,💎 score (%),storeURL,Armor,Background,Chain,Eyes,Innate Vir
 8840,10.49999,433,27.04,https://magiceden.io/item-details/E3dMzUNGxtdgBwMXQUCEn4pw5VMHywiqv3LancaTpVZq,Cyborg,Blue,Sherlock O'Clock,Lost Eye Patch,Unbreakable Defense,Monster,Arachnid Colony,,White Quartz,
 8847,14.7,6530,0,https://magiceden.io/item-details/6e4ZWBaMaHmE8CAXGbP6ZTdNjeueVY3wRpyA1iUdDoyG,None,Unexplored Mine,None,Subatomic Goggles,Unbreakable Defense,Cigarette,Elder Mushroom Colony,,Red Rock,
 Demantur,1000,1,0,https://magiceden.io/item-details/HyzPwi4aUEvzuVnk9Wyvzk92jEBwe9Z97zX3tBkJRYMC,,,,,,,,,,True
-8869,1000,7731,0,https://magiceden.io/item-details/6xS7VkEpBaFYJ4rnW5eyXQJLGpYP9oDgegiSpDcfRvM1,None,Raging Volcano,None,White Force,Supreme Intelligence,Tartar Dentures,Arachnid Colony,,Black Obsidian,
 Khaos,2022.69,5,0,https://magiceden.io/item-details/C7gqLjbELMt6QFVRdHFAihwr11yrfQzCEgmiBxfY21FP,,,,,,,,,,True
 68,25,1916,0,https://solanart.io/search/?token=DbnUoX9zy8R7Lz2T7j4WahFt8ehQzyZskN7igaeUUkvL,Crystals Collector,Green,None,Cyclop,Supreme Intelligence,Rude Words,Safari Hat,,Scaly Albino,
 134,7,1476,57.33,https://solanart.io/search/?token=2NfKZKrrLDtGvUQ5T4cPKeK4VGBs4fehAKrZ2eS86TfQ,War Belt,Purple,Skull Necklace,Coins,Unbreakable Defense,Bushy Beard,Degen Hat,,Muddy,
@@ -591,4 +591,5 @@ Khaos,2022.69,5,0,https://magiceden.io/item-details/C7gqLjbELMt6QFVRdHFAihwr11yr
 8818,5.5,6050,51.66,https://solanart.io/search/?token=EAGuJ8zThCiMQvGLEb4V79BDZXhSYitThFAZz3jdxYDF,Golden Knight,Black,None,Green Force,Unbreakable Defense,Sparse Teeth,Safari Hat,,White Quartz,
 8859,10,5476,9.26,https://solanart.io/search/?token=5CdsYpiCTK4JLbaJiTHPHnmxPs8nsHpJ2A9DF1Qb1WFV,Crystals Collector,Unexplored Mine,None,Blue Force,Annihilating Power,Rude Tongue,Buccaneer Hat,,Base,
 8865,4.5,7598,54.67,https://magiceden.io/item-details/DGW3FH7Jb6hLRCPGZM26DydvSnyvhRKmd4QEecGwWdJ6,None,Black,None,Purple Force,Annihilating Power,Human Teeth,Elder Mushroom Colony,,Scaly Albino,
+8869,1000,7731,0,https://magiceden.io/item-details/6xS7VkEpBaFYJ4rnW5eyXQJLGpYP9oDgegiSpDcfRvM1,None,Raging Volcano,None,White Force,Supreme Intelligence,Tartar Dentures,Arachnid Colony,,Black Obsidian,
 8877,4.35,2058,81.2,https://magiceden.io/item-details/Fc3e5LdoarU6zGJrFNEzuADFBfefDnswRYqK4girMFV5,Golden Knight,Blue,Tribal Necklace,Red Force,Annihilating Power,Rude Tongue,Red Stones Mohican,,Base,
