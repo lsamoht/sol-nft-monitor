@@ -18,7 +18,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 447,7,2796,40.99,https://magiceden.io/item-details/9bTjQ6vZcA3wcbRDBGqEmEvUQCrtpEivcmL9UR5cCrPT,,Trap House,,,,,Open,,,Telescope,Amethyst Window,Plumbing,,,,,,
 463,5.65,2589,57,https://magiceden.io/item-details/2jacoCACYCPfbD6oyyGrMDZaW8JNhoZiiugUrKdjaDL2,,Fancy Trap House,,,,,Steel,,,Drainage Pipe,Skylight,Plumbing,,,,,,
 478,6.4,2859,46.22,https://magiceden.io/item-details/8HVVQQJ5p5JZNvSx538HYGS1X9tBMjjJ5wADH5qV3csV,,Fancy Trap House,,,,,Steel,,,Telescope,Amethyst Window,Plumbing,,,,,,
-498,4.5,2202,73.21,https://magiceden.io/item-details/7979oSpLsNRDS3HAfpE1S6AguKn9Ga7QsbXRqNUFsxbc,,Reinforced Trap House,,,,,Swinging Doors,,,Pest,None,Plumbing,,,,,,
 532,5,2872,60.06,https://magiceden.io/item-details/HtfmA2sCv8cNrjR7bgaMb7bY8CFfBzJmpbxgpDnXFvw5,,Reinforced Trap House,,,,,Wood,,,Telescope,None,Plumbing,,,,,,
 603,5.5,2363,61.25,https://magiceden.io/item-details/EN88GbgGrpWWyLgh4GHB1VhYKNfYFDh9TLvDa6zx1sJz,,Fancy Trap House,,,,,Wood,,,Pest,Amethyst Window,None,,,,,,
 604,5,2878,59.99,https://magiceden.io/item-details/FYo7JN7mYfo72umEtV4H1V53pmtHrGqrozqxXxGSchTe,,Fancy Trap House,,,,,Wood,,,Drainage Pipe,None,Plumbing,,,,,,
@@ -115,6 +114,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2448,7,2152,48.82,https://magiceden.io/item-details/23PByRZ75YJNmVie2xoLZE5j3SbgvEkJE5KDQUDUVfFa,,Reinforced Submarine,,,,,Steel,,,None,Window,Drainage Pipe,Green Light,,,,,
 2457,13,1649,0,https://magiceden.io/item-details/9QmdkY93MbdawTJQq2L7w8DGq2i55d8AKSf3gSTWr2PJ,,Submarine Watchtower,,,,,Open,,,Telescope,Window,Chimney,Blue Light,,,,,
 2488,12,2958,0,https://magiceden.io/item-details/CxUWXwioDK2tJr2cXRSM69AJaBREE628xnmT3pow4X4Y,Shill City Ghetto,Scrap House,,,,,Steel,,,Capped Roof,None,OG's Clubhouse Sign,,,,,,
+2489,8.88,3019,19.47,https://magiceden.io/item-details/HBAvZBpqsy1MKKjXru4o1jJNvLEwbSdke1ihkzHg9cXK,Shill City Metro,Fine Scrap House,,,,,Steel,,,None,Driftwood Roof,Sewage Drain,,,,,,
 2533,6.9,2344,47.48,https://magiceden.io/item-details/G7xbPMcCR67wq75FxGgNJYA2up1a9cCXwRE7PUjArwDq,,Scrap House,,,,,Hatch,,,Capped Roof,Driftwood Roof,Dive Bar Sign,,,,,,
 2539,7.1,2690,41.27,https://magiceden.io/item-details/3PSfeodmjDUnnJ3vfbsG5Ggx278ySvrcDnQWtBdg2cTn,Shill City Ghetto,Scrap House,,,,,Steel,,,Pot Lid,Driftwood Roof,Casino Sign,,,,,,
 2580,6.47,2631,48.29,https://magiceden.io/item-details/91ekc2HAr5f1Tj64cBQ1MVNUNU7JEqUAXqBuS6GBjiWi,Shill City Metro,Scrap House,,,,,Hatch,,,Pot Lid,Driftwood Roof,Sewage Drain,,,,,,
@@ -140,6 +140,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 3090,6.59,618,71.58,https://magiceden.io/item-details/3Je78VNkXfT6xEgBq5nhK3F5XJfXvTmj26RPSmZbHfvt,Shill City Metro,Chest,None,Barred Window,Blue Window,,Steel,,,Drain Pipe,,,,,,,,
 3130,14,692,0,https://magiceden.io/item-details/BFh5FWPNTd4bZktJnvLu4uFLzZnWeJiZjnXvt9EWGsSN,Shill City Ghetto,Chest 2,Saloon,Green Window,Blue Window,,Steel,,,Drain Pipe,,,,,,,,
 3182,250,1606,0,https://magiceden.io/item-details/FrLGhta8fHTcyFTqiTDUwiDiG59L5xnvnqJwS2ssVXu7,Shill City Metro,,,,,,,,,,,,,1/1,,,,
-3195,7,14,74.83,https://magiceden.io/item-details/2TnFJC5LpES2c3yLSJZYM1mYu7W4HaaaiykddyEYruYE,The Back Wall,,,,,,Open Red Door,Crested Jade,Emerald,,,,,,None,,,Green
+3195,5,14,94.83,https://magiceden.io/item-details/2TnFJC5LpES2c3yLSJZYM1mYu7W4HaaaiykddyEYruYE,The Back Wall,,,,,,Open Red Door,Crested Jade,Emerald,,,,,,None,,,Green
 3215,10,2358,16.31,https://magiceden.io/item-details/9Son3MHo8J5fE9Ey8Ps8hqDt2YeSCLgYyVgYm3rMbMW2,Shill City Ghetto,Scrap House,,,,,Steel,,,Balcony,Driftwood Roof,OG's Clubhouse Sign,,,,,,
 3258,4.5,2961,63.98,https://magiceden.io/item-details/782BAAY9Kv9c5KnXWbVSpono6STKJ9x9N9jHfbhgP7XW,,Fancy Reinforced Trap House,,,,,Wood,,,Drainage Pipe,Barred Window,None,,,,,,
