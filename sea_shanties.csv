@@ -1,99 +1,96 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Trait 2,Chest Trait 3,Chimney,Door,Easter Head Base,Easter Head Nose,Roof,Trait 1,Trait 2,Trait 3,Unique,Wall,Walls,Window,Windows
 8,14.2069,2824,0,https://magiceden.io/item-details/DFLcZVfNUti4a54PcXBaBc6VgYsLS6wkPg9ct27T1rLe,,Fine Bucket,,,,,Hatch,,,Pot Lid,None,None,None,,,,,
-30,12,1638,18.78,https://magiceden.io/item-details/FF9ntEJ9GHoJAJ8ahV64hiuH3vi8Bf5dk9cJc5foSAk7,,Fancy Bucket,,,,,Pest,,,Siren,None,Glowing Barred Window,Green Window,,,,,
-46,6.69,1773,70.22,https://magiceden.io/item-details/9LpJusRd7gsjRniL9at7bmw6fEZuZbVN9ie4hNt5ZsYH,Outskirts,Fancy Bucket,,,,,Steel,,,None,Duck foot,Glowing Barred Window,Green Barred Window,,,,,
-73,7,1407,71.63,https://magiceden.io/item-details/CPUjqidDjuLX1NjXECdTvPkuro6XXVNW6bMFtuMJWzSX,,Bucket,,,,,Pest,,,Siren,None,Glowing Barred Window,Green Window,,,,,
-102,7.3,1142,71.91,https://magiceden.io/item-details/5b7f3qwG6QLeeduiNF57u6zGkKN5SSxm92MS23okZJFp,,Fancy Bucket,,,,,Hatch,,,Siren,Duck foot,Glowing Light,Green Window,,,,,
+30,12,1638,20.78,https://magiceden.io/item-details/FF9ntEJ9GHoJAJ8ahV64hiuH3vi8Bf5dk9cJc5foSAk7,,Fancy Bucket,,,,,Pest,,,Siren,None,Glowing Barred Window,Green Window,,,,,
+46,6.69,1773,72.22,https://magiceden.io/item-details/9LpJusRd7gsjRniL9at7bmw6fEZuZbVN9ie4hNt5ZsYH,Outskirts,Fancy Bucket,,,,,Steel,,,None,Duck foot,Glowing Barred Window,Green Barred Window,,,,,
+73,7,1407,73.63,https://magiceden.io/item-details/CPUjqidDjuLX1NjXECdTvPkuro6XXVNW6bMFtuMJWzSX,,Bucket,,,,,Pest,,,Siren,None,Glowing Barred Window,Green Window,,,,,
+102,7.3,1142,73.91,https://magiceden.io/item-details/5b7f3qwG6QLeeduiNF57u6zGkKN5SSxm92MS23okZJFp,,Fancy Bucket,,,,,Hatch,,,Siren,Duck foot,Glowing Light,Green Window,,,,,
 117,45.1,756,0,https://magiceden.io/item-details/AB4NjxXct2R1y3mTBkkfN3pAX4VQcoVPGWfAu6FjjGeS,Outskirts,Fancy Bucket,,,,,Steel,,,Steel Chimney,Drainage Pipe,Glowing Window,Green Barred Window,,,,,
-151,6.89,2608,57.91,https://magiceden.io/item-details/F3FEKzNmAFxkHRP68mQvMiUs6yvq2eQbZs1WhfL9jBcP,,Fine Bucket,,,,,Pest,,,None,Duck foot,None,None,,,,,
-215,10,1784,36.98,https://magiceden.io/item-details/3kKxSvdCM2A8QdqvAiQJ1w7MZspteb7JMbRYjezGaDDr,,Fine Bucket,,,,,Hatch,,,None,Scrap Drainage Pipe,Glowing Barred Window,None,,,,,
-237,8.89,529,63.57,https://magiceden.io/item-details/CAHAqTUyqJ8MzaY3SxWdkQZmakbUpVmhoemHTwYTzjK6,Outskirts,Fancy Bucket,,,,,Watcher,,,Steel Chimney,Scrap Drainage Pipe,Glowing Window,Green Window,,,,,
-304,7.78,1484,62.88,https://magiceden.io/item-details/2WzFBwc2PdXXKD2euikB1j5vHeUyZzMSagjxmZWoVD5y,,Fine Bucket,,,,,Pest,,,Steel Chimney,Duck foot,None,Green Barred Window,,,,,
-374,7.09,2815,53.36,https://magiceden.io/item-details/Dbmqj8aAE7t5iy2feVZHM8qJWeYLpMrZgmUVy1mS8rkt,,Fancy Reinforced Trap House,,,,,Wood,,,Telescope,Amethyst Window,None,,,,,,
-403,9.89,3218,20.38,https://magiceden.io/item-details/76tTcyR24VQJPVxSLyCqGmY74ZniyURYYTXX5n5GLhfL,Outskirts,Trap House,,,,,Steel,,,Drainage Pipe,None,Plumbing,,,,,,
-467,5.95,2869,64.09,https://magiceden.io/item-details/6oSofnkPDTM7vQvyZcWE2KZaJtqHrYqnexVt5JAj4SRS,,Reinforced Trap House,,,,,Wood,,,None,Barred Window,Plumbing,,,,,,
-591,6.35,2079,69.84,https://magiceden.io/item-details/GVPUL6T1AWGvoXPuU72UDZbqczdZkE1H5NsJUuJWZ7cv,,Fancy Reinforced Trap House,,,,,Wood,,,Telescope,Amethyst Window,Duck Foot,,,,,,
-629,8.9,2708,36.58,https://magiceden.io/item-details/BPZ8YSWJkQyrjnVknSFAeCoxky9cc2hU8gkTGCfezCmA,,Fancy Reinforced Trap House,,,,,Steel,,,Drainage Pipe,Barred Window,Duck Foot,,,,,,
-691,9.5,2865,28.64,https://magiceden.io/item-details/8UdTq4EzEvsnjdKfUbD72J5G9MVHXy3ZCM4im1h87PrU,,Fancy Reinforced Trap House,,,,,Open,,,Telescope,None,Duck Foot,,,,,,
-752,7,2497,58.18,https://magiceden.io/item-details/Hsz9vTTUGrUvKLXQC9Hqahnm36dQGVUxVsqJ2JbwGznX,,Crushed Toxic Waste Barrel,,,,,Open,,,None,Vent,Vent,,,,,,
-857,6.9,3216,50.31,https://magiceden.io/item-details/BZZ3M23KjqhpYeRUwAaUZvXvfyGvgLGAP8JJoxVSDr6,Outskirts,Toxic Waste Site,,,,,Hatch,,,Vent,None,None,,,,,,
-913,7.09,2156,61.49,https://magiceden.io/item-details/GcUYxPrdQ6faj6FDrRsqavh5u4dG7k2EBqyz8TPCUMg3,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Roof Vent,Glowing Light,Glowing Light,,,,,,
-946,6.55,2332,64.72,https://magiceden.io/item-details/As68RTrdgSpT9XzUqkPjNhDMUpXkP7eiwkpyN4VQBywU,,Toxic Waste Site,,,,,Steel,,,Scrap Chimney,Glowing Light,Vent,,,,,,
-979,6.9,2271,61.97,https://magiceden.io/item-details/Btyy94LsR8dXQvWBiVDpLK1Sj9dxFh9DyKseDL46cekm,Go to Shill City,Toxic Waste Barrel,,,,,Open,,,Scrap Chimney,Glowing Light,Glowing Light,,,,,,
-982,6.9,3241,50,https://magiceden.io/item-details/BuFEeJMC25WRLD1iPSMHDSUQ3F2WvkaG6CX9FBXMguCa,,Toxic Waste Site,,,,,Open,,,None,None,Vent,,,,,,
-1039,6.2,2930,60.84,https://magiceden.io/item-details/6NkDiw1aP7RZBBRagFbiAMRMYvKG9jdA2srFpmjo7zB4,,Toxic Waste Site,,,,,Steel,,,None,Pest,Vent,,,,,,
-1101,8.2,1104,63.37,https://magiceden.io/item-details/EPdXo6UfCzjP9gGPPRq3pekyFapvXeSSPShaiQZkLjew,,Coral Emerald,,,,Rust,Pest,,,,,,,,,None,Blue Invader,
+151,6.89,2608,59.91,https://magiceden.io/item-details/F3FEKzNmAFxkHRP68mQvMiUs6yvq2eQbZs1WhfL9jBcP,,Fine Bucket,,,,,Pest,,,None,Duck foot,None,None,,,,,
+185,6.1,1925,76.24,https://magiceden.io/item-details/AcihvLWrtbACpCooFEhvqgJrzSw3SC7rk9E4CdEciL4T,Outskirts,Fine Bucket,,,,,Steel,,,Steel Chimney,Scrap Drainage Pipe,None,Green Window,,,,,
+215,10,1784,38.98,https://magiceden.io/item-details/3kKxSvdCM2A8QdqvAiQJ1w7MZspteb7JMbRYjezGaDDr,,Fine Bucket,,,,,Hatch,,,None,Scrap Drainage Pipe,Glowing Barred Window,None,,,,,
+237,8.89,529,65.57,https://magiceden.io/item-details/CAHAqTUyqJ8MzaY3SxWdkQZmakbUpVmhoemHTwYTzjK6,Outskirts,Fancy Bucket,,,,,Watcher,,,Steel Chimney,Scrap Drainage Pipe,Glowing Window,Green Window,,,,,
+304,7.78,1484,64.88,https://magiceden.io/item-details/2WzFBwc2PdXXKD2euikB1j5vHeUyZzMSagjxmZWoVD5y,,Fine Bucket,,,,,Pest,,,Steel Chimney,Duck foot,None,Green Barred Window,,,,,
+374,7.09,2815,55.36,https://magiceden.io/item-details/Dbmqj8aAE7t5iy2feVZHM8qJWeYLpMrZgmUVy1mS8rkt,,Fancy Reinforced Trap House,,,,,Wood,,,Telescope,Amethyst Window,None,,,,,,
+403,9.89,3218,22.38,https://magiceden.io/item-details/76tTcyR24VQJPVxSLyCqGmY74ZniyURYYTXX5n5GLhfL,Outskirts,Trap House,,,,,Steel,,,Drainage Pipe,None,Plumbing,,,,,,
+591,6.35,2079,71.84,https://magiceden.io/item-details/GVPUL6T1AWGvoXPuU72UDZbqczdZkE1H5NsJUuJWZ7cv,,Fancy Reinforced Trap House,,,,,Wood,,,Telescope,Amethyst Window,Duck Foot,,,,,,
+691,9.5,2865,30.64,https://magiceden.io/item-details/8UdTq4EzEvsnjdKfUbD72J5G9MVHXy3ZCM4im1h87PrU,,Fancy Reinforced Trap House,,,,,Open,,,Telescope,None,Duck Foot,,,,,,
+752,7,2497,60.18,https://magiceden.io/item-details/Hsz9vTTUGrUvKLXQC9Hqahnm36dQGVUxVsqJ2JbwGznX,,Crushed Toxic Waste Barrel,,,,,Open,,,None,Vent,Vent,,,,,,
+853,6.5,3139,57.26,https://magiceden.io/item-details/4xVJi2aE5irfg8jiT2pHcHvQLviZemVx8qycuRhbKuFb,Go to Shill City,Toxic Waste Site,,,,,Wooden,,,None,None,Vent,,,,,,
+857,6.9,3216,52.31,https://magiceden.io/item-details/BZZ3M23KjqhpYeRUwAaUZvXvfyGvgLGAP8JJoxVSDr6,Outskirts,Toxic Waste Site,,,,,Hatch,,,Vent,None,None,,,,,,
+913,7.09,2156,63.49,https://magiceden.io/item-details/GcUYxPrdQ6faj6FDrRsqavh5u4dG7k2EBqyz8TPCUMg3,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Roof Vent,Glowing Light,Glowing Light,,,,,,
+946,6.55,2332,66.72,https://magiceden.io/item-details/As68RTrdgSpT9XzUqkPjNhDMUpXkP7eiwkpyN4VQBywU,,Toxic Waste Site,,,,,Steel,,,Scrap Chimney,Glowing Light,Vent,,,,,,
+979,6.9,2271,63.97,https://magiceden.io/item-details/Btyy94LsR8dXQvWBiVDpLK1Sj9dxFh9DyKseDL46cekm,Go to Shill City,Toxic Waste Barrel,,,,,Open,,,Scrap Chimney,Glowing Light,Glowing Light,,,,,,
+982,6.9,3241,52,https://magiceden.io/item-details/BuFEeJMC25WRLD1iPSMHDSUQ3F2WvkaG6CX9FBXMguCa,,Toxic Waste Site,,,,,Open,,,None,None,Vent,,,,,,
+1039,6.2,2930,62.84,https://magiceden.io/item-details/6NkDiw1aP7RZBBRagFbiAMRMYvKG9jdA2srFpmjo7zB4,,Toxic Waste Site,,,,,Steel,,,None,Pest,Vent,,,,,,
+1101,8.2,1104,65.37,https://magiceden.io/item-details/EPdXo6UfCzjP9gGPPRq3pekyFapvXeSSPShaiQZkLjew,,Coral Emerald,,,,Rust,Pest,,,,,,,,,None,Blue Invader,
 1146,21,880,0,https://magiceden.io/item-details/D1vTb1rGX134Ta4onuT5Vxb2Tc9UK8gXQL3eLe2UN7Gq,,Coral Amethyst,,,,Rust,Red,,,,,,,,,Purple,Blue Invader,
-1148,7.5,1328,67.61,https://magiceden.io/item-details/Cs7HxLD7gPF6iuZzWTokZaVgtdDrskPmgFMRHk1WQhpA,,Coral Emerald,,,,Scrap,Open,,,,,,,,,Red,Red Invader,
-1285,8,876,68.19,https://magiceden.io/item-details/8AfcxEkcqpGha39W3z4ReocZ8CNAnH6gYhnqZb8QxBSZ,,Coral Ruby,,,,Scrap,Open,,,,,,,,,None,Red Window,
-1332,6.83,1481,72.42,https://magiceden.io/item-details/Cj94fvKmEtbWsZT9W3EVNW2EfqTGdUdUjR8xJGywB8Pi,,Coral Shroom Top,,,,Steel,Wood,,,,,,,,,Red,Yellow Window,
-1382,6.89,921,78.73,https://magiceden.io/item-details/2xtzTnntoTMim5314ZyaegBWF7RTKLvLXhWnQHExddD6,,Coral balanced,,,,Rust,Red,,,,,,,,,Blue,Yellow Window,
-1428,8.95,264,66.24,https://magiceden.io/item-details/8eJSviXdKa3Hou4yJGoL1fkcytsxHVuTf7rLrfHRu8bm,,,,,,,Open Red Door,Crested Volcanic Head,Jade Thick,,,,,,Blue,,,Purple
-1444,10,351,54.67,https://magiceden.io/item-details/4Bj1JQenLHrrYwLwMpH2EGEESMit55PPBujSgo8AYUvh,,,,,,,Pest,Volcanic Head,Jade,,,,,,Purple,,,Green
-1446,8.42,246,71.76,https://magiceden.io/item-details/HZdDyZwACrtXxb6qYw345dirBiemi3D9yVpJXBA4mBKj,,,,,,,Open Blue Door,Crested Slate Head,Jade Thick,,,,,,Red,,,Green
+1148,7.5,1328,69.61,https://magiceden.io/item-details/Cs7HxLD7gPF6iuZzWTokZaVgtdDrskPmgFMRHk1WQhpA,,Coral Emerald,,,,Scrap,Open,,,,,,,,,Red,Red Invader,
+1285,8,876,70.19,https://magiceden.io/item-details/8AfcxEkcqpGha39W3z4ReocZ8CNAnH6gYhnqZb8QxBSZ,,Coral Ruby,,,,Scrap,Open,,,,,,,,,None,Red Window,
+1332,6.83,1481,74.42,https://magiceden.io/item-details/Cj94fvKmEtbWsZT9W3EVNW2EfqTGdUdUjR8xJGywB8Pi,,Coral Shroom Top,,,,Steel,Wood,,,,,,,,,Red,Yellow Window,
+1382,6.89,921,80.73,https://magiceden.io/item-details/2xtzTnntoTMim5314ZyaegBWF7RTKLvLXhWnQHExddD6,,Coral balanced,,,,Rust,Red,,,,,,,,,Blue,Yellow Window,
+1428,8.95,264,68.24,https://magiceden.io/item-details/8eJSviXdKa3Hou4yJGoL1fkcytsxHVuTf7rLrfHRu8bm,,,,,,,Open Red Door,Crested Volcanic Head,Jade Thick,,,,,,Blue,,,Purple
+1444,10,351,56.67,https://magiceden.io/item-details/4Bj1JQenLHrrYwLwMpH2EGEESMit55PPBujSgo8AYUvh,,,,,,,Pest,Volcanic Head,Jade,,,,,,Purple,,,Green
+1446,8.42,246,73.76,https://magiceden.io/item-details/HZdDyZwACrtXxb6qYw345dirBiemi3D9yVpJXBA4mBKj,,,,,,,Open Blue Door,Crested Slate Head,Jade Thick,,,,,,Red,,,Green
 1447,40,35,0,https://magiceden.io/item-details/3H4yEaZbx4nu7LCqrNUPVRHy4hHYproLaTv1wRbLrb86,,,,,,,Decorated Door,Slate Head,Slate Thick,,,,,,None,,,Green
-1469,15.6969,139,0.32,https://magiceden.io/item-details/2oigdZKredz4YPLdipHNEd2hW6GANG6Nmi8v1C9nPqtZ,The Back Wall,,,,,,Open Red Door,Crested Jade,Topaz,,,,,,None,,,Purple
-1474,9.9,101,58.75,https://magiceden.io/item-details/8DS8EtUrwwRGYHTpPEvuFbyn9uSVAcPkwXWA9fBLuh2f,,,,,,,Open Blue Door,Volcanic Head,Volcanic,,,,,,Blue,,,Purple
-1475,11,126,47.44,https://magiceden.io/item-details/EHTbSrQ8YbDy6LxDGviBtyHqR63hzEEvFsM2QFYKnbhh,,,,,,,Open Red Door,Volcanic Head,Jade,,,,,,Blue,,,Green
+1469,15.6969,139,2.32,https://magiceden.io/item-details/2oigdZKredz4YPLdipHNEd2hW6GANG6Nmi8v1C9nPqtZ,The Back Wall,,,,,,Open Red Door,Crested Jade,Topaz,,,,,,None,,,Purple
+1474,9.9,101,60.75,https://magiceden.io/item-details/8DS8EtUrwwRGYHTpPEvuFbyn9uSVAcPkwXWA9fBLuh2f,,,,,,,Open Blue Door,Volcanic Head,Volcanic,,,,,,Blue,,,Purple
+1475,11,126,49.44,https://magiceden.io/item-details/EHTbSrQ8YbDy6LxDGviBtyHqR63hzEEvFsM2QFYKnbhh,,,,,,,Open Red Door,Volcanic Head,Jade,,,,,,Blue,,,Green
 1496,20,49,0,https://magiceden.io/item-details/EY1WVqtvekhVzgUTZPvwgXwNhrnNHiunqnf77i2k4Nr3,,,,,,,Open Blue Door,Crested Slate Head,Topaz,,,,,,Blue,,,Green
-1512,10,362,54.53,https://magiceden.io/item-details/H42c3UAkohHv6vtBPvvMWGvLrXasggzY8yJiE5SGp7jh,,,,,,,Pest,Volcanic Head,Slate,,,,,,Blue,,,Green
-1529,14.2069,184,14.66,https://magiceden.io/item-details/8gGKfykHE5wNouUTR7xz2ssUr9q31Mx4wJps8knqPyvE,The Back Wall,,,,,,Decorated Door,Crested Slate Head,Slate,,,,,,Blue,,,Purple
-1535,9.99,214,56.46,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
-1573,9.75,424,56.27,https://magiceden.io/item-details/E2EU5aYoqCsftBJNFmhLaYWqUA2DrECP43bQ58UL7StY,,,,,,,Pest,Crested Slate Head,Jade Thick,,,,,,Blue,,,Purple
-1582,9.5,229,61.17,https://magiceden.io/item-details/CFKfHbgGsS77WYN1M2cg1f5LTZ6QnPqQpRaXoWtHqGah,The Back Wall,,,,,,Red Door,Slate Head,Ruby,,,,,,Blue,,,Red
-1602,8.99,38,68.63,https://magiceden.io/item-details/NRRgAxEUA7b4Xw5SPgxDULfwabK22esb9y9GSeY9PpZ,,,,,,,Open Blue Door,Jade Head,Slate,,,,,,None,,,Purple
+1512,10,362,56.53,https://magiceden.io/item-details/H42c3UAkohHv6vtBPvvMWGvLrXasggzY8yJiE5SGp7jh,,,,,,,Pest,Volcanic Head,Slate,,,,,,Blue,,,Green
+1529,14.2069,184,16.66,https://magiceden.io/item-details/8gGKfykHE5wNouUTR7xz2ssUr9q31Mx4wJps8knqPyvE,The Back Wall,,,,,,Decorated Door,Crested Slate Head,Slate,,,,,,Blue,,,Purple
+1535,9.99,214,58.46,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
+1573,9.75,424,58.27,https://magiceden.io/item-details/E2EU5aYoqCsftBJNFmhLaYWqUA2DrECP43bQ58UL7StY,,,,,,,Pest,Crested Slate Head,Jade Thick,,,,,,Blue,,,Purple
+1582,9.5,229,63.17,https://magiceden.io/item-details/CFKfHbgGsS77WYN1M2cg1f5LTZ6QnPqQpRaXoWtHqGah,The Back Wall,,,,,,Red Door,Slate Head,Ruby,,,,,,Blue,,,Red
+1602,8.99,38,70.63,https://magiceden.io/item-details/NRRgAxEUA7b4Xw5SPgxDULfwabK22esb9y9GSeY9PpZ,,,,,,,Open Blue Door,Jade Head,Slate,,,,,,None,,,Purple
 1609,80,2,0,https://magiceden.io/item-details/3Y1frooxwjCb9uZByqJAicKNj5v9GVpXTzTGNuJmU4j9,,,,,,,Open Red Door,Crested Volcanic Head,Emerald,,,,,,Red,,,Purple
 1647,40,24,0,https://magiceden.io/item-details/4BghdmHUeFYjsYmUwsTqaLsohDQY9uZDZrry7nm8CuAg,,,,,,,Open Red Door,Jade Head,Topaz,,,,,,None,,,Green
-1678,7,368,84.46,https://magiceden.io/item-details/4KAXikL9REfxnbijWjxHKyaEq9HeEa4JVTFepe1YjNUC,,,,,,,Pest,Crested Jade,Slate Thick,,,,,,Purple,,,Red
+1678,7,368,86.46,https://magiceden.io/item-details/4KAXikL9REfxnbijWjxHKyaEq9HeEa4JVTFepe1YjNUC,,,,,,,Pest,Crested Jade,Slate Thick,,,,,,Purple,,,Red
 1699,20,60,0,https://magiceden.io/item-details/9uM6ywADDwTgyHFwFEpKaEUY9Nr9c5PttLNqsR3Ht4Wj,,,,,,,Decorated Door,Crested Slate Head,Slate Thick,,,,,,Blue,,,Purple
 1712,20,55,0,https://magiceden.io/item-details/82TXz6U8EcpdGv4ZdYKZCbZYMsTJ6ZnZpRhDMMtbJ5wJ,,,,,,,Open Blue Door,Jade Head,Ruby,,,,,,None,,,Purple
-1720,8.5,95,72.83,https://magiceden.io/item-details/EHbkk1vr5ZToZ1eYHXcFoXPzuq8HdR4DUsETQGCJ32PL,,,,,,,Open Blue Door,Jade Head,Ruby,,,,,,Blue,,,Red
-1721,7.8,128,79.42,https://magiceden.io/item-details/75kTchzVBaAjSNkUMQyifQr2RvwZc9bwtzeUvmYvcPxk,,,,,,,Open Blue Door,Crested Jade,Jade,,,,,,Purple,,,Purple
-1725,13,41,28.49,https://magiceden.io/item-details/3GeWgYKAoGWNsTe325gW7XDQhTpn5TbEE4gP7Jhxi9PT,,,,,,,Open Red Door,Crested Jade,None,,,,,,Blue,,,Purple
+1720,8.5,95,74.83,https://magiceden.io/item-details/EHbkk1vr5ZToZ1eYHXcFoXPzuq8HdR4DUsETQGCJ32PL,,,,,,,Open Blue Door,Jade Head,Ruby,,,,,,Blue,,,Red
+1721,7.8,128,81.42,https://magiceden.io/item-details/75kTchzVBaAjSNkUMQyifQr2RvwZc9bwtzeUvmYvcPxk,,,,,,,Open Blue Door,Crested Jade,Jade,,,,,,Purple,,,Purple
+1725,13,41,30.49,https://magiceden.io/item-details/3GeWgYKAoGWNsTe325gW7XDQhTpn5TbEE4gP7Jhxi9PT,,,,,,,Open Red Door,Crested Jade,None,,,,,,Blue,,,Purple
 1729,22,10,0,https://magiceden.io/item-details/CxG9e5GDDAZqwqd4fUeVLUabhZjzKc3L8FrJ1467Bd7P,The Back Wall,,,,,,Decorated Door,Slate Head,Emerald,,,,,,Purple,,,Red
-1743,9.5,234,61.11,https://magiceden.io/item-details/2N427nSf3zmaQkYWX9iXaPGdfZsu2Yq9R6qx1qv1bu9a,,,,,,,Open Red Door,Volcanic Head,Volcanic Thick,,,,,,Purple,,,Red
-1747,10,138,57.3,https://magiceden.io/item-details/5DBwEePgEFaRE48zfJXyfYhFfDEotK5TMgPXney1xVMa,The Back Wall,,,,,,Red Door,Volcanic Head,Topaz,,,,,,Purple,,,Green
+1743,9.5,234,63.11,https://magiceden.io/item-details/2N427nSf3zmaQkYWX9iXaPGdfZsu2Yq9R6qx1qv1bu9a,,,,,,,Open Red Door,Volcanic Head,Volcanic Thick,,,,,,Purple,,,Red
+1747,10,138,59.3,https://magiceden.io/item-details/5DBwEePgEFaRE48zfJXyfYhFfDEotK5TMgPXney1xVMa,The Back Wall,,,,,,Red Door,Volcanic Head,Topaz,,,,,,Purple,,,Green
 1792,15,1425,0,https://magiceden.io/item-details/CBJKvYmxuxYypSvSP6Q7T3A1C9ErWJvdS7X8qAy5jG6t,,Bare Pineapple,,,,Steel,Red,,,,,,,,,Blue,Right Eye,
-1836,7.09,1755,66.44,https://magiceden.io/item-details/9TbS5pdJCbGPmjTmofCimrdDahxUKsg2PXm7vZ5ZAjoF,,Fresh Pineapple,,,,Steel,Wooden,,,,,,,,,Blue,Right Eye,
+1836,7.09,1755,68.44,https://magiceden.io/item-details/9TbS5pdJCbGPmjTmofCimrdDahxUKsg2PXm7vZ5ZAjoF,,Fresh Pineapple,,,,Steel,Wooden,,,,,,,,,Blue,Right Eye,
 1839,24,1553,0,https://magiceden.io/item-details/CWCp1sgUHkFif7bFbakWwZX4yPTXDEsQRniMj7QAn1s4,,The King's Crown Pineapple,,,,Steel,Pest,,,,,,,,,Blue,Right Eye,
 1867,30,1112,0,https://magiceden.io/item-details/8JfpVXRK6MKu3QgkGmzePHCiNsTfccg5PBP6Sfguxmcc,,The King's Crown Pineapple,,,,Steel,Wooden,,,,,,,,,Purple,Right Eye,
-1881,7.95,1036,66.71,https://magiceden.io/item-details/4Kqe43YfkbdJM6rTyxd3bNbvoefAwzpwyzEYTt5ymSk4,,Bare Pineapple,,,,None,Wooden,,,,,,,,,None,Eyes,
-1892,7.77,2172,54.49,https://magiceden.io/item-details/6rswGiK2FPFC8DH7517MZ5g7as1B66WsFGkb7g5w5kqP,,Fresh Pineapple,,,,Steel,Steel,,,,,,,,,Purple,Right Eye,
+1881,7.95,1036,68.71,https://magiceden.io/item-details/4Kqe43YfkbdJM6rTyxd3bNbvoefAwzpwyzEYTt5ymSk4,,Bare Pineapple,,,,None,Wooden,,,,,,,,,None,Eyes,
+1892,7.77,2172,56.49,https://magiceden.io/item-details/6rswGiK2FPFC8DH7517MZ5g7as1B66WsFGkb7g5w5kqP,,Fresh Pineapple,,,,Steel,Steel,,,,,,,,,Purple,Right Eye,
 1898,15,919,0,https://magiceden.io/item-details/Gqzobo4Hb4y237fvH8EnbxCicHVi56yXpVBXVa2k75Ew,,The King's Crown Pineapple,,,,Rust,Pest,,,,,,,,,None,Single Eye,
-1908,7.09,1038,75.29,https://magiceden.io/item-details/5sLbR2EWGkaLj3eEkBtxLACZQuuWQYNGBTyPB3ZechLi,The Back Wall,Fresh Pineapple,,,,Steel,Festive,,,,,,,,,Purple,Single Eye,
-1917,6.6,1777,71.07,https://magiceden.io/item-details/9UpfYoU9Ay4RLkwJd18EDxbqVDYAjYN2hZUZTz6CkQQ7,Long Valley Nights,Fresh Pineapple,,,,Scrap,Pest,,,,,,,,,Blue,Right Eye,
-1969,9.2,1969,42.7,https://magiceden.io/item-details/FUpJVRAG5GpoGSQThENiZaFYgSpmUbzFNW7gNHgyjvY5,Long Valley Nights,Fresh Pineapple,,,,Rust,Steel,,,,,,,,,Purple,Left Eye,
-1973,7.42,973,72.79,https://magiceden.io/item-details/8t3vJyyXJFd2Na8KDWQuC4yTJDL3jHKSe9gTa6M6moiC,,Silver Crown Pineapple,,,,Steel,Festive,,,,,,,,,Red,Right Eye,
+1908,7.09,1038,77.29,https://magiceden.io/item-details/5sLbR2EWGkaLj3eEkBtxLACZQuuWQYNGBTyPB3ZechLi,The Back Wall,Fresh Pineapple,,,,Steel,Festive,,,,,,,,,Purple,Single Eye,
+1917,6.6,1777,73.07,https://magiceden.io/item-details/9UpfYoU9Ay4RLkwJd18EDxbqVDYAjYN2hZUZTz6CkQQ7,Long Valley Nights,Fresh Pineapple,,,,Scrap,Pest,,,,,,,,,Blue,Right Eye,
+1969,9.2,1969,44.7,https://magiceden.io/item-details/FUpJVRAG5GpoGSQThENiZaFYgSpmUbzFNW7gNHgyjvY5,Long Valley Nights,Fresh Pineapple,,,,Rust,Steel,,,,,,,,,Purple,Left Eye,
+1973,7.42,973,74.79,https://magiceden.io/item-details/8t3vJyyXJFd2Na8KDWQuC4yTJDL3jHKSe9gTa6M6moiC,,Silver Crown Pineapple,,,,Steel,Festive,,,,,,,,,Red,Right Eye,
 1987,32,1626,0,https://magiceden.io/item-details/AdWvtF6XuGRwPmKKJPKUoKCJjkCFGb3Ey3uV79xb1jed,,The King's Crown Pineapple,,,,Steel,Steel,,,,,,,,,Purple,Single Eye,
 2005,18.9,941,0,https://magiceden.io/item-details/ALQi2fWzuT3iWnjLzsRd2FYHuDvfZe82ejXWcWHviMMK,City View,Fresh Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Single Eye,
 2042,16,1681,0,https://magiceden.io/item-details/ESL5ineAfcNhGjvR7MtyshBXx8Po669ftS4aZKjQ8Kgp,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,Red,Right Eye,
-2140,6.88,1629,70.1,https://magiceden.io/item-details/536ZYbzsMB1diHcNMyRfCjPUyZFJsxMKP3RmCm8db3Wo,,Submarine Watchtower,,,,,Pest,,,Telescope,Barred Window,Drainage Pipe,Green Light,,,,,
-2162,6.1,1585,78.44,https://magiceden.io/item-details/DEAMHC4QtHwZnnHXEHRv1DeBXBYSxQ2tCsDs1xTQxZE1,Shill City Metro,Submarine,,,,,Fine,,,None,Window,Drainage Pipe,Green Light,,,,,
-2204,6.9,1859,67.06,https://magiceden.io/item-details/6Lxo7PeBKMp8A4RZDqq7Rvf6PdTf4hiQbgmkkgaX28wx,,Submarine Watchtower,,,,,Pest,,,Telescope,Fine,None,Green Light,,,,,
+2140,6.88,1629,72.1,https://magiceden.io/item-details/536ZYbzsMB1diHcNMyRfCjPUyZFJsxMKP3RmCm8db3Wo,,Submarine Watchtower,,,,,Pest,,,Telescope,Barred Window,Drainage Pipe,Green Light,,,,,
+2204,6.9,1859,69.06,https://magiceden.io/item-details/6Lxo7PeBKMp8A4RZDqq7Rvf6PdTf4hiQbgmkkgaX28wx,,Submarine Watchtower,,,,,Pest,,,Telescope,Fine,None,Green Light,,,,,
 2256,20,847,0,https://magiceden.io/item-details/3U46uM2jP4Ni4GGvSo4h3fpCtKoU1pYHNjgzQHiNRwR2,Shill City Ghetto,Reinforced Submarine,,,,,Bubble,,,Drainage Pipe,Window,Chimney,Blue Light,,,,,
-2318,6,2682,65.9,https://magiceden.io/item-details/58hvcSMh3pJiYRGD17NkwFsYNvtEDSE2YehCyiPTSXNU,Shill City Metro,Submarine,,,,,Steel,,,None,Barred Window,Drainage Pipe,None,,,,,
-2400,6.6,2432,62.98,https://magiceden.io/item-details/qqV7qDpeZWQK13nFNHGMqbRvti4ATwJCQRdkiHNaVB3,Shill City Ghetto,Submarine,,,,,Fine,,,None,Barred Window,None,Blue Light,,,,,
-2433,14,1052,6.02,https://magiceden.io/item-details/Ev4EAmEn7pMD1V35n3ZmFcja5b5qGCmuo7MuZy6ngir3,Shill City Metro,Submarine Watchtower,,,,,Bubble,,,Drainage Pipe,Barred Window,Chimney,None,,,,,
-2448,7,2152,62.44,https://magiceden.io/item-details/23PByRZ75YJNmVie2xoLZE5j3SbgvEkJE5KDQUDUVfFa,,Reinforced Submarine,,,,,Steel,,,None,Window,Drainage Pipe,Green Light,,,,,
-2457,13,1649,8.65,https://magiceden.io/item-details/9QmdkY93MbdawTJQq2L7w8DGq2i55d8AKSf3gSTWr2PJ,,Submarine Watchtower,,,,,Open,,,Telescope,Window,Chimney,Blue Light,,,,,
-2521,5.9,2833,65.04,https://magiceden.io/item-details/5sGAaLqF8WZ8Pn2yhvcCQJFXfZnnnbY3MzCZfhbkmfj7,Shill City Metro,Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,None,,,,,,
-2533,6.9,2344,61.07,https://magiceden.io/item-details/G7xbPMcCR67wq75FxGgNJYA2up1a9cCXwRE7PUjArwDq,,Scrap House,,,,,Hatch,,,Capped Roof,Driftwood Roof,Dive Bar Sign,,,,,,
-2539,7.1,2690,54.8,https://magiceden.io/item-details/3PSfeodmjDUnnJ3vfbsG5Ggx278ySvrcDnQWtBdg2cTn,Shill City Ghetto,Scrap House,,,,,Steel,,,Pot Lid,Driftwood Roof,Casino Sign,,,,,,
-2577,7.77,3204,41.76,https://magiceden.io/item-details/8UodGyQ7oyTCnaMxwkEBETixJiyKv4A63oMTpGeQnKPF,Shill City Ghetto,Scrap House,,,,,Steel,,,Pot Lid,None,Sewage Drain,,,,,,
-2703,7.09,3107,49.75,https://magiceden.io/item-details/98wueguUWnhDq86gFFs4iMKapH8gaf5U7NNqpzyfMQQz,,Fine Scrap House,,,,,Steel,,,Pot Lid,None,Sewage Drain,,,,,,
-2728,7.5,2510,53.02,https://magiceden.io/item-details/4PyxH4kEoPvyepkC2zHnrxa41hGUb1cF24283UXFFJD5,,Fine Scrap House,,,,,Steel,,,Capped Roof,Turtle Shell Roof,Sewage Drain,,,,,,
-2735,10,2129,32.72,https://magiceden.io/item-details/5YtCzzY5wju8UHSPrkcRGLq5qLdHbgFCh5cpTEqirHAa,,Fancy Scrap House,,,,,Hatch,,,Capped Roof,Fancy Roof,Dive Bar Sign,,,,,,
-2767,9,2365,39.81,https://magiceden.io/item-details/6TGhab4hcirmZznNUYfMmNbN1DPhUaDiv5qSJsRvvFGX,Shill City Metro,Fine Scrap House,,,,,Green,,,None,Driftwood Roof,Dive Bar Sign,,,,,,
-2807,6.21,2157,70.28,https://magiceden.io/item-details/4euvx64ssWBt3SXy9nuGcpV5nbkaV7NQ88A4F2hQzHvz,,Fancy Scrap House,,,,,Steel,,,Capped Roof,Turtle Shell Roof,Dive Bar Sign,,,,,,
-2825,14,402,14.04,https://magiceden.io/item-details/6hxn3nNNhSewery79sNp7oCubBmV2ng732EkSkSoXznQ,Shill City Metro,Chest,None,Barred Window,Blue Window,,Fine,,,Drain Pipe,,,,,,,,
-2835,6.6,1102,79.4,https://magiceden.io/item-details/jWN6bLDZQB52BtpsRN8oxpCyXrje7Gn4c9QxsWmUPTV,,Chest 2,Black Jack,Green Window,Barred Window,,Steel,,,Telescope,,,,,,,,
-2838,10,1294,43.03,https://magiceden.io/item-details/FBr1vd5vUKmZ6dubwNYzNqvjLxyUgLuzaYoGXDtBWttM,,Chest,Black Jack,Pub Window,Barred Window,,Steel,,,None,,,,,,,,
-2846,7.09,549,81.32,https://magiceden.io/item-details/HKG27EvoqRZnoQoW7nQ251EcY7yGcQpxvc2k794nqXqp,,Chest 2,Restaurant,Green Window,Blue Window,,Hatch,,,Chimney,,,,,,,,
-2873,9.4,840,54.63,https://magiceden.io/item-details/HZVNYaeDw8rnHT1GgudJ3SyWEEwQGeVv4BwcZjdUzEhg,Shill City Ghetto,Chest 2,Black Jack,Barred Window,Blue Window,,Steel,,,Drain Pipe,,,,,,,,
-2898,7.69,408,77.06,https://magiceden.io/item-details/8rQVVmZg876eNZsd8KiSoAZe5pSWDmGkLNRJyCZywpoc,Shill City Metro,Chest 2,Black Jack,Barred Window,Pub Window,,Swinging Doors,,,Chimney,,,,,,,,
-2910,12.6942,557,25.18,https://magiceden.io/item-details/Fy22SF1CvvhwnDaNAHJcyPrpcgMBnd1XoPFFrzmGvRgt,Shill City Ghetto,Chest 2,Restaurant,None,Green Window,,Swinging Doors,,,None,,,,,,,,
-2943,7.35,389,80.7,https://magiceden.io/item-details/Eu9mjcS9Ke3SHuCpojbwPs44E3cx93ot51LipWQfY5Zc,Shill City Metro,Chest 2,None,Barred Window,Green Window,,Fine,,,Drain Pipe,,,,,,,,
-3130,14,692,10.46,https://magiceden.io/item-details/BFh5FWPNTd4bZktJnvLu4uFLzZnWeJiZjnXvt9EWGsSN,Shill City Ghetto,Chest 2,Saloon,Green Window,Blue Window,,Steel,,,Drain Pipe,,,,,,,,
-3135,6.79,381,86.4,https://magiceden.io/item-details/HE3Ph5MRHyWxB3aDsHb3HW7pKCGX8Cy7WSRReK9rBtrv,Shill City Metro,Chest 2,Saloon,Blue Window,Barred Window,,Swinging Doors,,,Chimney,,,,,,,,
+2400,6.6,2432,64.98,https://magiceden.io/item-details/qqV7qDpeZWQK13nFNHGMqbRvti4ATwJCQRdkiHNaVB3,Shill City Ghetto,Submarine,,,,,Fine,,,None,Barred Window,None,Blue Light,,,,,
+2433,14,1052,8.02,https://magiceden.io/item-details/Ev4EAmEn7pMD1V35n3ZmFcja5b5qGCmuo7MuZy6ngir3,Shill City Metro,Submarine Watchtower,,,,,Bubble,,,Drainage Pipe,Barred Window,Chimney,None,,,,,
+2448,7,2152,64.44,https://magiceden.io/item-details/23PByRZ75YJNmVie2xoLZE5j3SbgvEkJE5KDQUDUVfFa,,Reinforced Submarine,,,,,Steel,,,None,Window,Drainage Pipe,Green Light,,,,,
+2457,13,1649,10.65,https://magiceden.io/item-details/9QmdkY93MbdawTJQq2L7w8DGq2i55d8AKSf3gSTWr2PJ,,Submarine Watchtower,,,,,Open,,,Telescope,Window,Chimney,Blue Light,,,,,
+2533,6.9,2344,63.07,https://magiceden.io/item-details/G7xbPMcCR67wq75FxGgNJYA2up1a9cCXwRE7PUjArwDq,,Scrap House,,,,,Hatch,,,Capped Roof,Driftwood Roof,Dive Bar Sign,,,,,,
+2539,7.1,2690,56.8,https://magiceden.io/item-details/3PSfeodmjDUnnJ3vfbsG5Ggx278ySvrcDnQWtBdg2cTn,Shill City Ghetto,Scrap House,,,,,Steel,,,Pot Lid,Driftwood Roof,Casino Sign,,,,,,
+2577,7.77,3204,43.76,https://magiceden.io/item-details/8UodGyQ7oyTCnaMxwkEBETixJiyKv4A63oMTpGeQnKPF,Shill City Ghetto,Scrap House,,,,,Steel,,,Pot Lid,None,Sewage Drain,,,,,,
+2703,7.09,3107,51.75,https://magiceden.io/item-details/98wueguUWnhDq86gFFs4iMKapH8gaf5U7NNqpzyfMQQz,,Fine Scrap House,,,,,Steel,,,Pot Lid,None,Sewage Drain,,,,,,
+2728,7.5,2510,55.02,https://magiceden.io/item-details/4PyxH4kEoPvyepkC2zHnrxa41hGUb1cF24283UXFFJD5,,Fine Scrap House,,,,,Steel,,,Capped Roof,Turtle Shell Roof,Sewage Drain,,,,,,
+2735,10,2129,34.72,https://magiceden.io/item-details/5YtCzzY5wju8UHSPrkcRGLq5qLdHbgFCh5cpTEqirHAa,,Fancy Scrap House,,,,,Hatch,,,Capped Roof,Fancy Roof,Dive Bar Sign,,,,,,
+2767,9,2365,41.81,https://magiceden.io/item-details/6TGhab4hcirmZznNUYfMmNbN1DPhUaDiv5qSJsRvvFGX,Shill City Metro,Fine Scrap House,,,,,Green,,,None,Driftwood Roof,Dive Bar Sign,,,,,,
+2807,6.21,2157,72.28,https://magiceden.io/item-details/4euvx64ssWBt3SXy9nuGcpV5nbkaV7NQ88A4F2hQzHvz,,Fancy Scrap House,,,,,Steel,,,Capped Roof,Turtle Shell Roof,Dive Bar Sign,,,,,,
+2825,14,402,16.04,https://magiceden.io/item-details/6hxn3nNNhSewery79sNp7oCubBmV2ng732EkSkSoXznQ,Shill City Metro,Chest,None,Barred Window,Blue Window,,Fine,,,Drain Pipe,,,,,,,,
+2835,6.6,1102,81.4,https://magiceden.io/item-details/jWN6bLDZQB52BtpsRN8oxpCyXrje7Gn4c9QxsWmUPTV,,Chest 2,Black Jack,Green Window,Barred Window,,Steel,,,Telescope,,,,,,,,
+2838,10,1294,45.03,https://magiceden.io/item-details/FBr1vd5vUKmZ6dubwNYzNqvjLxyUgLuzaYoGXDtBWttM,,Chest,Black Jack,Pub Window,Barred Window,,Steel,,,None,,,,,,,,
+2846,7.09,549,83.32,https://magiceden.io/item-details/HKG27EvoqRZnoQoW7nQ251EcY7yGcQpxvc2k794nqXqp,,Chest 2,Restaurant,Green Window,Blue Window,,Hatch,,,Chimney,,,,,,,,
+2873,9.4,840,56.63,https://magiceden.io/item-details/HZVNYaeDw8rnHT1GgudJ3SyWEEwQGeVv4BwcZjdUzEhg,Shill City Ghetto,Chest 2,Black Jack,Barred Window,Blue Window,,Steel,,,Drain Pipe,,,,,,,,
+2898,7.69,408,79.06,https://magiceden.io/item-details/8rQVVmZg876eNZsd8KiSoAZe5pSWDmGkLNRJyCZywpoc,Shill City Metro,Chest 2,Black Jack,Barred Window,Pub Window,,Swinging Doors,,,Chimney,,,,,,,,
+2910,12.6942,557,27.18,https://magiceden.io/item-details/Fy22SF1CvvhwnDaNAHJcyPrpcgMBnd1XoPFFrzmGvRgt,Shill City Ghetto,Chest 2,Restaurant,None,Green Window,,Swinging Doors,,,None,,,,,,,,
+2943,7.35,389,82.7,https://magiceden.io/item-details/Eu9mjcS9Ke3SHuCpojbwPs44E3cx93ot51LipWQfY5Zc,Shill City Metro,Chest 2,None,Barred Window,Green Window,,Fine,,,Drain Pipe,,,,,,,,
+3130,14,692,12.46,https://magiceden.io/item-details/BFh5FWPNTd4bZktJnvLu4uFLzZnWeJiZjnXvt9EWGsSN,Shill City Ghetto,Chest 2,Saloon,Green Window,Blue Window,,Steel,,,Drain Pipe,,,,,,,,
+3135,6.79,381,88.4,https://magiceden.io/item-details/HE3Ph5MRHyWxB3aDsHb3HW7pKCGX8Cy7WSRReK9rBtrv,Shill City Metro,Chest 2,Saloon,Blue Window,Barred Window,,Swinging Doors,,,Chimney,,,,,,,,
 3182,250,1606,0,https://magiceden.io/item-details/FrLGhta8fHTcyFTqiTDUwiDiG59L5xnvnqJwS2ssVXu7,Shill City Metro,,,,,,,,,,,,,1/1,,,,
-3215,10,2358,29.9,https://magiceden.io/item-details/9Son3MHo8J5fE9Ey8Ps8hqDt2YeSCLgYyVgYm3rMbMW2,Shill City Ghetto,Scrap House,,,,,Steel,,,Balcony,Driftwood Roof,OG's Clubhouse Sign,,,,,,
+3215,10,2358,31.9,https://magiceden.io/item-details/9Son3MHo8J5fE9Ey8Ps8hqDt2YeSCLgYyVgYm3rMbMW2,Shill City Ghetto,Scrap House,,,,,Steel,,,Balcony,Driftwood Roof,OG's Clubhouse Sign,,,,,,
