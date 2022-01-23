@@ -24,13 +24,16 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 533,8.89,2901,54.9,https://magiceden.io/item-details/6BVGndNtAgNdoyaJRgEJPFuasJAbZobUXFo425icqdbf,,Reinforced Trap House,,,,,Wood,,,None,None,Duck Foot,,,,,,
 559,8.25,2549,65.57,https://magiceden.io/item-details/AzUdgBh3x9ikZk8BxzZVRD6W5hAgie2M9zu9jausu8j4,,Reinforced Trap House,,,,,Wood,,,Drainage Pipe,Skylight,None,,,,,,
 628,9.9,2991,43.71,https://magiceden.io/item-details/2fEDjkbLQAz9kEBBYCDdfgtJt5Bwihm4EXkhp7sCgain,,Fancy Trap House,,,,,Wood,,,Drainage Pipe,Barred Window,None,,,,,,
-629,8.99,2708,56.25,https://magiceden.io/item-details/BPZ8YSWJkQyrjnVknSFAeCoxky9cc2hU8gkTGCfezCmA,,Fancy Reinforced Trap House,,,,,Steel,,,Drainage Pipe,Barred Window,Duck Foot,,,,,,
+629,8.39,2708,62.25,https://magiceden.io/item-details/BPZ8YSWJkQyrjnVknSFAeCoxky9cc2hU8gkTGCfezCmA,,Fancy Reinforced Trap House,,,,,Steel,,,Drainage Pipe,Barred Window,Duck Foot,,,,,,
 673,10,2390,50,https://magiceden.io/item-details/7WjxFzjKzZFMGGrXbPspiWY2mV248y5crxtSiv84bcce,,Trap House,,,,,Wood,,,Pest,None,Duck Foot,,,,,,
+683,8,3203,60.14,https://magiceden.io/item-details/4d9V7WK5QVtvBsRyYwbqsnf8zAHrspmPKZQgjhS8nbUB,,Trap House,,,,,Open,,,Telescope,None,Plumbing,,,,,,
 685,11,2632,37.07,https://magiceden.io/item-details/7og82JDQkHfRHKXuwAUJxeqVTLom4mAb8ujzjiwgyWTT,,Trap House,,,,,Wood,,,Drainage Pipe,Barred Window,Duck Foot,,,,,,
 713,8.2,3252,57.55,https://magiceden.io/item-details/D1ZYyutnmcLp1cEELAgvXsia5SLLoVQa2f22H8SYwdpJ,,Trap House,,,,,Wood,,,Drainage Pipe,None,None,,,,,,
+736,8.2,3002,60.58,https://magiceden.io/item-details/D1JD85Xp9uU7oFnrWKev3F7VFm8c2Rpa1e4SWxUcwKva,,Toxic Waste Barrel,,,,,Steel,,,None,Glowing Window,Vent,,,,,,
+743,8.169,2910,62.01,https://magiceden.io/item-details/6qLGaqhKsuoQ3gjc8YamhmC4ahnGEvX3m9PYQJcAVTx5,Outskirts,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,Pest,None,,,,,,
 746,12,2393,29.97,https://magiceden.io/item-details/D3VRjwsFH5v3hY2TGCnMg16jZAhqeiQAvTYAqqubDAo5,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Vent,None,,,,,,
 806,10.2469,3288,36.64,https://magiceden.io/item-details/cfYKBbAkdF6HKMmXMphBw4wty8dcHL1LHM75NFiUjT6,,Toxic Waste Site,,,,,Steel,,,None,Glowing Window,None,,,,,,
-825,9.99,2984,42.9,https://magiceden.io/item-details/CfTqkSpWpUxicaM4oj7SsWg8JnT1EoPxPfiashMKyY8L,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,Window,Glowing Light,,,,,,
+875,8.5,3254,54.52,https://magiceden.io/item-details/DKAJkeNFwXHMcJvBN9rguRrHoAHM82uWBivnKA5x2dKK,,Toxic Waste Site,,,,,Wooden,,,None,Window,None,,,,,,
 937,10.9,2993,33.69,https://magiceden.io/item-details/2ik2MmNEN3GHLQriX8HokHhAkrhu4gTaVyWrQwmtkte5,,Toxic Waste Site,,,,,Wooden,,,None,Window,Vent,,,,,,
 1009,8.5,2893,58.9,https://magiceden.io/item-details/4z3kV72FUmEkbegxjt4CueakpbdWjH1sxx2Rw8PfRVEa,Go to Shill City,Toxic Waste Site,,,,,Steel,,,None,Vent,Vent,,,,,,
 1013,9.4,2122,59.26,https://magiceden.io/item-details/Bz45juWxZnTbLQ5S5v26QrACkABQsL4NLwoEfMG3xHad,Outskirts,Toxic Waste Site,,,,,Wooden,,,Roof Vent,Vent,Glowing Light,,,,,,
@@ -43,6 +46,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1226,10,1627,59.26,https://magiceden.io/item-details/2fiDPsXytSpq3zNrxdApKVBQJJnr9F84RHCy4zr1ecof,,Coral Emerald,,,,None,Steel,,,,,,,,,Red,Red Invader,
 1243,12.69,933,40.78,https://magiceden.io/item-details/ENiMGkyNfsgSbJvPxctmgLVEpy7CEMDHZc3FGx7gEMhk,,Coral Shroom Top,,,,None,Red,,,,,,,,,Red,Red Invader,
 1353,11.24,1831,44.39,https://magiceden.io/item-details/8WSFgKHiVhXHMFGhFkLtMsabG7pg4Na1yTiv56QnQmZX,,Coral Amethyst,,,,None,Steel,,,,,,,,,Red,Blue Invader,
+1373,9,1812,67.02,https://magiceden.io/item-details/E4WNb2HfgZ7SAyWNrZDsL4QuxonPN4fJh4Cu9rxT2ZV3,,Coral balanced,,,,Steel,Open,,,,,,,,,Red,Yellow Window,
 1469,30.6942,139,0,https://magiceden.io/item-details/2oigdZKredz4YPLdipHNEd2hW6GANG6Nmi8v1C9nPqtZ,The Back Wall,,,,,,Open Red Door,Crested Jade,Topaz,,,,,,None,,,Purple
 1475,14.98,126,27.67,https://magiceden.io/item-details/EHTbSrQ8YbDy6LxDGviBtyHqR63hzEEvFsM2QFYKnbhh,,,,,,,Open Red Door,Volcanic Head,Jade,,,,,,Blue,,,Green
 1484,18,86,0,https://magiceden.io/item-details/Wh8RJ3Rh6zGv4PfBuhNDy9MLFokpjdQGGGgXRxv3JKd,The Back Wall,,,,,,Red Door,Jade Head,Ruby,,,,,,Red,,,Purple
@@ -54,6 +58,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1613,15,108,27.69,https://magiceden.io/item-details/83r28pnnz2rpqKwSFaFqYm7DVedx8bWrrA52tu2RgbYH,The Back Wall,,,,,,Open Blue Door,Slate Head,Volcanic,,,,,,Blue,,,Red
 1619,13.99,81,38.12,https://magiceden.io/item-details/3r77ESbVZGwE2VjbSS4UpFCdAwom8W6VTwCEry2m9VbS,The Back Wall,,,,,,Red Door,Crested Jade,None,,,,,,Red,,,Red
 1626,11,404,64.1,https://magiceden.io/item-details/BEgL57gMP5Ch5H265mLnGnLw8DpDoF1CGPMZ7AU6ScDT,,,,,,,Pest,Crested Jade,Slate,,,,,,Blue,,,Red
+1629,9,76,88.08,https://magiceden.io/item-details/FwPhYYtSw7NSxakLDVXViDmsgv6foKgWtVsHEPxVWmHA,,,,,,,Red Door,Volcanic Head,None,,,,,,None,,,Red
 1635,9.8,387,76.3,https://magiceden.io/item-details/HKBR5HabdrUpjtwVHvFwijjwrfbUVbZ1KX955rPy5SRQ,,,,,,,Pest,Volcanic Head,Ruby,,,,,,None,,,Green
 1662,9.5,270,80.72,https://magiceden.io/item-details/83d3RXogHjmiA52NxByUNwsxveGo9QnnHs5EJUtoLTDm,,,,,,,Open Red Door,Crested Volcanic Head,Jade Thick,,,,,,None,,,Purple
 1668,25,5,0,https://magiceden.io/item-details/3ABozV28PWfSYUHzeynNF5MAG4gufpGA31edi9zRz6gW,The Back Wall,,,,,,Open Blue Door,Volcanic Head,Emerald,,,,,,Red,,,Red
