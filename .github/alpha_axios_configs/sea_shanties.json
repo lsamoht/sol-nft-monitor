@@ -1,9 +1,9 @@
 {
-    "method": "post",
-    "data": {
-      "collectionId": "sea_shanties",
-      "orderBy": "PRICE_LOW_TO_HIGH",
-      "status": ["BUY_NOW"],
-      "traits": []
-    }
+  "method": "post",
+  "data": {
+    "collectionId": "sea_shanties",
+    "orderBy": "PRICE_LOW_TO_HIGH",
+    "status": ["BUY_NOW"],
+    "traits": []
   }
+}
