@@ -21,7 +21,7 @@ jobs:
       - name: rude_golems - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
-          http_url: http_url: https://reqbin.com/echo/get/json
+          http_url: https://reqbin.com/echo/get/json
           downloaded_filename: rude_golems__magiceden.json
           postprocess: ./postprocess/magiceden.ts
 
@@ -35,6 +35,6 @@ jobs:
       - name: sea_shanties - Fetch Magic Eden data
         uses: githubocto/flat@v3
         with:
-          http_url: http_url: https://reqbin.com/echo/get/json
+          http_url: https://reqbin.com/echo/get/json
           downloaded_filename: sea_shanties__magiceden.json
           postprocess: ./postprocess/magiceden.ts
