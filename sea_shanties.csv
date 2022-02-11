@@ -16,11 +16,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 557,10.5,3075,47.99,https://magiceden.io/item-details/CcptH5CAjJUuwoHNCWmYG1cW1H5oviucyuDsZNN2xR2E,Outskirts,Trap House,,,,,Wood,,,Pest,None,None,,,,,,
 592,10.4,2491,56.21,https://magiceden.io/item-details/7kx5FCLXqHi1BBZvAYXTRbVNbaxR51RkP64UibchNL66,,Fancy Reinforced Trap House,,,,,Open,,,Drainage Pipe,Barred Window,Duck Foot,,,,,,
 619,10.69,2855,48.81,https://magiceden.io/item-details/2b6bh8fabPhfzeZ4Yx8qvKRk1yLRxEoqh3ttGWwLa7zS,,Fancy Trap House,,,,,Open,,,Pest,Barred Window,None,,,,,,
-681,9.39,2190,70.03,https://magiceden.io/item-details/7gmPVGR5Lp7Z9RjZcTBTgmU9bE49tpqJiFNwRwgzLP1s,,Reinforced Trap House,,,,,Wood,,,None,Skylight,Duck Foot,,,,,,
 683,10,3203,51.41,https://magiceden.io/item-details/4d9V7WK5QVtvBsRyYwbqsnf8zAHrspmPKZQgjhS8nbUB,,Trap House,,,,,Open,,,Telescope,None,Plumbing,,,,,,
 711,10.5,2284,57.77,https://magiceden.io/item-details/2BcLQygci47nNjGU5ZHmKSNBuUwUvxomLz6FTaZoPgzb,,Fancy Reinforced Trap House,,,,,Swinging Doors,,,Drainage Pipe,Barred Window,Plumbing,,,,,,
 746,20,2393,0,https://magiceden.io/item-details/D3VRjwsFH5v3hY2TGCnMg16jZAhqeiQAvTYAqqubDAo5,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Vent,None,,,,,,
 809,14.9,2850,6.77,https://magiceden.io/item-details/AkZxFzZeogMqFAkBA6KaDtBbHgJFpVUwzQt4VeAefFzD,Outskirts,Toxic Waste Site,,,,,Open,,,Scrap Chimney,Glowing Light,None,,,,,,
+824,10.9,2625,49.55,https://magiceden.io/item-details/4UyCNnxCCEWTMBRHAvZbXqXJ6gnCScECtf4wciRuLj3X,Outskirts,Toxic Waste Barrel,,,,,Open,,,Roof Vent,Vent,None,,,,,,
 923,11,2178,54.08,https://magiceden.io/item-details/8K89eSCAnEtvHwujEWMD3YyYURpHGhcrh5uMBTtttf9V,,Toxic Waste Barrel,,,,,Hatch,,,Roof Vent,Glowing Window,Vent,,,,,,
 945,17,2723,0,https://magiceden.io/item-details/9McmKJmrfWR5zZXpvAvKGDts97b2ST63ukfZDtswcHr6,,Toxic Waste Barrel,,,,,Open,,,Roof Vent,Window,Glowing Light,,,,,,
 966,10.18,2656,56.37,https://magiceden.io/item-details/7JjwMTRxeRVdESfCiiQcRaLspLieqN3rDdQ6QYy6PSrh,,Crushed Toxic Waste Barrel,,,,,Open,,,Roof Vent,Glowing Window,None,,,,,,
@@ -38,7 +38,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1544,20,332,0,https://magiceden.io/item-details/C7GV79V9oq51Ew9F3vkXF1PaqvyYwxqUftwgZLe2NK2n,,,,,,,Pest,Slate Head,Jade,,,,,,None,,,Purple
 1549,11.11,244,76.88,https://magiceden.io/item-details/HpA4ehWpETus8XXctEkf3N397nKYc2ARC6DyavzqnRZw,,,,,,,Red Door,Crested Slate Head,Volcanic Thick,,,,,,Purple,,,Red
 1561,12,144,69.22,https://magiceden.io/item-details/7QrN55d5Xg5h66bcARgBfwYZ6FfMheZumxnMkpm39p2p,The Back Wall,,,,,,Open Red Door,Crested Volcanic Head,Jade,,,,,,Red,,,Red
-1566,15,213,38.37,https://magiceden.io/item-details/GA1huYpDm5KSxQdXnwPiuq42VJGtj5AeyQvReJxej4ZU,The Back Wall,,,,,,Red Door,Volcanic Head,Slate,,,,,,Blue,,,Green
 1604,9.99,137,89.41,https://magiceden.io/item-details/HWUrYLyMK9XJYrGBCZ67PCaoUtD1LNwE9S13JSS3bFfc,The Back Wall,,,,,,Open Red Door,Jade Head,Ruby,,,,,,Purple,,,Green
 1687,25,251,0,https://magiceden.io/item-details/HpcM7c1oRADia63fHMZLvp9ZWFCV4HSpBg8w5e4reFXP,,,,,,,Open Blue Door,Crested Jade,Ruby,,,,,,None,,,Red
 1699,22,60,0,https://magiceden.io/item-details/9uM6ywADDwTgyHFwFEpKaEUY9Nr9c5PttLNqsR3Ht4Wj,,,,,,,Decorated Door,Crested Slate Head,Slate Thick,,,,,,Blue,,,Purple
@@ -77,6 +76,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2776,10.4,2696,53.67,https://magiceden.io/item-details/FhYtBV23NJDoQZa2HdZxh8zVPM9Griupf9uPayDpogsY,,Scrap House,,,,,Steel,,,Balcony,Driftwood Roof,Sewage Drain,,,,,,
 2825,9.69,402,89.13,https://magiceden.io/item-details/6hxn3nNNhSewery79sNp7oCubBmV2ng732EkSkSoXznQ,Shill City Metro,Chest,None,Barred Window,Blue Window,,Fine,,,Drain Pipe,,,,,,,,
 2937,9.1,564,93.03,https://magiceden.io/item-details/96PeTZ4FVpWh6unZP5XojhGXeesSzgAfFMixTRrmRNmk,Shill City Ghetto,Chest 2,Black Jack,Green Window,Blue Window,,Swinging Doors,,,Drain Pipe,,,,,,,,
+2943,9.75,389,88.69,https://magiceden.io/item-details/Eu9mjcS9Ke3SHuCpojbwPs44E3cx93ot51LipWQfY5Zc,Shill City Metro,Chest 2,None,Barred Window,Green Window,,Fine,,,Drain Pipe,,,,,,,,
 2974,9.69,336,89.95,https://magiceden.io/item-details/8bsrvcKMbcNf4BFVnK5Z7NWhbLGXciVrHAci8sHM6DQH,Shill City Ghetto,Chest,Saloon,Barred Window,None,,Fine,,,Drain Pipe,,,,,,,,
 3015,11,538,74.35,https://magiceden.io/item-details/CnKahs8WqyPCWfqRpERBUee1QKgCvdes3W929svWk8r,Shill City Ghetto,Chest 2,None,Barred Window,Green Window,,Hatch,,,Drain Pipe,,,,,,,,
 3029,11,772,71.46,https://magiceden.io/item-details/35QZRJZ1kwzMApwvEURjvMrhjVZujazivvJdk4sBRsyk,,Chest 2,Saloon,Pub Window,Barred Window,,Hatch,,,None,,,,,,,,
