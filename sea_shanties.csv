@@ -26,6 +26,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1687,25,251,0,https://magiceden.io/item-details/HpcM7c1oRADia63fHMZLvp9ZWFCV4HSpBg8w5e4reFXP,,,,,,,Open Blue Door,Crested Jade,Ruby,,,,,,None,,,Red
 1692,12.99,31,73.22,https://magiceden.io/item-details/FcdT4SYgsKjqoe8uwBpE4APbkEzvUVcU2v769TrMUGro,,,,,,,Open Red Door,Jade Head,Volcanic,,,,,,Red,,,Green
 1699,22,60,0,https://magiceden.io/item-details/9uM6ywADDwTgyHFwFEpKaEUY9Nr9c5PttLNqsR3Ht4Wj,,,,,,,Decorated Door,Crested Slate Head,Slate Thick,,,,,,Blue,,,Purple
+1717,11.5,143,86.73,https://magiceden.io/item-details/7Q2BmhbKz7meG13Z9TmmoPegZyWi991A1cu46AEFLLWK,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Volcanic,,,,,,Blue,,,Red
 1770,20,261,0.27,https://magiceden.io/item-details/3uQHbyR5wh5fC64j3oYqCdbfEW9qvKHBot93KUbGcNMZ,,,,,,,Red Door,Crested Jade,Slate,,,,,,None,,,Red
 1780,12.89,1003,62.2,https://magiceden.io/item-details/3SSDWin3oPy1M2HbWS6KpaL79aG3G5tU6CSF9zxBRKDh,City View,Bare Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Left Eye,
 1802,16,1236,28.22,https://magiceden.io/item-details/5t5kuhhifszCQGLpWqjMb1NPWfPnx1pwERoBD9Uiiy3p,,Rose Gold Crown Pineapple,,,,None,Wooden,,,,,,,,,Red,Left Eye,
@@ -39,17 +40,16 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2138,11.11,2810,57.67,https://magiceden.io/item-details/EGiQytbXojzpAsQeQTh79QQ2ZD2E3DxxHbQkxmpzzY4b,Shill City Metro,Submarine,,,,,Pest,,,None,Window,None,Blue Light,,,,,
 2256,12,847,73.03,https://magiceden.io/item-details/3U46uM2jP4Ni4GGvSo4h3fpCtKoU1pYHNjgzQHiNRwR2,Shill City Ghetto,Reinforced Submarine,,,,,Bubble,,,Drainage Pipe,Window,Chimney,Blue Light,,,,,
 2285,25,1820,0,https://magiceden.io/item-details/3wvkUMUcNUxwp117YDLhwDkyJN39g9G4pUm7MGSEhNye,,Reinforced Submarine,,,,,Pest,,,Drainage Pipe,Window,Drainage Pipe,None,,,,,
-2351,10.35,1902,76.49,https://magiceden.io/item-details/HjrB1Npn4gbthaiBH9Kq2siF9PBbydTrDu6riREY5kvg,,Submarine,,,,,Pest,,,Telescope,Barred Window,Chimney,Green Light,,,,,
 2360,10.35,2353,70.91,https://magiceden.io/item-details/4WZJPgnz7stZ2ZcnqKzSouxSk4R6zBTGsXUasZH2qs5a,,Submarine,,,,,Steel,,,None,Barred Window,Chimney,Green Light,,,,,
 2387,15,2826,18.57,https://magiceden.io/item-details/6XvrzwcjoF8Az4tzm6h7n3MA4znkJcU8SPyJcyfKNxWk,,Reinforced Submarine,,,,,Open,,,None,Barred Window,None,None,,,,,
 2485,10.989,2504,62.66,https://magiceden.io/item-details/oTPfvByJy9q6pivRGcD7yZXCM8sr2MGd4yGEAL8uKjE,,Fancy Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,None,,,,,,
 2673,13.99,2419,33.7,https://magiceden.io/item-details/CDEjVWAKhYrRzqJxEhHV74iMqyY2zyQqWRs71e6D3pgv,Shill City Metro,Fine Scrap House,,,,,Steel,,,Balcony,Fancy Roof,Dive Bar Sign,,,,,,
 2675,11.5,2333,59.66,https://magiceden.io/item-details/G8oEUyRd8xu2RT76JQFACLgvmv4yNtgDtZ2dKHjJ2GfK,Shill City Ghetto,Fine Scrap House,,,,,Hatch,,,Balcony,Driftwood Roof,Sewage Drain,,,,,,
 2704,50,1853,0,https://magiceden.io/item-details/CvyGTFuLKWzpTL6aPfJbPpybtixoTnvPcpiiF79ZQYbs,,Fine Scrap House,,,,,Green,,,Pot Lid,Driftwood Roof,Casino Sign,,,,,,
+2896,10.88,607,87.2,https://magiceden.io/item-details/G2YqSxYaR1zpjveYmm2ezkVHd7FsaUfbGcDGjom25Ryg,Shill City Metro,Chest 2,Restaurant,Pub Window,Barred Window,,Steel,,,Drain Pipe,,,,,,,,
 3015,11,538,86.85,https://magiceden.io/item-details/CnKahs8WqyPCWfqRpERBUee1QKgCvdes3W929svWk8r,Shill City Ghetto,Chest 2,None,Barred Window,Green Window,,Hatch,,,Drain Pipe,,,,,,,,
 3029,11,772,83.96,https://magiceden.io/item-details/35QZRJZ1kwzMApwvEURjvMrhjVZujazivvJdk4sBRsyk,,Chest 2,Saloon,Pub Window,Barred Window,,Hatch,,,None,,,,,,,,
 3040,12,528,76.97,https://magiceden.io/item-details/ByAUEZhQP3RQnyNUN5E7KmdpkdSrh1KZN9UGv84p3aGM,,Chest,Restaurant,Barred Window,Blue Window,,Hatch,,,Chimney,,,,,,,,
-3062,11,578,86.36,https://magiceden.io/item-details/9x11i4Z6qJxaj9VYiS4sMtVwuodgfXXqqb5PxEsd7X7V,Shill City Ghetto,Chest,Saloon,Barred Window,Barred Window,,Steel,,,Chimney,,,,,,,,
 3063,11,422,88.28,https://magiceden.io/item-details/HNDNic5Uo3GjGp6ZS6u3uJGf1XgUrF4GPzMTLg3zA9US,Shill City Metro,Chest 2,None,None,Green Window,,Hatch,,,Drain Pipe,,,,,,,,
 3115,11,454,87.89,https://magiceden.io/item-details/3mhj7KALDVLRJp7D3hN6vdimmw4DadSzkea1tuzc1bDi,Shill City Ghetto,Chest,Restaurant,Blue Window,Blue Window,,Fine,,,Drain Pipe,,,,,,,,
 3131,12.5,515,72.13,https://magiceden.io/item-details/Gg8G2MWLaPs8dV5Cwf75vjMZp9CSTaW4pc7U9BccBM4v,,Chest,Restaurant,Blue Window,Green Window,,Hatch,,,Chimney,,,,,,,,
