@@ -62,7 +62,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 612,4.5,2195,56.44,https://magiceden.io/item-details/6AQSv2AbkHHoq4UG1fSohdKmvjC93hFXfx47CogpS5R2,Dark Blue,Orange,Brown Suspenders,HBD,Pizza,
 654,10,3316,0,https://magiceden.io/item-details/4rmjhCSojJ1iiwzVCBRsGvVvNYWsHGAToWY41cdPneto,Dark Blue,Orange,Black Kimono,Mask,Bucket Hat,
 662,2.3,1521,83.83,https://magiceden.io/item-details/7eiaM9jhXN3hp6CyZ6FWc6XiVJWRUcZzJErJ74GHpYDf,Papaya Whip,Orange,Short Sleeved Blue Button Shirt,Superballoon,Boot,
-667,1.93,2753,77.68,https://magiceden.io/item-details/3my3R8f5ideycgM9CfSZXiUdPKtMMabwBC14CtKyrz32,Pale Lavender,Red,Black Suspenders,Crying,Fox,
+667,1.9,2753,77.98,https://magiceden.io/item-details/3my3R8f5ideycgM9CfSZXiUdPKtMMabwBC14CtKyrz32,Pale Lavender,Red,Black Suspenders,Crying,Fox,
 671,5.4,985,57.12,https://magiceden.io/item-details/95uVQwWVJKKAtorkDyisVPXtvTvyvyC5FxVzb4C1rqYS,Rose Pink,Confetti,Tan Brown Blazer Jacket,Embarrassed,Cat,
 672,3.9,1399,68.81,https://magiceden.io/item-details/GUST8WBK6zbHu2otzdHwZf8Ao89rBZXsx3d2vQfNz3oW,Nyanza,Orange,Pink Blazer Jacket and Blue Turtleneck,Superballoon,Man Bun,
 685,3.4,3037,60.7,https://magiceden.io/item-details/59W7jGWTFiJjGK4yV8QokRPh1caFL18pQQk5YceCNEbC,Aero Blue,Yellow,Starship Suit,Cinco De Mayo,Crown,
@@ -362,7 +362,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 3420,2.4,4416,59.67,https://magiceden.io/item-details/7arVrgsjyvz1zYv1vMeNw4D3zZjGho9RpjA4N4WQo4QQ,Pale Lavender,Purple,Pirate Costume,VR,None,
 3426,3,4702,51.38,https://magiceden.io/item-details/74fCPpBDcBewV3VNXfq2UHGwcL9o2W12XCCjjzy5Ua6j,Aero Blue,Orange,Purple Puffer Jacket,VR,None,
 3429,2.35,4648,58.32,https://magiceden.io/item-details/CiKymAWpnwQUqcdWFBxBoKiWLuY8dKPQ9MR6D7xbCawp,Papaya Whip,Green,Beige Tech Fleece,Gas Mask,None,
-3430,1.97,4514,63.19,https://magiceden.io/item-details/6Jho263ZEYzxewXLJQixGVGeGDRt42NQYM8MK3nnKdjg,Rose Pink,Orange,Multicolor Peacoat,Glitch,None,
 3432,3.25,4680,49.06,https://magiceden.io/item-details/EtD6cCrstW1kEj5kqrxp4qWqDN4rJQ6c6om2xjd3hWGp,Nyanza,Gold,Sleeveless Denim Button Shirt,VR,None,
 3442,4.87,4891,31.17,https://magiceden.io/item-details/28AGYvbXKU1k7fgmtiCM6xairJ8qwvL7qJYJ9yGjprYf,Purple,Green,Short Sleeved Blue Button Shirt,VR,None,
 3465,2.9,4688,52.5,https://magiceden.io/item-details/FcHKywdZZknFvKv8wLREouWzak5CiWD9RS46nRWsYRSX,Rose Pink,Purple,Tan Brown Blazer Jacket,VR,None,
@@ -568,6 +567,7 @@ Balloonpunk,40,2,0,https://magiceden.io/item-details/G3Hqh6Ba8AVt9EkK51FD6kgon8H
 Balloonwise,40,3,0,https://magiceden.io/item-details/69hvmDjoQmK7GPm1t9soQv2WqLsLHDY1qG78GVK4SJko,,,,,,Balloonwise
 Bladiator,50,5,0,https://magiceden.io/item-details/9fuYV6Vm2R3fNqUMgcnxkgmSonRDvh6v5Y76xc1bvYeq,,,,,,Bladiator
 Ballooni,999,1,0,https://magiceden.io/item-details/AdZSV8tkqeKiH4dM4kf3n6nEhZEz6Ai9u8XApxsbH9CW,,,,,,Ballooni
+106,2.2,3229,71.17,https://solanart.io/search/?token=5sLSX8qd6C2MhdBnqtwBiukia3uxuL3TLQWwhsU5GzxD,Blue,Blue,Beige Tech Fleece,Smile,Chicken,
 440,4,2042,62.66,https://solanart.io/search/?token=7fh4wY63UmCjSenrYZBkMzWzZHTaJKJrwtkqZcUiTS3z,Nyanza,Pink,Pink Blazer Jacket and Blue Turtleneck,Crying,Beret,
 467,2.3,2563,75.5,https://solanart.io/search/?token=2Cdu19ytWPt6bdDtZdxZgmU6Pi3ewNFmm3sHGNfMfnxJ,Purple,Yellow,Multicoloured Tech Fleece,Crying,Mushrooms,
 961,3.9,2841,57.27,https://solanart.io/search/?token=ErvtVCstZNZU1ZsCrW2FUp4eM11KY4BWY9DPS1kiCTH6,Purple,Red,Sleeveless Denim Button Shirt,Thug Life,Boot,
