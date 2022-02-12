@@ -10,7 +10,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 250,13.95,1094,30.98,https://magiceden.io/item-details/ACwmu6P8oqzEzNmKsnZhZfMMkmey9pAPxv8HMehawfU7,,Fine Bucket,,,,,Hatch,,,Steel Chimney,Scrap Drainage Pipe,Glowing Light,Green Window,,,,,
 320,8.8,1615,76.04,https://magiceden.io/item-details/FtS6EwjrHP3K3hodGBLCCj7a6CyQaJZxCEjypeJHso5z,,Bucket,,,,,Pest,,,Steel Chimney,None,Glowing Window,None,,,,,
 330,20,3055,0,https://magiceden.io/item-details/D8GRkZDDiN4Ca5w1NfY3oL4usSjEB5n9Lj1C4NibgSKj,,Fine Bucket,,,,,Pest,,,None,None,None,Green Window,,,,,
-337,9.49,1688,68.23,https://magiceden.io/item-details/C75HBgBTcM4Vk8gyeXi5MGdPsntsT62j4yQooNShuNqK,Outskirts,Bucket,,,,,Steel,,,Siren,Drainage Pipe,None,Green Window,,,,,
+337,8.75,1688,75.63,https://magiceden.io/item-details/C75HBgBTcM4Vk8gyeXi5MGdPsntsT62j4yQooNShuNqK,Outskirts,Bucket,,,,,Steel,,,Siren,Drainage Pipe,None,Green Window,,,,,
 445,10.3,2887,45.31,https://magiceden.io/item-details/5tYkBUsBfEu4mMnKhpWoWSRneDmK7QFhJSYBc4us2UVj,,Fancy Reinforced Trap House,,,,,Steel,,,None,Amethyst Window,Plumbing,,,,,,
 465,12,2902,28.13,https://magiceden.io/item-details/AaKQ3hSk5bKaFfYUQ5V3TYrTzh14WVnpkQMFm1KmWVDQ,,Fancy Trap House,,,,,Wood,,,Telescope,Amethyst Window,None,,,,,,
 504,13.69,3029,9.66,https://magiceden.io/item-details/Gtk5ZvxC1Mdmay3JGgpwo5WHvvjsnhYs3i3WR1X2aFYY,,Trap House,,,,,Wood,,,Drainage Pipe,None,Plumbing,,,,,,
@@ -39,7 +39,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1355,10.2,1403,64.66,https://magiceden.io/item-details/7T36RJrHxsFi2c6mobhZmJz3yyGyreErHrGXVrnpYXwM,,Coral Stacked Rocks,,,,Rust,Open,,,,,,,,,Blue,Blue Invader,
 1446,11.47,246,66.26,https://magiceden.io/item-details/HZdDyZwACrtXxb6qYw345dirBiemi3D9yVpJXBA4mBKj,,,,,,,Open Blue Door,Crested Slate Head,Jade Thick,,,,,,Red,,,Green
 1467,27,34,0,https://magiceden.io/item-details/7n3eQQLBKM1sDmmA1fQiyhj7AJoVNJ5G6yLVoCpVsvUu,,,,,,,Decorated Door,Slate Head,Slate Thick,,,,,,None,,,Purple
-1532,9.5,92,87.86,https://magiceden.io/item-details/FHAfPK3V7ci6Q5qb5wL7UDU37zzydytqjxnmYaPpEnCd,,,,,,,Open Red Door,Jade Head,Slate,,,,,,Red,,,Red
+1532,9.47,92,88.16,https://magiceden.io/item-details/FHAfPK3V7ci6Q5qb5wL7UDU37zzydytqjxnmYaPpEnCd,,,,,,,Open Red Door,Jade Head,Slate,,,,,,Red,,,Red
 1535,17.5,214,6.35,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
 1544,20,332,0,https://magiceden.io/item-details/C7GV79V9oq51Ew9F3vkXF1PaqvyYwxqUftwgZLe2NK2n,,,,,,,Pest,Slate Head,Jade,,,,,,None,,,Purple
 1549,11.11,244,69.88,https://magiceden.io/item-details/HpA4ehWpETus8XXctEkf3N397nKYc2ARC6DyavzqnRZw,,,,,,,Red Door,Crested Slate Head,Volcanic Thick,,,,,,Purple,,,Red
@@ -62,6 +62,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2138,11.11,2810,38.17,https://magiceden.io/item-details/EGiQytbXojzpAsQeQTh79QQ2ZD2E3DxxHbQkxmpzzY4b,Shill City Metro,Submarine,,,,,Pest,,,None,Window,None,Blue Light,,,,,
 2157,9.9,2467,54.51,https://magiceden.io/item-details/323G7byWobemSK6sHeqYbRKURdiPxdRZo9iZwUsGHrtD,Shill City Ghetto,Reinforced Submarine,,,,,Pest,,,Drainage Pipe,None,None,Green Light,,,,,
 2174,10.989,762,64.69,https://magiceden.io/item-details/7GLHiyVTGQrmcbTNqroB7QkZs5cK3MpYNthJfh4Ej176,,Reinforced Submarine,,,,,Bubble,,,Drainage Pipe,Window,Drainage Pipe,Green Light,,,,,
+2185,8.5,1743,77.45,https://magiceden.io/item-details/EEnBCBAG5uK8qVTM9hdEDnu7RRHRiAbezPRdoUYHMEiP,,Submarine,,,,,Open,,,Drainage Pipe,Window,Chimney,Blue Light,,,,,
 2256,12,847,53.53,https://magiceden.io/item-details/3U46uM2jP4Ni4GGvSo4h3fpCtKoU1pYHNjgzQHiNRwR2,Shill City Ghetto,Reinforced Submarine,,,,,Bubble,,,Drainage Pipe,Window,Chimney,Blue Light,,,,,
 2285,25,1820,0,https://magiceden.io/item-details/3wvkUMUcNUxwp117YDLhwDkyJN39g9G4pUm7MGSEhNye,,Reinforced Submarine,,,,,Pest,,,Drainage Pipe,Window,Drainage Pipe,None,,,,,
 2343,20,3165,0,https://magiceden.io/item-details/FoPXX1zDZUTaFsdYzuBPB4G6qwvj7GitK6JrdF79n1m6,,Submarine,,,,,Pest,,,None,None,None,None,,,,,
