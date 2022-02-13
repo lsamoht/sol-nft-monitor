@@ -19,6 +19,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 926,9.6969,3172,60.79,https://magiceden.io/item-details/38Jr4C3wvNRkpkwnP3twqQaQ91bTgt8JsA19QH25S4iM,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,None,Glowing Light,,,,,,
 945,17,2723,0,https://magiceden.io/item-details/9McmKJmrfWR5zZXpvAvKGDts97b2ST63ukfZDtswcHr6,,Toxic Waste Barrel,,,,,Open,,,Roof Vent,Window,Glowing Light,,,,,,
 1003,12,3236,36.97,https://magiceden.io/item-details/DYqeAH1ksCKfzSNPi4jq32rvn913naWi3ci64SFFPMVT,,Crushed Toxic Waste Barrel,,,,,Open,,,None,Window,None,,,,,,
+1013,9.9,2122,71.74,https://magiceden.io/item-details/Bz45juWxZnTbLQ5S5v26QrACkABQsL4NLwoEfMG3xHad,Outskirts,Toxic Waste Site,,,,,Wooden,,,Roof Vent,Vent,Glowing Light,,,,,,
 1027,18,3030,0,https://magiceden.io/item-details/2XqPEtYtC63rAvYe6WQouuKKJSqvnKpFJksoW3obfSto,,Crushed Toxic Waste Barrel,,,,,Steel,,,None,Glowing Light,Glowing Light,,,,,,
 1029,14.99,2628,14.58,https://magiceden.io/item-details/ArkPGq3xLhKth4qFMtksuTVju7XAGmBF7tAfGPrW4x5i,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,Glowing Light,Glowing Light,,,,,,
 1192,10.95,1081,74.11,https://magiceden.io/item-details/CWfXmCWcqRbrL1pUAcqALcXUNYCLbEyhfsDUFzd6tjjU,,Coral Bare,,,,Steel,Red,,,,,,,,,None,Yellow Window,
@@ -27,11 +28,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1535,17.5,214,19.32,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
 1544,20,332,0,https://magiceden.io/item-details/C7GV79V9oq51Ew9F3vkXF1PaqvyYwxqUftwgZLe2NK2n,,,,,,,Pest,Slate Head,Jade,,,,,,None,,,Purple
 1687,25,251,0,https://magiceden.io/item-details/HpcM7c1oRADia63fHMZLvp9ZWFCV4HSpBg8w5e4reFXP,,,,,,,Open Blue Door,Crested Jade,Ruby,,,,,,None,,,Red
-1692,11.49,31,81.69,https://magiceden.io/item-details/FcdT4SYgsKjqoe8uwBpE4APbkEzvUVcU2v769TrMUGro,,,,,,,Open Red Door,Jade Head,Volcanic,,,,,,Red,,,Green
 1699,22,60,0,https://magiceden.io/item-details/9uM6ywADDwTgyHFwFEpKaEUY9Nr9c5PttLNqsR3Ht4Wj,,,,,,,Decorated Door,Crested Slate Head,Slate Thick,,,,,,Blue,,,Purple
 1717,11.5,143,80.2,https://magiceden.io/item-details/7Q2BmhbKz7meG13Z9TmmoPegZyWi991A1cu46AEFLLWK,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Volcanic,,,,,,Blue,,,Red
 1770,20,261,0,https://magiceden.io/item-details/3uQHbyR5wh5fC64j3oYqCdbfEW9qvKHBot93KUbGcNMZ,,,,,,,Red Door,Crested Jade,Slate,,,,,,None,,,Red
-1780,11.49,1003,69.67,https://magiceden.io/item-details/3SSDWin3oPy1M2HbWS6KpaL79aG3G5tU6CSF9zxBRKDh,City View,Bare Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Left Eye,
 1786,14.9,1877,24.77,https://magiceden.io/item-details/4JR99hQRDeQtNE4Gdx5gk8HneE4AaXyvVB8Hnv5GWW8v,The Back Wall,Fresh Pineapple,,,,Scrap,Pest,,,,,,,,,Red,Right Eye,
 1802,16,1236,21.69,https://magiceden.io/item-details/5t5kuhhifszCQGLpWqjMb1NPWfPnx1pwERoBD9Uiiy3p,,Rose Gold Crown Pineapple,,,,None,Wooden,,,,,,,,,Red,Left Eye,
 1815,15,2041,21.74,https://magiceden.io/item-details/Yah8AtxDtViXN8JF3gRwKoJp7c4hZV4mheTGiJ8NyaC,,Fresh Pineapple,,,,Steel,Pest,,,,,,,,,Red,Single Eye,
@@ -59,7 +58,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 3040,12,528,70.44,https://magiceden.io/item-details/ByAUEZhQP3RQnyNUN5E7KmdpkdSrh1KZN9UGv84p3aGM,,Chest,Restaurant,Barred Window,Blue Window,,Hatch,,,Chimney,,,,,,,,
 3063,11,422,81.75,https://magiceden.io/item-details/HNDNic5Uo3GjGp6ZS6u3uJGf1XgUrF4GPzMTLg3zA9US,Shill City Metro,Chest 2,None,None,Green Window,,Hatch,,,Drain Pipe,,,,,,,,
 3131,12.5,515,65.6,https://magiceden.io/item-details/Gg8G2MWLaPs8dV5Cwf75vjMZp9CSTaW4pc7U9BccBM4v,,Chest,Restaurant,Blue Window,Green Window,,Hatch,,,Chimney,,,,,,,,
-3145,10,482,91.01,https://magiceden.io/item-details/H7B4xTRt9Ky8Fms2MXkdkZ53rFLJ3GaoAZc1HUhkBvzJ,,Chest 2,Saloon,Green Window,None,,Swinging Doors,,,Telescope,,,,,,,,
 3206,14,1745,35.4,https://magiceden.io/item-details/8zniCzpTN6sJn1CbD8igi5UFfT8EkTPMkD3jEYe1X3Py,,Submarine Watchtower,,,,,Pest,,,Telescope,Window,Drainage Pipe,Blue Light,,,,,
 3294,12,2216,49.58,https://magiceden.io/item-details/7bHANQCr6UVegnYib7F2as5SvW3XKURMbp3VDrdbDc3G,,Fresh Pineapple,,,,Steel,Pest,,,,,,,,,Red,Left Eye,
 3333,19,2017,0,https://magiceden.io/item-details/H1NtCaUGGFiiwKfW2HoejaEAiSNsiWW8ecF5LcjhNcVW,Go to Shill City,Toxic Waste Site,,,,,Wooden,,,Scrap Chimney,Vent,Glowing Light,,,,,,
