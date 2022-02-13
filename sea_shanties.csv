@@ -27,13 +27,16 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1395,10.15,1508,78.86,https://magiceden.io/item-details/AK617DiAJPdDu65Evjav4eCVpn5Umsi8xguB1XyH7Vnc,,Coral Bare,,,,Steel,Pest,,,,,,,,,None,Red Invader,
 1535,17.5,214,21.35,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
 1544,20,332,0,https://magiceden.io/item-details/C7GV79V9oq51Ew9F3vkXF1PaqvyYwxqUftwgZLe2NK2n,,,,,,,Pest,Slate Head,Jade,,,,,,None,,,Purple
+1687,25,251,0,https://magiceden.io/item-details/HpcM7c1oRADia63fHMZLvp9ZWFCV4HSpBg8w5e4reFXP,,,,,,,Open Blue Door,Crested Jade,Ruby,,,,,,None,,,Red
 1692,11.49,31,83.72,https://magiceden.io/item-details/FcdT4SYgsKjqoe8uwBpE4APbkEzvUVcU2v769TrMUGro,,,,,,,Open Red Door,Jade Head,Volcanic,,,,,,Red,,,Green
+1699,22,60,0,https://magiceden.io/item-details/9uM6ywADDwTgyHFwFEpKaEUY9Nr9c5PttLNqsR3Ht4Wj,,,,,,,Decorated Door,Crested Slate Head,Slate Thick,,,,,,Blue,,,Purple
 1717,11.5,143,82.23,https://magiceden.io/item-details/7Q2BmhbKz7meG13Z9TmmoPegZyWi991A1cu46AEFLLWK,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Volcanic,,,,,,Blue,,,Red
 1770,20,261,0,https://magiceden.io/item-details/3uQHbyR5wh5fC64j3oYqCdbfEW9qvKHBot93KUbGcNMZ,,,,,,,Red Door,Crested Jade,Slate,,,,,,None,,,Red
 1780,11.49,1003,71.7,https://magiceden.io/item-details/3SSDWin3oPy1M2HbWS6KpaL79aG3G5tU6CSF9zxBRKDh,City View,Bare Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Left Eye,
 1786,13.5,1877,40.8,https://magiceden.io/item-details/4JR99hQRDeQtNE4Gdx5gk8HneE4AaXyvVB8Hnv5GWW8v,The Back Wall,Fresh Pineapple,,,,Scrap,Pest,,,,,,,,,Red,Right Eye,
 1802,16,1236,23.72,https://magiceden.io/item-details/5t5kuhhifszCQGLpWqjMb1NPWfPnx1pwERoBD9Uiiy3p,,Rose Gold Crown Pineapple,,,,None,Wooden,,,,,,,,,Red,Left Eye,
 1815,15,2041,23.77,https://magiceden.io/item-details/Yah8AtxDtViXN8JF3gRwKoJp7c4hZV4mheTGiJ8NyaC,,Fresh Pineapple,,,,Steel,Pest,,,,,,,,,Red,Single Eye,
+1895,24.531,942,0,https://magiceden.io/item-details/GMnUccx5db417UUfJS6SvPFwhWF2GkdRsCE76VgE8E2j,Long Valley Nights,Fresh Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Single Eye,
 1981,20,1273,0,https://magiceden.io/item-details/9tPVxD6tgDhXWXW3QDCFmeiKQmeByQ24HMcxaH16oSV3,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,None,Single Eye,
 1986,16.78,1707,10.1,https://magiceden.io/item-details/AUju6YmqyM3CjxJZenuvBFFu4xjBL7hDLhwe8RdsvFJX,,The King's Crown Pineapple,,,,Steel,Pest,,,,,,,,,Blue,Left Eye,
 2005,14.89,941,38.47,https://magiceden.io/item-details/ALQi2fWzuT3iWnjLzsRd2FYHuDvfZe82ejXWcWHviMMK,City View,Fresh Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Single Eye,
@@ -43,7 +46,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2285,25,1820,0,https://magiceden.io/item-details/3wvkUMUcNUxwp117YDLhwDkyJN39g9G4pUm7MGSEhNye,,Reinforced Submarine,,,,,Pest,,,Drainage Pipe,Window,Drainage Pipe,None,,,,,
 2360,10.35,2353,66.41,https://magiceden.io/item-details/4WZJPgnz7stZ2ZcnqKzSouxSk4R6zBTGsXUasZH2qs5a,,Submarine,,,,,Steel,,,None,Barred Window,Chimney,Green Light,,,,,
 2387,15,2826,14.07,https://magiceden.io/item-details/6XvrzwcjoF8Az4tzm6h7n3MA4znkJcU8SPyJcyfKNxWk,,Reinforced Submarine,,,,,Open,,,None,Barred Window,None,None,,,,,
-2450,10.14,2377,68.22,https://magiceden.io/item-details/4fVvWsHQeMxa9uGgVm9AksDrx6pFqJ9hD7jzJFfcfTBa,Shill City Metro,Submarine,,,,,Open,,,Drainage Pipe,Window,None,Blue Light,,,,,
 2485,10.989,2504,58.16,https://magiceden.io/item-details/oTPfvByJy9q6pivRGcD7yZXCM8sr2MGd4yGEAL8uKjE,,Fancy Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,None,,,,,,
 2506,10.2,2615,64.68,https://magiceden.io/item-details/C3PQsQz7N3rQwCwY1FQUx7QMbme3yqzNuJskMbQqXTGt,Shill City Metro,Scrap House,,,,,Steel,,,Balcony,Fancy Roof,Casino Sign,,,,,,
 2518,10.22,2297,68.41,https://magiceden.io/item-details/DjzbbJZ5z9b5qQEJv8KLdyUSNEZAMVqkPgYs8uhh633b,,Fancy Scrap House,,,,,Green,,,Capped Roof,Fine Roof,None,,,,,,
