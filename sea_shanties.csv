@@ -28,10 +28,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1710,12,361,75.51,https://magiceden.io/item-details/ERxKzwYKmWszB1qyEn3YEvpcV4MsCHgmQdCNR6D1yRFa,,,,,,,Pest,Slate Head,Volcanic Thick,,,,,,Purple,,,Red
 1712,18,55,19.23,https://magiceden.io/item-details/82TXz6U8EcpdGv4ZdYKZCbZYMsTJ6ZnZpRhDMMtbJ5wJ,,,,,,,Open Blue Door,Jade Head,Ruby,,,,,,None,,,Purple
 1770,14,261,56.72,https://magiceden.io/item-details/3uQHbyR5wh5fC64j3oYqCdbfEW9qvKHBot93KUbGcNMZ,,,,,,,Red Door,Crested Jade,Slate,,,,,,None,,,Red
-1780,11.39,1003,73.79,https://magiceden.io/item-details/3SSDWin3oPy1M2HbWS6KpaL79aG3G5tU6CSF9zxBRKDh,City View,Bare Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Left Eye,
-1786,12.5,1877,52.06,https://magiceden.io/item-details/4JR99hQRDeQtNE4Gdx5gk8HneE4AaXyvVB8Hnv5GWW8v,The Back Wall,Fresh Pineapple,,,,Scrap,Pest,,,,,,,,,Red,Right Eye,
+1786,12,1877,57.06,https://magiceden.io/item-details/4JR99hQRDeQtNE4Gdx5gk8HneE4AaXyvVB8Hnv5GWW8v,The Back Wall,Fresh Pineapple,,,,Scrap,Pest,,,,,,,,,Red,Right Eye,
 1815,15,2041,25.06,https://magiceden.io/item-details/Yah8AtxDtViXN8JF3gRwKoJp7c4hZV4mheTGiJ8NyaC,,Fresh Pineapple,,,,Steel,Pest,,,,,,,,,Red,Single Eye,
 1895,24.531,942,0,https://magiceden.io/item-details/GMnUccx5db417UUfJS6SvPFwhWF2GkdRsCE76VgE8E2j,Long Valley Nights,Fresh Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Single Eye,
+1949,35,1934,0,https://magiceden.io/item-details/5PDeP4JPqvQpAQZUR7QyX6Kcbo75RAo5fUGZovCinb6N,,Silver Crown Pineapple,,,,Steel,Pest,,,,,,,,,Red,Left Eye,
 1981,20,1273,0,https://magiceden.io/item-details/9tPVxD6tgDhXWXW3QDCFmeiKQmeByQ24HMcxaH16oSV3,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,None,Single Eye,
 1986,16.78,1707,11.33,https://magiceden.io/item-details/AUju6YmqyM3CjxJZenuvBFFu4xjBL7hDLhwe8RdsvFJX,,The King's Crown Pineapple,,,,Steel,Pest,,,,,,,,,Blue,Left Eye,
 2005,14.89,941,39.55,https://magiceden.io/item-details/ALQi2fWzuT3iWnjLzsRd2FYHuDvfZe82ejXWcWHviMMK,City View,Fresh Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Single Eye,
@@ -49,7 +49,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2512,10,3248,60.37,https://magiceden.io/item-details/7tSjWYNSW1HBWP7uz3UY5Ztp1G5nYzeHqHaiyz1T1rVh,Shill City Metro,Fine Scrap House,,,,,Steel,,,None,Turtle Shell Roof,None,,,,,,
 2673,13.99,2419,30.56,https://magiceden.io/item-details/CDEjVWAKhYrRzqJxEhHV74iMqyY2zyQqWRs71e6D3pgv,Shill City Metro,Fine Scrap House,,,,,Steel,,,Balcony,Fancy Roof,Dive Bar Sign,,,,,,
 2675,11.5,2333,56.51,https://magiceden.io/item-details/G8oEUyRd8xu2RT76JQFACLgvmv4yNtgDtZ2dKHjJ2GfK,Shill City Ghetto,Fine Scrap House,,,,,Hatch,,,Balcony,Driftwood Roof,Sewage Drain,,,,,,
-2704,50,1853,0,https://magiceden.io/item-details/CvyGTFuLKWzpTL6aPfJbPpybtixoTnvPcpiiF79ZQYbs,,Fine Scrap House,,,,,Green,,,Pot Lid,Driftwood Roof,Casino Sign,,,,,,
 2739,10.3,2622,64.99,https://magiceden.io/item-details/2UJVCJNhkzLaHJVPsZdNz6hdD5nxsSYvPMtUQFBEKPcq,Shill City Metro,Scrap House,,,,,Hatch,,,Capped Roof,Fancy Roof,Sewage Drain,,,,,,
 2810,17,2441,0.2,https://magiceden.io/item-details/JdXWnqJPBU4AXv2Cuvro8zhzYrF7npKWieW1jsezjXe,,Scrap House,,,,,Hatch,,,Capped Roof,Fancy Roof,Casino Sign,,,,,,
 3015,11,538,83.35,https://magiceden.io/item-details/CnKahs8WqyPCWfqRpERBUee1QKgCvdes3W929svWk8r,Shill City Ghetto,Chest 2,None,Barred Window,Green Window,,Hatch,,,Drain Pipe,,,,,,,,
