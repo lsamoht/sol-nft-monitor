@@ -26,6 +26,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1074,10,1059,77.11,https://magiceden.io/item-details/BVXoaTzFwRHnzakxdvWFzuzThjvDLWWoZz4X8uTFdgv8,,Coral Bare,,,,Scrap,Wood,,,,,,,,,Purple,Yellow Window,
 1192,10.95,1081,67.35,https://magiceden.io/item-details/CWfXmCWcqRbrL1pUAcqALcXUNYCLbEyhfsDUFzd6tjjU,,Coral Bare,,,,Steel,Red,,,,,,,,,None,Yellow Window,
 1193,12,1373,53.29,https://magiceden.io/item-details/2KUuxqWiNs7D2jq41CyL5qnDcvBMULZ1AzXYgdowEPSZ,,Coral Emerald,,,,None,Steel,,,,,,,,,None,Yellow Window,
+1425,9.49,183,92.87,https://magiceden.io/item-details/A4SjjjmcQ8sDU7N8oANTpaY4iiSyiXo1RHK65xFU4uUF,,,,,,,Open Red Door,Crested Volcanic Head,Slate,,,,,,None,,,Purple
 1454,12,28,69.66,https://magiceden.io/item-details/DRoYDF7k2qG6LWtoZnnAFN7Mg8iGrbVLcqyRNqnZEfjs,The Back Wall,,,,,,Red Door,Crested Slate Head,None,,,,,,Red,,,Purple
 1464,16.69,109,21.77,https://magiceden.io/item-details/EZ2WjHQ2uQorGFvs9HVtDu6MzamXkascR4VexC2kHZpU,,,,,,,Open Red Door,Crested Slate Head,Topaz,,,,,,None,,,Green
 1512,17,362,15.59,https://magiceden.io/item-details/H42c3UAkohHv6vtBPvvMWGvLrXasggzY8yJiE5SGp7jh,,,,,,,Pest,Volcanic Head,Slate,,,,,,Blue,,,Green
@@ -33,6 +34,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1535,17.5,214,12.4,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
 1544,20,332,0,https://magiceden.io/item-details/C7GV79V9oq51Ew9F3vkXF1PaqvyYwxqUftwgZLe2NK2n,,,,,,,Pest,Slate Head,Jade,,,,,,None,,,Purple
 1561,11.696,144,71.29,https://magiceden.io/item-details/7QrN55d5Xg5h66bcARgBfwYZ6FfMheZumxnMkpm39p2p,The Back Wall,,,,,,Open Red Door,Crested Volcanic Head,Jade,,,,,,Red,,,Red
+1570,9.99,303,86.41,https://magiceden.io/item-details/6vvSBBQmvPKHZke2hx1C6nfK9Ax1aCzoZwXwX1rjhnT3,,,,,,,Open Red Door,Crested Jade,Jade Thick,,,,,,Blue,,,Red
 1699,22,60,0,https://magiceden.io/item-details/9uM6ywADDwTgyHFwFEpKaEUY9Nr9c5PttLNqsR3Ht4Wj,,,,,,,Decorated Door,Crested Slate Head,Slate Thick,,,,,,Blue,,,Purple
 1710,12,361,65.61,https://magiceden.io/item-details/ERxKzwYKmWszB1qyEn3YEvpcV4MsCHgmQdCNR6D1yRFa,,,,,,,Pest,Slate Head,Volcanic Thick,,,,,,Purple,,,Red
 1770,14,261,46.82,https://magiceden.io/item-details/3uQHbyR5wh5fC64j3oYqCdbfEW9qvKHBot93KUbGcNMZ,,,,,,,Red Door,Crested Jade,Slate,,,,,,None,,,Red
@@ -56,10 +58,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2360,10.35,2353,57.87,https://magiceden.io/item-details/4WZJPgnz7stZ2ZcnqKzSouxSk4R6zBTGsXUasZH2qs5a,,Submarine,,,,,Steel,,,None,Barred Window,Chimney,Green Light,,,,,
 2377,10.45,2321,57.26,https://magiceden.io/item-details/3XTBCSmtqZRWBNKuXD72UbpinjWzgkb523tvGD4ymwd1,Shill City Ghetto,Submarine,,,,,Bubble,,,None,Barred Window,None,Blue Light,,,,,
 2434,10.2,2807,53.84,https://magiceden.io/item-details/8tEhEYDNKFdJBLqCsY41a8ukdkbfHbmkeTzFLD8CV3bM,Shill City Metro,Submarine,,,,,Bubble,,,None,None,None,None,,,,,
-2485,10.989,2504,49.64,https://magiceden.io/item-details/oTPfvByJy9q6pivRGcD7yZXCM8sr2MGd4yGEAL8uKjE,,Fancy Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,None,,,,,,
+2485,9.379,2504,65.74,https://magiceden.io/item-details/oTPfvByJy9q6pivRGcD7yZXCM8sr2MGd4yGEAL8uKjE,,Fancy Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,None,,,,,,
 2673,13.99,2419,20.66,https://magiceden.io/item-details/CDEjVWAKhYrRzqJxEhHV74iMqyY2zyQqWRs71e6D3pgv,Shill City Metro,Fine Scrap House,,,,,Steel,,,Balcony,Fancy Roof,Dive Bar Sign,,,,,,
 2675,11.5,2333,46.61,https://magiceden.io/item-details/G8oEUyRd8xu2RT76JQFACLgvmv4yNtgDtZ2dKHjJ2GfK,Shill City Ghetto,Fine Scrap House,,,,,Hatch,,,Balcony,Driftwood Roof,Sewage Drain,,,,,,
-2694,10,2188,63.37,https://magiceden.io/item-details/4Uw5Zpuzn3ttBDjCR4XnYRaxfon2PBzZnWixaa967h2C,Shill City Ghetto,Scrap House,,,,,Green,,,Capped Roof,Driftwood Roof,Sewage Drain,,,,,,
 2739,10.3,2622,55.09,https://magiceden.io/item-details/2UJVCJNhkzLaHJVPsZdNz6hdD5nxsSYvPMtUQFBEKPcq,Shill City Metro,Scrap House,,,,,Hatch,,,Capped Roof,Fancy Roof,Sewage Drain,,,,,,
 2904,10.5,766,75.68,https://magiceden.io/item-details/AFALGigvZ3Rnto8cpbAbEzUiLnTyRcyymG9zcwRMfoDP,Shill City Ghetto,Chest 2,Black Jack,Blue Window,Green Window,,Fine,,,None,,,,,,,,
 3015,11,538,73.45,https://magiceden.io/item-details/CnKahs8WqyPCWfqRpERBUee1QKgCvdes3W929svWk8r,Shill City Ghetto,Chest 2,None,Barred Window,Green Window,,Hatch,,,Drain Pipe,,,,,,,,
