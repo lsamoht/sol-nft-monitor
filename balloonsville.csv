@@ -33,6 +33,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 283,2.69,2072,81.42,https://magiceden.io/item-details/3DxiYgzYMNwkL3Z5xLqni1HHMx6TipYa1P7ycQeWwt8d,Nyanza,Pink,Black Overalls,Angry,Horns,
 289,4.5,1912,64.6,https://magiceden.io/item-details/FtXi1mjg18enMz6G8tmAEKxZaQ485gX488iKWveRtjpG,Blue,Green,Brown Collared Shirt,Cigarette,Plant,
 311,5.4,2764,48.79,https://magiceden.io/item-details/BihNExherCmKoekVg8eihdMhqG1pCnZiYHmLiTfgx5HA,Purple,Gold,Dark Grey Suit,Clout Goggles,Brown Hair,
+313,4,4163,51.6,https://magiceden.io/item-details/656CQa4e1iVuHoGYhXrbBwa8LFjdjC8nkoiApAM888y8,Nyanza,Gold,Dark Grey Suit,Cigarette,None,
 333,2.49,4534,63.73,https://magiceden.io/item-details/5bKWxD98vQknnj3JtmW5s3NQjzGcx52uCtEDyLr2uYR2,Rose Pink,Yellow,Hoodie,Smile,None,
 335,2.99,2310,76.52,https://magiceden.io/item-details/DXgcs7wNLxCVAgHB6yAGd64UGHXPnfXysdYUsjxpcJRR,Rose Pink,Green,Brown Suspenders,Mask,Rockstar,
 344,8,724,39.11,https://magiceden.io/item-details/H4L3HTru1XESjeoRmVXLbnA4zuKq8ur73nZxn3Wbjvn9,Dark Blue,Yellow,Blue Denim Jacket,Cloudy,Whale,
@@ -392,7 +393,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 3680,31,157,0,https://magiceden.io/item-details/CnT5xiQ5VXgQWKXeHwefvcR7CkrNMWGjZrj487PSNPJA,Light Cyan,Pink,White Strapped Dress,Heart Shaped Sunglasses,Frog,
 3681,3.9,1317,75.36,https://magiceden.io/item-details/5q5thCGMV8sqMD5Jgi2KWc9tBK8Xk6GKLLDRjach1EBc,Pink,Red,Yellow Dress,Onigiri Earrings,Axoloti,
 3682,10,47,24.52,https://magiceden.io/item-details/GY8URtvsENMNr5Jr8Ct8QRrtgLqFgwGk8SFMw7vv4BEV,Purple,Confetti,Yellow Blouse,Chicken Sunglasses,Picnic,
-3686,2.7,1581,85.25,https://magiceden.io/item-details/7y47i9aCPPsEBoMqa6tnKbyD5K55kHJ7TkWe27954j2p,Purple,Gold,Brown Puff Sleeve Dress,Mask,Moon,
 3702,6.5,491,55.97,https://magiceden.io/item-details/GRPZ54RaZ9QvGGQz9972KztLXUUpsLM3onwR6BgTe2Va,Aero Blue,Gold,White Strapped Dress,Onigiri Earrings,Witch Hat,
 3705,4,364,81.99,https://magiceden.io/item-details/HbcEsaW5ViGxyvQRZtjb7wh86ReGPYocBa9kPYUr2ZQD,Nyanza,Rainbow,Heart Robe,Mask,Blue Hair,
 3722,6.969,94,54.46,https://magiceden.io/item-details/6W3oEiCKWG1HYs7SzQAkiE1WFGvHoTB4M5qL2HQ6xxJG,Nyanza,Yellow,Pink Puff Sleeve Shirt,Diva,Cold Day,
@@ -544,6 +544,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 4882,6.4,3816,30.37,https://magiceden.io/item-details/6F1wHavhBcMy1JV1JeSFizeDmiBZsu9ESf5Gis5YLjNi,Dark Blue,Orange,Light Brown Strapped Dress,Bread,None,
 4892,3,3534,66.63,https://magiceden.io/item-details/4tJARhAq4ewN6p6dEJPaP133T3EnWMtZsjHrqu4jYuaX,Purple,Purple,Beige Sweater Vest,Bread,None,
 4928,6.98,3439,27.59,https://magiceden.io/item-details/BtaCe42qVu6P25yPSyTEr5RrTvEBD46VAb9JDESXWgn1,Blue,Rainbow,Blue Strapped Dress,Earpods,None,
+4954,3.4,3835,60.22,https://magiceden.io/item-details/2CEBSdg1byS3RsAecwJGyrhzu4RQKxZaLHC17fsYtntv,Dark Blue,Purple,Quilted Sweater,Bread,None,
 4995,3.2,3817,62.36,https://magiceden.io/item-details/F5ahy8QKajpfqdxHEYAz78nxRU9bXv3RDr7WTBvsaPDQ,Blue,Orange,Pink Cloak,Bread,None,
 4997,4.49,3852,49.18,https://magiceden.io/item-details/376rmYtQ6M6Ta9oXdXnBwBiJLhzQoyfkbEHWW3nsHZi6,Light Cyan,Red,White Dress,Bread,None,
 Robolloon,50,6,0,https://magiceden.io/item-details/9nAnwdZyRwhMcbiSgKeubaHacF7Eoiht6YpiavAxupsH,,,,,,Robolloon
