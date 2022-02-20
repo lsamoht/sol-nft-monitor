@@ -59,6 +59,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 632,4.5,1480,67.96,https://magiceden.io/item-details/C1VzAVJBVKpGSBhkd2Sc7ek6MjE97D7C4Q7sNX1n1qD9,Papaya Whip,Pink,Sleeveless Denim Button Shirt,Motorcyclist,French Fries,
 654,10,3316,0,https://magiceden.io/item-details/4rmjhCSojJ1iiwzVCBRsGvVvNYWsHGAToWY41cdPneto,Dark Blue,Orange,Black Kimono,Mask,Bucket Hat,
 671,5.4,985,62.92,https://magiceden.io/item-details/95uVQwWVJKKAtorkDyisVPXtvTvyvyC5FxVzb4C1rqYS,Rose Pink,Confetti,Tan Brown Blazer Jacket,Embarrassed,Cat,
+673,4.15,2978,59.48,https://solanart.io/search/?token=HWKp2jtJ1tTftf1wPyRpVTmhW5xyV4K5sFYBLM8xqxFD,Blue,Orange,Turtle Neck Sweater,Monocle,Man Bun,
 690,6,2000,48.8,https://magiceden.io/item-details/EBWR8d2DRj42ZhzgrtbzttZ9p56phG2sJmpAp1iv8QkD,Blue,Gold,Brown Collared Shirt,Cigarette,Cap,
 691,3.2,2713,71.1,https://magiceden.io/item-details/A7t8gBhjiKgsXW9ucvUD3hNyentT4fDVLP1zy8DjTT9,Rose Pink,Confetti,Blue Denim Jacket,HBD,HBD,
 693,2.65,2204,80.67,https://magiceden.io/item-details/9chvUn31fX8WxrRxmkGotUxeA1GvV5vWPcEAtFHyQxa,Dark Blue,Pink,Black Robe,Angry,Chicken,
@@ -239,7 +240,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 2735,3.5,2429,70.37,https://magiceden.io/item-details/2Fh9qyod5bFNAYvanwPgmnC3tK3d3wr67H5ZVaoR9G5d,Blue,Purple,Pink Blazer Jacket and Blue Turtleneck,Dead,Boot,
 2774,50,348,0,https://magiceden.io/item-details/ASxWnvFMa8vjrw8Me9yXibX97c3Sk8SMp7p7NAQSb9Xr,Aero Blue,Confetti,Brown Suspenders,Beard,Watermelon,
 2780,3.7,4100,55,https://magiceden.io/item-details/BPdungcMN1PVcJcT7NSFViX7v3nC8FyFRy2jGHCGvFrz,Purple,Orange,T Shirt,3D Glasses,None,
-2781,3,923,87.42,https://magiceden.io/item-details/GFJyYn4fGLV4NCVMxjZNmaCGqXhmeFNzxrymreQRDsKN,Papaya Whip,Red,Astronaut Suit,Cigarette,Vampire Hair,
 2801,6,4627,27.78,https://magiceden.io/item-details/FPkT5LxQGhGQ4oYoTvM1R8a31np3pVXH2MEkv7UBTHny,Blue,Yellow,Purple Town Coat,Glitch,None,
 2805,3.5,4502,53.78,https://magiceden.io/item-details/7yfDVRBZnyH6XDujxunQMBEVmXauq5PsuuNh3WfMxL4v,Pink,Purple,Turtle Neck Sweater,Glitch,None,
 2814,3.5,4541,53.47,https://magiceden.io/item-details/9wnizmDBG6uwdf8hb5hpAH2iMVTC162wdWG1Xm1ysgAw,Papaya Whip,Blue,Beige Tech Fleece,Glitch,None,
@@ -334,7 +334,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 3982,3,1183,85.34,https://magiceden.io/item-details/FwYEh9zfU2SsDPMvW39p6FnZEYHT8Gc5WDZHNuX7mEpz,Blue,Orange,Blue Strapped Dress,Cat Eye Sunglasses,Blue Hair,
 3997,4.39,3260,54.82,https://magiceden.io/item-details/5Z5rnTtHL7aEjiWzo3GpsSEgzuHua2NquKjp2qLrkFd3,Light Cyan,Gold,Light Dress,Wink,None,
 4019,4,4299,50.41,https://magiceden.io/item-details/DdeJqTgzyegr1ZEkVmSrVb8DBqb6LhJA3nBir9Di2C45,Pale Lavender,Pink,Purple Blouse,Smile,None,
-4070,4.5,3395,52.64,https://magiceden.io/item-details/G9NcgkFz6G1mi9dDtp7hp6rSqztpfcnBbR4FXyWkNQ4t,Pale Lavender,Rainbow,Grey Button Shirt,Feather Sunglasses,None,
+4070,3.29,3395,64.74,https://magiceden.io/item-details/G9NcgkFz6G1mi9dDtp7hp6rSqztpfcnBbR4FXyWkNQ4t,Pale Lavender,Rainbow,Grey Button Shirt,Feather Sunglasses,None,
 4084,4.99,676,69.49,https://magiceden.io/item-details/EmEsmH8pvAhyzpMX2mFJyhnYqo8Mt9vTTemMBeueLGdq,Dark Blue,Purple,Brown Puff Sleeve Dress,Flower,Picnic,
 4098,3.97,201,83.49,https://magiceden.io/item-details/8PxVg2bPzpVZJ3LPeNQpjJv9iFFKWveVcRSHDXvKEgnG,Pink,Pink,White Dress,Twinkle,Moon,
 4101,11,52,14.38,https://magiceden.io/item-details/6yhHhg414XTS3amo3M4yBXFSowc3ng8wz5XxUxiAK3su,Light Cyan,Gold,Yellow Dress,Diva,Unicorn,
@@ -355,6 +355,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 4240,4.39,976,73.09,https://magiceden.io/item-details/2QtbEbd9Rukti7x3Bu4JTSMVgNyPEC23LdCT8XjZL5z2,Dark Blue,Red,Light Brown Strapless Dress,HBD,Picnic,
 4244,3.5,689,84.29,https://magiceden.io/item-details/DR4zPrnxmKfHxMC8eVc46PGP1oUn6JSXTY2mtHZU3pVa,Dark Blue,Pink,Brown Cardigan,Onigiri Earrings,Cold Day,
 4257,3.49,621,84.93,https://magiceden.io/item-details/FSJrvAWcZXBSBbLq4spTJm26cSpK74twdZTBq2z31e3j,Rose Pink,Rainbow,Purple Blouse,Smile,Picnic,
+4267,3.27,688,86.6,https://magiceden.io/item-details/cx3hh4zD8DYMaoThrGZLCRnsWxXsLf74ERPCTfASqqs,Papaya Whip,Red,Blue Green Button Shirt,Onigiri Earrings,Cold Day,
 4271,21.5,13,0,https://magiceden.io/item-details/BCjXPLMUha769tXw2RoDBHfBR6meSR6ojeBtZuLEoJki,Dark Blue,Solana,Light Grey Tunic,Dancer,Frog,
 4283,10,1018,16.66,https://magiceden.io/item-details/EuvAhv3cNfvpkreDNx558G4UCm2DMcBfpjyLyfuFQcKk,Rose Pink,Yellow,White Dress,Feather Sunglasses,Rabbit,
 4292,4.8,853,69.98,https://magiceden.io/item-details/9mbeeekZdrGUtg7eP3zd2jXnuMaZugF1wAUDqiT1bJ9y,Nyanza,Blue,Light Dress,Onigiri Earrings,Short Hair,
@@ -404,7 +405,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 Balloonwise,33,3,0,https://magiceden.io/item-details/69hvmDjoQmK7GPm1t9soQv2WqLsLHDY1qG78GVK4SJko,,,,,,Balloonwise
 Robolloon,50,6,0,https://magiceden.io/item-details/9nAnwdZyRwhMcbiSgKeubaHacF7Eoiht6YpiavAxupsH,,,,,,Robolloon
 Balloonpunk,60,2,0,https://magiceden.io/item-details/G3Hqh6Ba8AVt9EkK51FD6kgon8HxnxG6pV7MeEdDFex3,,,,,,Balloonpunk
-673,4.15,2978,59.48,https://solanart.io/search/?token=HWKp2jtJ1tTftf1wPyRpVTmhW5xyV4K5sFYBLM8xqxFD,Blue,Orange,Turtle Neck Sweater,Monocle,Man Bun,
 961,3.9,2841,63.07,https://solanart.io/search/?token=ErvtVCstZNZU1ZsCrW2FUp4eM11KY4BWY9DPS1kiCTH6,Purple,Red,Sleeveless Denim Button Shirt,Thug Life,Boot,
 989,5,3867,43.86,https://solanart.io/search/?token=ELS9jC1LgXqLaXBvdX1mu8CXfydRCygmdfo95aTzxgvG,Purple,Green,Brown Suspenders,Pirate,None,
 1555,18.5,934,0,https://solanart.io/search/?token=hKeyZt3Ai2SqDTanva6nbQRaoWh5nb5dZVqY2TXqyRm,Papaya Whip,Rainbow,T Shirt,Cigarette,Bucket Hat,
@@ -417,4 +417,3 @@ Balloonpunk,60,2,0,https://magiceden.io/item-details/G3Hqh6Ba8AVt9EkK51FD6kgon8H
 3464,3.8,4730,48.96,https://solanart.io/search/?token=GRjWhniKkws15uzYt6TYN2qv29kJSg6nT1yPMkhk9Nvh,Nyanza,Pink,Dark Grey Suit,Glitch,None,
 3932,4.5,809,73.33,https://solanart.io/search/?token=CMSVcX5vQusG28jhhzrayH6S56E9h1Ec29jZ1S922wDg,Dark Blue,Yellow,Blue Green Button Shirt,Feather Sunglasses,Beanie,
 4048,9.66,841,21.47,https://solanart.io/search/?token=7VTAm3WtpwgqLCWzi9byEY9Vwnz4LSgPgZbL3dx1D8Tc,Dark Blue,Pink,Denim Puff Sleeve Dress,Cat Eye Sunglasses,Beach,
-4267,3.39,688,85.4,https://solanart.io/search/?token=cx3hh4zD8DYMaoThrGZLCRnsWxXsLf74ERPCTfASqqs,Papaya Whip,Red,Blue Green Button Shirt,Onigiri Earrings,Cold Day,
