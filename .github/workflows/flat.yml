@@ -52,3 +52,10 @@ jobs:
           http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=balloonsville&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: balloonsville__solanart.json
           postprocess: ./postprocess/solanart.ts
+
+      - name: zilla_vs_kong - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: zilla_vs_kong__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
