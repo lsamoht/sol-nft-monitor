@@ -1,5 +1,4 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Trait 2,Chest Trait 3,Chimney,Door,Easter Head Base,Easter Head Nose,Roof,Trait 1,Trait 2,Trait 3,Unique,Wall,Walls,Window,Windows
-9,15,907,20.56,https://magiceden.io/item-details/22fzDNZi6PBANbHifkqw1bqh2ENH8gs3Jy1PCxwtWA8z,,Bucket,,,,,Hatch,,,Siren,Scrap Drainage Pipe,Glowing Light,Green Window,,,,,
 34,16,1861,0,https://magiceden.io/item-details/dZZ4Z4ywF3f3NMWPL1sscouo22pDdUxxSJCVhv8yNDU,,Fancy Bucket,,,,,Steel,,,Steel Chimney,Duck foot,None,Green Window,,,,,
 86,9.25,1501,70.57,https://magiceden.io/item-details/D5cmgKGZyfk82B8NwjEe7icXohhL9iXgChhcE7PdkWk4,,Fine Bucket,,,,,Pest,,,Steel Chimney,None,Glowing Window,Green Window,,,,,
 98,15,2644,0,https://magiceden.io/item-details/FAQ17HusgJ39zfY43jVxbu1zXtwRxZVgFFuNiY4VUE2G,,Fine Bucket,,,,,Steel,,,None,Scrap Drainage Pipe,None,Green Window,,,,,
@@ -42,7 +41,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1981,20,1273,0,https://magiceden.io/item-details/9tPVxD6tgDhXWXW3QDCFmeiKQmeByQ24HMcxaH16oSV3,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,None,Single Eye,
 2017,9.9,1590,62.95,https://magiceden.io/item-details/9s5TSoV8Szu5B7guMBj6PuxG3BmLMVpGVQte5aabKdcv,,Bare Pineapple,,,,Scrap,Pest,,,,,,,,,Blue,Right Eye,
 2020,11.5,1680,45.81,https://magiceden.io/item-details/GjfYRSii1nPUE86HvuzCCFWnV2C14ybBxdMbh9WjeJDf,Long Valley Nights,Fresh Pineapple,,,,Scrap,Wooden,,,,,,,,,Red,Left Eye,
-2055,9.75,1657,63.6,https://magiceden.io/item-details/6vcgeqrv9XHJzPpxMCGrzCvBvqmoVJwK6aEWgNtzuJMd,The Back Wall,Fresh Pineapple,,,,None,Pest,,,,,,,,,Blue,Single Eye,
 2191,15.6942,2104,0,https://magiceden.io/item-details/CfxaKmsjqN22WsobjY9FCxx8qmaSzwGzgR9bAtKbTbmS,,Submarine,,,,,Pest,,,Drainage Pipe,None,Chimney,Red Light,,,,,
 2216,8.54,2956,59.32,https://magiceden.io/item-details/311iQDXsQjd8hgmFxqKJEZAP9oEs8pXnUg3QtMM56zFp,Shill City Ghetto,Submarine,,,,,Steel,,,None,None,Drainage Pipe,None,,,,,
 2227,15.42,1168,13.07,https://magiceden.io/item-details/6xDgt5MSGhnyehT9nQ4bwB4RMvJRiaQci5NpN42yENog,Shill City Metro,Reinforced Submarine,,,,,Bubble,,,None,Barred Window,Chimney,Green Light,,,,,
@@ -52,7 +50,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2320,9,1871,68.41,https://magiceden.io/item-details/Hf4PAWEYU7BaCn8iYfnZmqF8vSqLFzSQqj7SMzkw931b,,Reinforced Submarine,,,,,Steel,,,Telescope,Window,Drainage Pipe,Red Light,,,,,
 2421,8.6,1956,71.33,https://magiceden.io/item-details/Y3GYwUUywwn2PFPn1tNTVfYu8Q7vgqEsJrVcG1QJ2dV,Shill City Ghetto,Submarine Watchtower,,,,,Bubble,,,None,Window,None,Red Light,,,,,
 2478,9.5,2238,58.78,https://magiceden.io/item-details/9X24axM9V2zmPYyD2WVKroCoM5dTSCSoKfP7Y25fuCyF,,Submarine,,,,,Open,,,Telescope,Barred Window,Chimney,None,,,,,
-2511,8.4,2160,70.76,https://magiceden.io/item-details/2VVTq8qU3wiSZvKv2KqGhrt3LdfQzev9ZUMsR27YKgJ3,Shill City Metro,Scrap House,,,,,Green,,,Capped Roof,Driftwood Roof,Sewage Drain,,,,,,
+2511,8.2,2160,72.76,https://magiceden.io/item-details/2VVTq8qU3wiSZvKv2KqGhrt3LdfQzev9ZUMsR27YKgJ3,Shill City Metro,Scrap House,,,,,Green,,,Capped Roof,Driftwood Roof,Sewage Drain,,,,,,
 2590,8.2,2782,64.92,https://magiceden.io/item-details/9jaMHCGtPGSTiNtjXDPYUWqpBKrS5r1k8YToBYSdMeHx,,Scrap House,,,,,Green,,,Capped Roof,None,Sewage Drain,,,,,,
 2628,8.69,2827,59.45,https://magiceden.io/item-details/3359bxSmwKS8muYnAh8RV4V8Q67WmVMHdNCpLQXEixZ4,,Fancy Scrap House,,,,,Hatch,,,Capped Roof,None,Sewage Drain,,,,,,
 2673,10.89,2419,42.6,https://magiceden.io/item-details/CDEjVWAKhYrRzqJxEhHV74iMqyY2zyQqWRs71e6D3pgv,Shill City Metro,Fine Scrap House,,,,,Steel,,,Balcony,Fancy Roof,Dive Bar Sign,,,,,,
