@@ -6,14 +6,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 41,10,644,70.89,https://magiceden.io/item-details/DqDxBJXhMc1pq7fNTCnTMo2ch3pjbhGy4TYXeeEYzg5R,Desert,Glowing,none,none,none,Ice,Zilla
 44,16.6,30,32.64,https://magiceden.io/item-details/DLhVtX8KUhfkVUVDQp6VZYhLAomQYkP4DC3y7hgGfNe4,Rainforest,Smoke,Pug,Laser,Prisonor leash,Zebra,Kong
 47,20,238,0,https://magiceden.io/item-details/Esqa4UBQaAbe5bNxn7bCeCBP1LPTTbQ2ArbbmiW5Mpu5,Desert,Cyborg,Samurai,none,none,Furry,Zilla
-52,29,354,0,https://magiceden.io/item-details/DiEAsFXPqYZUjYueip3pAVt7hL5vS5udHKP5VW3xhKDS,Beach,Fire,Crown,none,none,Alpha,Kong
 55,15,453,29.53,https://magiceden.io/item-details/2UfGjocScevowjZkMGH9JR54Gh977FSk8W3ckYxnrnMy,Desert,Visor,none,Pipe,none,White,Zilla
 60,21.42069,84,0,https://magiceden.io/item-details/5oavZyosYdaU42qSnPEjkSYyYdyUq9qdjJDAHZ1af4Sz,Beach,none,Fire,Rose,Prisonor leash,Burning,Kong
 71,19.69696969,771,0,https://magiceden.io/item-details/6Sij2mdRAs9W8tnviMNgSjpWCkqHo5iKcQi88xtsWvSG,City,none,none,Bandage,none,Desert,Zilla
 72,20,299,0,https://magiceden.io/item-details/nXD6UYBsLXdqAC8AasPvtky2raJxjs32yELgaBLWQEN,Rainforest,none,Viking helmet,none,Prisonor leash,Rusted,Kong
 73,22,135,0,https://magiceden.io/item-details/EAxJUgUQNiBH9yAhS6cy8z6dZ4ZBSg45wTHMSDEhcVuk,Ruined city,none,Samurai,Bandage,Tie,Cyborg,Zilla
 79,14.75,409,34.01,https://magiceden.io/item-details/9rv68cnFZAbNYvSXFEYoeMCkUiSQCTB469XFDX2zeF7N,Fast food,Rainbow Glasses,none,Blunt,none,Skeleton,Zilla
-85,14,38,58.28,https://magiceden.io/item-details/BkXUohQ8hzF21dTKrLbxgXaDLqdJjpgSmh8ChxpAj6y2,Ruined city,Rainbow Glasses,Piercings,Building,none,Rainbow,Zilla
+85,35,38,0,https://magiceden.io/item-details/BkXUohQ8hzF21dTKrLbxgXaDLqdJjpgSmh8ChxpAj6y2,Ruined city,Rainbow Glasses,Piercings,Building,none,Rainbow,Zilla
 89,22.22,825,0,https://magiceden.io/item-details/9EYKHx6TWgvAgVBHR32eDFemB1hDnBkq5GwxY98tiA6C,Desert,none,none,none,none,Uranium,Zilla
 100,350,4,0,https://magiceden.io/item-details/FCfC1NAS9Mz1Pneiw3yn7VbvKszcmvsjuhJ5iEiTaSBT,Beach,Monicle,Halo,Cigarrette,Prisonor leash,Rainbow,Kong
 101,11.69,458,62.4,https://magiceden.io/item-details/7bQWQuDWUWcZDhvebvJ5zFSVL6xQXucVZWBdWUX61zmP,Desert,Rainbow Glasses,none,Bandage,none,White,Zilla
@@ -22,6 +21,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 139,19,356,0,https://magiceden.io/item-details/KJc3fyPdv7SpnpGVoM59kLTWPYFVLWkLqhwuYFScxPx,Desert,Visor,none,none,Spikes,Cyborg,Zilla
 146,14.5,428,35.66,https://magiceden.io/item-details/DLfpngBnAPvHG5QgpiYVEwrdFG1w3GDfy1pzFsVh13Yz,Rainforest,none,none,Laser,Prisonor leash,Zombie,Kong
 155,14,89,55.98,https://magiceden.io/item-details/Gu1C3UD83DqHUVYXXimk66zPFPuvWo3Q9hfMbgvtzkZX,Pool,Lightning,Piercings,Bloody teeth,none,Alpha,Zilla
+157,14.2,844,19.85,https://magiceden.io/item-details/F8RNx2mErcWYPbabL2KxatfA9mrt4jaoLuFHKC795exg,Fast food,none,none,none,none,Rainbow,Zilla
 173,24.5,340,0,https://magiceden.io/item-details/G3Hb4WBD5dmRYEJ3EpmYa5qWuyaSrBUT6AP5tmcyBhKu,Ruined city,Visor,none,Pipe,none,Cyborg,Zilla
 175,24,199,0,https://magiceden.io/item-details/7ieb5dPw39GycB1rXrTfSrm6fFa4xh4eHg5KKj4X1Vcs,Fast food,Lightning,Blue fire,Bandage,none,Alpha,Zilla
 180,14,743,26.42,https://magiceden.io/item-details/3s1xoSLnct2MRfwkkPpjQLG7tXj3iLVE8b625CEBgjd4,Beach,none,Viking helmet,none,none,Zombie,Kong
@@ -38,6 +38,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 357,20,249,0,https://magiceden.io/item-details/7jPoHEMQU4nKP1kuYT9YBirbzFFMkg2CGzEKYVkKMSdP,City,none,none,Pipe,Metal bolts,Rainbow,Zilla
 358,12,278,67.44,https://magiceden.io/item-details/8ZyJ67YnyAUNejVKZnA9646YHS1WHKDM8kT8SYAhUwrS,Sewer,none,Fire,Cigar,none,Burning,Kong
 368,11.4,489,63.9,https://magiceden.io/item-details/DCgL39T29VNcdMK4HGrPCvnUPTRWsJvXQ2MKUCPd4fWt,Snowy mountains,none,none,Fire,Tie,Zebra,Kong
+375,10.98,540,65.79,https://magiceden.io/item-details/DUDg8Cfkfeesdd9a4Xi953QP5LuR4cEFbK9cdsAHf3PZ,Ruined city,none,Squid,none,none,Desert,Zilla
 389,19.8,235,0,https://magiceden.io/item-details/48jVRuxQWKA8usYNUCVqdqqhuuCWsWKMTNPtRsKQcGEY,Hot air baloon,none,Squid,Pipe,none,White,Zilla
 392,35,10,0,https://magiceden.io/item-details/7MtLCx9w5uZQ8oHkpoyFbTS3Ca5XbBWNRoM5qxBvYtrf,Snowy mountains,none,Baby tiger,Rose,Prisonor leash,Scaled,Kong
 404,22,701,0,https://magiceden.io/item-details/4k7zwxX1qwhfgbFVxdYGdPc6txiNDZJ7o5JgCu37zoe4,Rainforest,Smoke,none,none,none,Scaled,Kong
@@ -45,7 +46,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 425,20,15,0,https://magiceden.io/item-details/4EFjAeVZ2npfK5645Vw6HqTpZDu896dk5UobLowC7coz,Ruined city,Visor,Monkey,Blunt,Tie,Alpha,Zilla
 438,18,16,19.28,https://magiceden.io/item-details/ATC73eWtX97xs86brSRshRw6gLqJ39DaTh7QRp5ipvkD,Cabin,Fire,Viking helmet,Bananna,Prisonor leash,Zebra,Kong
 452,15,865,10.9,https://magiceden.io/item-details/4DvSb4qcmWfQhomkcsaAnpQ79nTqRSDzNdrY8z4o4xZD,Mountains,none,none,none,none,Zombie,Kong
-478,38,155,0,https://magiceden.io/item-details/Dfvjq7YosoEEuN3BVGNKmPfhs55FEKje2KgmSFzeJSSp,Rainforest,Shades,Crown,Rose,none,Winter,Kong
 515,13,798,33.93,https://magiceden.io/item-details/AdoeyfkAFCbENwMC8tVfKDfDA3KmjXcuhBYqhUa1u3x9,Fast food,Shades,none,none,none,Ice,Zilla
 520,18,799,0,https://magiceden.io/item-details/HtrViF8gS1m5VwCr1kvvyKn5U38bBpchhopAL9ud4bFe,Mountains,none,none,Cigarrette,none,Zebra,Kong
 539,60,3,0,https://magiceden.io/item-details/3eHWTqMeJ1Vx3wpSXUdjhcFD4HWm7o3uWQFCiAXh1hRr,Fast food,Visor,Samurai,Kong hand,Spikes,Rainbow,Zilla
@@ -55,6 +55,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 591,30,735,0,https://magiceden.io/item-details/qVPH6cuWHDdhU2vSe6Sx1mjv8MaWehipdeV5iVVqcdF,Pool,none,none,Bandage,none,White,Zilla
 601,31.1,399,0,https://magiceden.io/item-details/3JaoX4dx51NKFFiow8sFjVLqiF1dXLKpSMPTC8PAuz1g,Fast food,Shades,Panda,none,none,White,Zilla
 605,80,488,0,https://magiceden.io/item-details/B92V5YW9HHj8kKYqLELrkR7RAQpg7jkC8MQKVtNn48Nu,Ruined city,none,none,Pipe,Spikes,Alpha,Zilla
+606,10,476,78.49,https://magiceden.io/item-details/DHFUosEe48EqzTVdYLjz1T6enu6abbZN9ptyQt7D7do,Mountains,Smoke,none,none,Prisonor leash,Zebra,Kong
 611,12.5,386,57.55,https://magiceden.io/item-details/4HkXk6XcveiTv9HuCvFphM8HLexu4HD9fg6UMbj7urqA,City,Visor,Horns,none,Tie,Alpha,Zilla
 626,22.22,243,0,https://magiceden.io/item-details/5XKRZ56MhwMAsBkGhJzVDtW3GxmzbGyrj9zHjiKRPHuW,Mountains,Shades,none,Bananna,Tie,Metal,Kong
 637,29.9,18,0,https://magiceden.io/item-details/B2uCYLtiHnCcJfzSGWfRWRAidEg6tjMZr83d62qxdQGB,Hot air baloon,Zilla laser,Piercings,Blunt,Tie,Desert,Zilla
