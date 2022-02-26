@@ -8,10 +8,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 688,9.49,3086,47.39,https://magiceden.io/item-details/Hojp6zHFyGH6RLnpxHBgqxZ51JDhqUasq7B2zP31CQpJ,Outskirts,Trap House,,,,,Wood,,,Telescope,Amethyst Window,None,,,,,,
 701,8.99,2602,58.22,https://magiceden.io/item-details/9TAugogMNZu4hSgai8b2hDoUdBHELtcV9yGfFe2scXyf,,Trap House,,,,,Swinging Doors,,,None,Amethyst Window,Duck Foot,,,,,,
 746,20,2393,0,https://magiceden.io/item-details/D3VRjwsFH5v3hY2TGCnMg16jZAhqeiQAvTYAqqubDAo5,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Vent,None,,,,,,
-797,8,3027,63,https://magiceden.io/item-details/8Djdbjbu5hVFvDNqtRvL1gdTrpmS4siBzPdoxagRabUw,,Toxic Waste Site,,,,,Hatch,,,Vent,Window,None,,,,,,
+797,7.95,3027,63.5,https://magiceden.io/item-details/8Djdbjbu5hVFvDNqtRvL1gdTrpmS4siBzPdoxagRabUw,,Toxic Waste Site,,,,,Hatch,,,Vent,Window,None,,,,,,
 819,7.95,2716,67.25,https://magiceden.io/item-details/3DkYKvYXFas4MYMADKturn7kQWruh9TjM5r1SFoNjgkX,Outskirts,Toxic Waste Site,,,,,Wooden,,,Scrap Chimney,Glowing Window,None,,,,,,
 845,10.9,3023,34.05,https://magiceden.io/item-details/9tNrhaivsL2zmjx1k1NHqoHRGBKTAGrWpNasKeV3M4tB,,Toxic Waste Site,,,,,Steel,,,Roof Vent,None,Vent,,,,,,
-867,8,3317,59.5,https://magiceden.io/item-details/GfGgEWdrZGc7jeiUtVyT5ckNd39j9TjYQDEqxvp3zfK9,,Toxic Waste Site,,,,,Hatch,,,None,None,None,,,,,,
+867,7.95,3317,60,https://magiceden.io/item-details/GfGgEWdrZGc7jeiUtVyT5ckNd39j9TjYQDEqxvp3zfK9,,Toxic Waste Site,,,,,Hatch,,,None,None,None,,,,,,
 892,9.2,2665,55.36,https://magiceden.io/item-details/AXBjNrxtxjpEGQUA1sxsgry1MBTEtKcUrvqJNHgYc5Ko,Outskirts,Toxic Waste Site,,,,,Wooden,,,Scrap Chimney,Glowing Light,None,,,,,,
 926,20,3172,0,https://magiceden.io/item-details/38Jr4C3wvNRkpkwnP3twqQaQ91bTgt8JsA19QH25S4iM,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,None,Glowing Light,,,,,,
 1012,18,2498,0,https://magiceden.io/item-details/E6KhPsGC81mJoS2VZfaBXPyBBX2aF4GYmQgVR1QnykHb,,Toxic Waste Site,,,,,Hatch,,,Vent,Glowing Window,Glowing Light,,,,,,
@@ -30,7 +30,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1581,9,342,85.38,https://magiceden.io/item-details/FHAGxaQFHBc1fC8tNdgA3wC2HFSKkghqpMaXL2JgWHfA,,,,,,,Pest,Crested Volcanic Head,Volcanic,,,,,,Blue,,,Purple
 1623,9.5,122,83.03,https://magiceden.io/item-details/Gh4HqXC2HhXVmpZxbdkdqbzudo94zMXbVRL1DibELuQ5,,,,,,,Decorated Door,Crested Slate Head,Topaz,,,,,,Blue,,,Red
 1699,12,60,58.78,https://magiceden.io/item-details/9uM6ywADDwTgyHFwFEpKaEUY9Nr9c5PttLNqsR3Ht4Wj,,,,,,,Decorated Door,Crested Slate Head,Slate Thick,,,,,,Blue,,,Purple
-1834,11,2058,44.68,https://magiceden.io/item-details/B9A4HS6iqqhpSmru19i5TX4c4jJ1tKB47u29J1JDMp18,,Fresh Pineapple,,,,Steel,Pest,,,,,,,,,Blue,Right Eye,
+1834,10,2058,54.68,https://magiceden.io/item-details/B9A4HS6iqqhpSmru19i5TX4c4jJ1tKB47u29J1JDMp18,,Fresh Pineapple,,,,Steel,Pest,,,,,,,,,Blue,Right Eye,
 1847,11.1,1445,51.07,https://magiceden.io/item-details/EZ9W9k7Kv9MEomKKwpceVLhXzWorqhGN8LGzPmsnG7fv,The Back Wall,Fresh Pineapple,,,,None,Wooden,,,,,,,,,Red,Single Eye,
 1895,24.531,942,0,https://magiceden.io/item-details/GMnUccx5db417UUfJS6SvPFwhWF2GkdRsCE76VgE8E2j,Long Valley Nights,Fresh Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Single Eye,
 1912,9,709,80.95,https://magiceden.io/item-details/3FZwks1oqDzJ75UbB4XNi3XjbkpT5nPRGfkqVjfNc3PU,,Rose Gold Crown Pineapple,,,,Scrap,Festive,,,,,,,,,Blue,Right Eye,
