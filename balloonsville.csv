@@ -1,6 +1,7 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Special
 10,15,211,2.21,https://magiceden.io/item-details/GkA97xLv39TAXqQS1TTJnA4xgSLUqCTsGfKMkUqs9nEj,Blue,Solana,Vampire Costume,Cigarette,Noodles,
 20,9.69,1788,42.7,https://magiceden.io/item-details/3XbGKhexhsSoPCNqrU5ZEDfsaA7K1xfRWh944iUNWRbE,Light Cyan,Gold,Beige Tech Fleece,Dead,Plant,
+22,5.39,2327,81.38,https://magiceden.io/item-details/2mQjLVwuxt9vs7jmT4WLByADNCsC5P6b4v6QaTpT4iSy,Purple,Gold,Striped Sweater With Buttons,Bored,Chicken,
 100,7.5,1646,65.73,https://magiceden.io/item-details/CpjEcuYoYqqYQx5tErfNmP9o7mWXrdr1W6gmwWfU5yiX,Nyanza,Purple,Astronaut Suit,Beard,Cloud,
 114,14,750,7.9,https://magiceden.io/item-details/EKof2DvLV5exguxBoyRC5iMkQEisEx7Fv6VX2t9ENqpM,Dark Blue,Orange,Black Robe,Bored,Pilgrims Hat,
 132,5.39,2122,83.02,https://magiceden.io/item-details/4E2BngSxpkmvzrUxqyvCrPVTc2qj88ALHckHfVNzYa1b,Dark Blue,Purple,Short Sleeved Blue Button Shirt,Cigarette,Cap,
@@ -76,6 +77,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 1675,18,1231,0,https://magiceden.io/item-details/9ruzDCttM8KDDTcWAqG75k71BNa4Cw6jzur7PLskiPNM,Blue,Yellow,Navy Blue Waistcoat,Thug Life,Monkey,
 1681,5.39,2958,76.34,https://magiceden.io/item-details/FGjSdrGHypz4WVNhNmc26hxqLAE4kSonPJGDt7dgtkU,Purple,Yellow,Brown Suspenders,Dead,Bucket Hat,
 1730,5.5,3173,73.52,https://magiceden.io/item-details/9tRgxtCgWDNnUZYX6UiSekTKs5fikzy1Btdvnen2d6sD,Dark Blue,Yellow,Puffer Vest,Angry,HBD,
+1751,5.39,1913,84.7,https://magiceden.io/item-details/XX4LhwCz9Hvcc4RSPwo8Sfd5H3DYXtryKwQjEvTT8WJ,Blue,Pink,Purple Town Coat,Stressed,Elf Hat,
 1759,35,467,0,https://magiceden.io/item-details/EYCxLjFDFvp3QcgshCMdA7yD6SVCHu1zwGKsBQDSTFTw,Light Cyan,Rainbow,Astronaut Suit,Monocle,Plant,
 1767,8,1509,61.83,https://magiceden.io/item-details/4MrvE7CRyQnwmB7t6wepbEqJGUUd7qkEfDJMcgQ6kfgV,Pale Lavender,Yellow,Astronaut Suit,3D Glasses,Cat,
 1770,7,445,80.34,https://magiceden.io/item-details/97NKaQuxkSCKxTaC4rQNbsXnMLQBfQVhCzRQvJuSXjC3,Pale Lavender,Gold,Short Sleeved Pink Button Shirt,Motorcyclist,Watermelon,
@@ -122,7 +124,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 2956,8,4487,38,https://magiceden.io/item-details/E7JqnB33gsWETue4gbb5gjGZAQsEtjnnbKc9vTHDb87w,Dark Blue,Pink,Beige Tech Fleece,Cyborg,None,
 2996,9.5,4503,22.88,https://magiceden.io/item-details/Czf2wNwwKwjFwtZt9GGUs8jojPGvb4vDMoaY2vLpux4e,Blue,Red,Black Suspenders,VR,None,
 3017,13,4577,0,https://magiceden.io/item-details/LFyALUgSdcePCEr1t4qFSCjuD5SbiBCKrKndvrvJdg8,Blue,Purple,Short Sleeved Pink Button Shirt,Gas Mask,None,
-3041,8,4731,36.05,https://magiceden.io/item-details/5GUZ1hEGiwHpXa29mC5r3UGNM6YvEchZyy8wLTDwHgNB,Pale Lavender,Green,Pirate Costume,Gas Mask,None,
 3110,11,4664,6.59,https://magiceden.io/item-details/E6wkZ7d1cvw6fado6PSgfQyPRMAY2LPbXF8rzEhwD8ga,Rose Pink,Yellow,Yellow Utility Jacket,Glitch,None,
 3122,5.4,4996,59.93,https://magiceden.io/item-details/F9DdGXKpudNu6z1yK8SHv2Hws9rRpMoacGvcLATpK5iV,Aero Blue,Green,Starship Suit,Gas Mask,None,
 3234,8.9,4649,27.71,https://magiceden.io/item-details/2UCW5SxtLkazhAsJmBHCiu8vzrPHervCgLZJpusPZx7D,Pink,Green,Pink Blazer Jacket and Blue Turtleneck,Glitch,None,
