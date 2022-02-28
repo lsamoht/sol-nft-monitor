@@ -17,7 +17,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 263,15.99,683,54.3,https://magiceden.io/item-details/A7u1TuRkxGA82o62jNSFqnqouw32rribNXK97xtMfYVc,Desert,none,none,Blue fire,none,Desert,Zilla
 271,18,700,33.43,https://magiceden.io/item-details/Fnz5Z2UR2SgCCK7A3ptPQqCnxyC6PVoT1bSysdSgFVgH,Fast food,none,none,Pipe,none,Cyborg,Zilla
 285,14.5,622,71.95,https://magiceden.io/item-details/5hc7rjoogec9A9dnsjyarHMM98usuQR1wEUvwi21GG2S,City,none,none,Bloody teeth,none,White,Zilla
-313,16,587,58.53,https://magiceden.io/item-details/DAHF3cBesvFj3F5ZZVomF7xTjy4FRtGgPF81iS8TMSMq,Desert,none,none,none,Metal bolts,Skeleton,Zilla
+313,15,587,68.53,https://magiceden.io/item-details/DAHF3cBesvFj3F5ZZVomF7xTjy4FRtGgPF81iS8TMSMq,Desert,none,none,none,Metal bolts,Skeleton,Zilla
 390,28,166,0,https://magiceden.io/item-details/PKkB8H3kN7ZQHSo1QWMBHDXpg8FUA8wKPgDRfcZJNur,Sewer,none,Baby zilla,none,Tie,Rusted,Kong
 401,15.5,759,55.77,https://magiceden.io/item-details/8bRPLQBogRH8HTTpC6XGCvpVmRQ26oxwvcg3TV1x7ZmY,Hot air baloon,Lightning,none,none,none,Alpha,Zilla
 449,14.5,678,69.43,https://magiceden.io/item-details/2QjD98FqgLpBmw9hA47NxUUATWUTJZHbN8bAn3qa4ugE,Pool,Shades,Horns,none,none,Alpha,Zilla
@@ -32,7 +32,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 663,23.5,727,0,https://magiceden.io/item-details/9hrSfpQRPuEWTGftXyqN5auwnPU6mujJqF24gfRpQDZy,Fast food,none,none,Blunt,none,Ice,Zilla
 690,25,813,0,https://magiceden.io/item-details/FXvQE8trZpdHiP1k1J9E3v1RDtYeDjtDJjiicTYg26m4,Beach,none,none,Laser,none,Alpha,Kong
 699,20,766,10.46,https://magiceden.io/item-details/AUSC5jSgsQZ7ANCHFphBsAZXWw2cpebn5As7kDVDf5Mz,Ruined city,Shades,none,none,none,White,Zilla
-707,45,353,0,https://magiceden.io/item-details/G1TsmQUU8hj1QnJ6gbBmXekfUmzUE9wt1znJqtk8T3po,City,none,Horns,Bloody teeth,none,White,Zilla
+707,30,353,0,https://magiceden.io/item-details/G1TsmQUU8hj1QnJ6gbBmXekfUmzUE9wt1znJqtk8T3po,City,none,Horns,Bloody teeth,none,White,Zilla
 715,15.8,608,59.58,https://magiceden.io/item-details/CGHRrfVQEdyKPxsf59BLC9aPwXC7nL7XQDhcoNQB5wzf,Hot air baloon,none,none,Building,none,Ice,Zilla
 717,24,192,0,https://magiceden.io/item-details/4vrmpRvsSH9Fpit8ikVCTgGUqWQLFRRkCupXgBQ3CaE6,Desert,none,Blue fire,Building,none,Uranium,Zilla
 749,22,63,22.16,https://magiceden.io/item-details/DtNWBb12iNJe9qH1jUuNmkxMKMXZcXTy6qZD9qe3qdV4,Ruined city,Glowing,none,Kong hand,Tie,Ice,Zilla
@@ -40,11 +40,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 790,18.51,109,54.98,https://magiceden.io/item-details/FcaYG4YGFmgoHahh1EFoWiQ5kcpBGNr9uxKqAN89KXNt,Cabin,none,Fire,Laser,Prisonor leash,Zebra,Kong
 795,75,62,0,https://magiceden.io/item-details/2WnG3fwFkoiBK78wrnSpJ4kGcuFLSZzrinFVT5VekPj6,Fast food,none,Blue fire,Building,Spikes,Furry,Zilla
 804,30,112,0,https://magiceden.io/item-details/FowUxarVUi2zZhCWyoDh2mM6RspVgp8kFhBWQzkzQ1L6,Cabin,none,Baby tiger,Fire,none,Gold,Kong
-810,15.5,796,54.1,https://magiceden.io/item-details/BcfWwjuDhQ6KjveLNn3uSULcyFAAebztkEPfEzvbPZFc,Mountains,none,none,none,Tie,Zebra,Kong
+810,15,796,59.1,https://magiceden.io/item-details/BcfWwjuDhQ6KjveLNn3uSULcyFAAebztkEPfEzvbPZFc,Mountains,none,none,none,Tie,Zebra,Kong
 818,18.75,51,55.2,https://magiceden.io/item-details/2BxbDyY4CgZG945ZjFt5EGQFLeX7G2LFcRWPFWiauCLg,Snowy mountains,none,Pirate hat,Black Bananna,Prisonor leash,Zombie,Kong
 819,20,148,38.33,https://magiceden.io/item-details/rSeLDMFFxpLBrNu8p3aBFcDBiehb59kyqnVpUX6ruQY,Hot air baloon,Shades,Kitten,Blue fire,none,Alpha,Zilla
 840,40,277,0,https://magiceden.io/item-details/2fXukyLXjJyapdXTYXLJzsnyvgxPhcFDsB24JKVN87yT,Beach,none,none,Black Bananna,Gold chains,Alpha,Kong
 861,15.8,754,53,https://magiceden.io/item-details/6EK5gux5t5bx8Q5fLh65zScUzPdLDPWwmrUgjAYoYQMF,Pool,Cyborg,none,none,none,Alpha,Zilla
 867,23.25,713,0,https://magiceden.io/item-details/7CxyZCBjk2eZ3okXRbmbChyZtS2GGfxJy1WEk8yLzwWM,Hot air baloon,none,none,Bandage,none,White,Zilla
-868,25,108,0,https://magiceden.io/item-details/65tbpLc9b5pbvMvGNqiUYYezVbzpQXTsYqNtfuEQY8ky,Beach,Smoke,Baby zilla,Laser,none,Zebra,Kong
 882,25,225,0,https://magiceden.io/item-details/HJ1K2Sz51Zqb9VgZuxohHmii43eSfrfKg1TzXdnWRTKg,Rainforest,none,none,Rose,Gold chains,Metal,Kong
