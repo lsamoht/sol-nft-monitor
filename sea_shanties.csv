@@ -1,7 +1,9 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Trait 2,Chest Trait 3,Chimney,Door,Easter Head Base,Easter Head Nose,Roof,Trait 1,Trait 2,Trait 3,Unique,Wall,Walls,Window,Windows
 34,16,1861,0,https://magiceden.io/item-details/dZZ4Z4ywF3f3NMWPL1sscouo22pDdUxxSJCVhv8yNDU,,Fancy Bucket,,,,,Steel,,,Steel Chimney,Duck foot,None,Green Window,,,,,
 98,15,2644,0,https://magiceden.io/item-details/FAQ17HusgJ39zfY43jVxbu1zXtwRxZVgFFuNiY4VUE2G,,Fine Bucket,,,,,Steel,,,None,Scrap Drainage Pipe,None,Green Window,,,,,
+163,7,1875,77.41,https://magiceden.io/item-details/B62SmuYpAQPMD52k14jJ1AB7dfvZezrjEjA8gYb22759,Outskirts,Bucket,,,,,Steel,,,Siren,Drainage Pipe,None,None,,,,,
 213,10,2003,45.87,https://magiceden.io/item-details/6tC7hbzdKxVrv5hcheNJzPAMxoFcAWqT2EFL21mBDZuR,Outskirts,Fancy Bucket,,,,,Steel,,,Siren,Drainage Pipe,None,None,,,,,
+307,7,608,92.66,https://magiceden.io/item-details/9oakAXXUYQX1WZhdtiQL3kknmRFDZxNU8RrRH3wYNX6L,,Fancy Bucket,,,,,Watcher,,,Steel Chimney,Drainage Pipe,Glowing Light,Green Barred Window,,,,,
 450,8.55,3231,45.59,https://magiceden.io/item-details/EjAJAe89u6bLnxUxwTVpSeuqq3ph7GnJ1W8BfG4C9uVu,,Trap House,,,,,Open,,,None,Amethyst Window,None,,,,,,
 455,7.5,3153,57.03,https://magiceden.io/item-details/2jvd5Gs2ao19sqtonzNyFByvtY65pefpSd4xEerHtwB3,,Trap House,,,,,Wood,,,Drainage Pipe,Barred Window,None,,,,,,
 503,8.5,2933,49.67,https://magiceden.io/item-details/24Epdt1Fq8n5pWNxRh73grDv1NhuKzVA8ScQipd47gAh,,Trap House,,,,,Wood,,,Drainage Pipe,Amethyst Window,None,,,,,,
@@ -48,6 +50,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2468,7,1552,81.3,https://magiceden.io/item-details/9tZd8k8Kt6FVbcst6UWnLjtaXJjE3anH2U2qttdQ5fnT,,Submarine Watchtower,,,,,Open,,,Telescope,Barred Window,Chimney,Green Light,,,,,
 2521,7,2833,65.88,https://magiceden.io/item-details/5sGAaLqF8WZ8Pn2yhvcCQJFXfZnnnbY3MzCZfhbkmfj7,Shill City Metro,Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,None,,,,,,
 2542,7.19,2711,65.45,https://magiceden.io/item-details/9bizN54tfnpzGrWwmHKNDqiz3HfgVjNPt6BBFxf8WtfH,,Scrap House,,,,,Green,,,Pot Lid,None,Casino Sign,,,,,,
+2773,7,2519,69.66,https://magiceden.io/item-details/2SRohUtDrvo1DCuSDrHZFygEVX7F7BwPsPZfTvqaQ1yp,Shill City Ghetto,Scrap House,,,,,Green,,,None,Fancy Roof,OG's Clubhouse Sign,,,,,,
 3025,7,489,94.09,https://magiceden.io/item-details/5ySUK12sLuouYYioHpsDUC9rMRF7ZjMXfGRAe3F2RoLW,Shill City Metro,Chest 2,None,Pub Window,Green Window,,Hatch,,,Drain Pipe,,,,,,,,
 3050,10,440,64.68,https://magiceden.io/item-details/fDebtDazittZySr6mQbkMTCZh9gceBRWy6G4zBxh1ii,Shill City Metro,Chest,None,Pub Window,Blue Window,,Hatch,,,Chimney,,,,,,,,
 3081,8,949,78.56,https://magiceden.io/item-details/2vSim7vLcFEokeYjAjQCSttVkumtbTKqxuoTrtUCy49q,Shill City Metro,Chest 2,Saloon,Green Window,Blue Window,,Hatch,,,None,,,,,,,,
