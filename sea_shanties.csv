@@ -30,7 +30,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1762,9.2,388,86.22,https://magiceden.io/item-details/7bDz9ttsxhvqLTjRtLLWZjHYZLFgYtdZng8fqLVsirZ6,,,,,,,Pest,Slate Head,Jade Thick,,,,,,Red,,,Purple
 1895,24.531,942,0,https://magiceden.io/item-details/GMnUccx5db417UUfJS6SvPFwhWF2GkdRsCE76VgE8E2j,Long Valley Nights,Fresh Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Single Eye,
 1981,20,1273,0,https://magiceden.io/item-details/9tPVxD6tgDhXWXW3QDCFmeiKQmeByQ24HMcxaH16oSV3,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,None,Single Eye,
-1994,15,1968,8.75,https://magiceden.io/item-details/4GYuLB1bHR9uWZLujNZjNK8g5WtcFXeySHYfva97kMJq,,Bare Pineapple,,,,Steel,Pest,,,,,,,,,Red,Eyes,
+1994,12,1968,38.75,https://magiceden.io/item-details/4GYuLB1bHR9uWZLujNZjNK8g5WtcFXeySHYfva97kMJq,,Bare Pineapple,,,,Steel,Pest,,,,,,,,,Red,Eyes,
 2096,19,874,0,https://magiceden.io/item-details/DCGKvCyZpD5LugSsiaonHF2qiAUqos8MmD8PiK6vHQJF,The Back Wall,Fresh Pineapple,,,,Rust,Festive,,,,,,,,,Blue,Eyes,
 2188,8.4,2438,68.96,https://magiceden.io/item-details/8vvAnPcEPeLZJBqpBuxUhUe4UCmVPzNFBT8eHzkH3ELx,,Submarine,,,,,Steel,,,Telescope,Barred Window,Chimney,None,,,,,
 2191,15.6942,2104,0.13,https://magiceden.io/item-details/CfxaKmsjqN22WsobjY9FCxx8qmaSzwGzgR9bAtKbTbmS,,Submarine,,,,,Pest,,,Drainage Pipe,None,Chimney,Red Light,,,,,
@@ -38,8 +38,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2280,9,1018,80.46,https://magiceden.io/item-details/A56QV4SbytysnPKhy5Dskr6Ni68MwPjEJfEAuPh8jACz,,Submarine Watchtower,,,,,Pest,,,Drainage Pipe,Fine,Chimney,Blue Light,,,,,
 2333,11,2091,47.23,https://magiceden.io/item-details/HES7AzStmpXCNnDt82cd6ohnjKwPgG8p6YnKyrdqypVy,Shill City Ghetto,Submarine,,,,,Bubble,,,Telescope,Barred Window,None,Blue Light,,,,,
 2429,8.6,2706,63.65,https://magiceden.io/item-details/5tTR2oJ4YBdGbV99RjfnmSpSCudUu9F6tnTj6PYq5vBx,,Submarine Watchtower,,,,,Steel,,,None,Window,None,Green Light,,,,,
-2435,8.69,2805,61.53,https://magiceden.io/item-details/HhhbzwxRfc9aSMN7QY5VVBB1GA7pXeAqUURMMHA4YzBi,,Submarine,,,,,Steel,,,None,None,Chimney,Blue Light,,,,,
-2457,8.69,1649,75.78,https://magiceden.io/item-details/9QmdkY93MbdawTJQq2L7w8DGq2i55d8AKSf3gSTWr2PJ,,Submarine Watchtower,,,,,Open,,,Telescope,Window,Chimney,Blue Light,,,,,
 2628,9,2827,58.16,https://magiceden.io/item-details/3359bxSmwKS8muYnAh8RV4V8Q67WmVMHdNCpLQXEixZ4,,Fancy Scrap House,,,,,Hatch,,,Capped Roof,None,Sewage Drain,,,,,,
 2643,8.3,2099,74.13,https://magiceden.io/item-details/6EniX1paK1S1Tfq8Au76qmM3pm5F2cFKV8pLAhCV8tNH,,Fine Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,Sewage Drain,,,,,,
 2700,8.8,3246,55,https://magiceden.io/item-details/38Xs2WGJjg7FT3MPwcNhSU5aiuT3eozwT6SL4hcifcLR,,Fine Scrap House,,,,,Hatch,,,Pot Lid,None,None,,,,,,
