@@ -10,6 +10,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 926,20,3172,0,https://magiceden.io/item-details/38Jr4C3wvNRkpkwnP3twqQaQ91bTgt8JsA19QH25S4iM,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,None,Glowing Light,,,,,,
 1029,14.3,2628,14.71,https://magiceden.io/item-details/ArkPGq3xLhKth4qFMtksuTVju7XAGmBF7tAfGPrW4x5i,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,Glowing Light,Glowing Light,,,,,,
 1087,9.5,1517,76.36,https://magiceden.io/item-details/AtVhwNu3QC2omwA1fra8Rfz4AgAB8VQ3KiJ9be8iNmVn,,Coral Bare,,,,Rust,Steel,,,,,,,,,None,Blue Invader,
+1106,9,1263,84.48,https://magiceden.io/item-details/GEddxz9kAXAKETRksapQytYJ3vxwsNphZZG1n2EaQ5dc,,Coral balanced,,,,Scrap,Wood,,,,,,,,,Red,Blue Invader,
 1117,12.69,1283,47.34,https://magiceden.io/item-details/Gb1RtwWjaU9FpfMJ7De3smA4uYsRmVzgWHqQEbNeC8iG,,Coral Bare,,,,Scrap,Pest,,,,,,,,,Purple,Red Invader,
 1225,9.65,1588,73.99,https://magiceden.io/item-details/A61Jmm6C1WTrUKVU6V2idPn3qtYscEnM4cijapsBWbN7,,Coral balanced,,,,Steel,Steel,,,,,,,,,None,Red Window,
 1265,11,1304,63.98,https://magiceden.io/item-details/9DMdZhgQnrXd5RPD859AyBLauCtVZAsAX9RgAzZr5p7A,,Coral balanced,,,,None,Open,,,,,,,,,Blue,Red Invader,
@@ -24,6 +25,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1681,36,29,0,https://magiceden.io/item-details/FLg9DSjSmqJVFe6g6tH3Zv2LdZpog1Gx7QD1M21E3B78,The Back Wall,,,,,,Open Blue Door,Slate Head,Slate Thick,,,,,,Red,,,Red
 1688,14.69,223,40.36,https://magiceden.io/item-details/HFgQBCnQ5hyNRQUcdSWVXwKKyS4TA7hiou5yT8GXMn9c,,,,,,,Red Door,Crested Jade,Volcanic,,,,,,Purple,,,Green
 1779,16.5,1618,5.12,https://magiceden.io/item-details/DdoAftXTfkDHrGKHti2CSssa7pHMAs1SNkbAWxLuXi8w,City View,Fresh Pineapple,,,,None,Pest,,,,,,,,,Purple,Right Eye,
+1795,10,1068,76.88,https://magiceden.io/item-details/9pN3sJFzcc54nHGKDVFRM817KTg675nc8RqWsLYhFGAu,,Bare Pineapple,,,,Rust,Red,,,,,,,,,Purple,Left Eye,
 1821,18,1964,0,https://magiceden.io/item-details/Aq8eA3dbxVPNE38sRnBY1D7zriMT1fefXCTqt4CBaexz,,Fresh Pineapple,,,,Steel,Pest,,,,,,,,,Blue,Single Eye,
 1895,24.531,942,0,https://magiceden.io/item-details/GMnUccx5db417UUfJS6SvPFwhWF2GkdRsCE76VgE8E2j,Long Valley Nights,Fresh Pineapple,,,,Scrap,Festive,,,,,,,,,Red,Single Eye,
 1946,15.69,1254,17.69,https://magiceden.io/item-details/FoWMyX9Ju5p1VUhfzMa26efU7DoYrgCcRU4fKt6aHTWD,,Rose Gold Crown Pineapple,,,,Steel,Red,,,,,,,,,Red,Eyes,
@@ -37,8 +39,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2787,9.98,3256,50.2,https://magiceden.io/item-details/NfbKCP78BHoL3w66nKPmTsP5emj3iHP83zsmVydqBWA,,Fine Scrap House,,,,,Hatch,,,Pot Lid,None,None,,,,,,
 2832,18.5,499,0,https://magiceden.io/item-details/38rUHrozJ4tQgWiUUhsAymAneYo81FW8ErAttmCpjyhj,Shill City Ghetto,Chest,Black Jack,Green Window,Barred Window,,Fine,,,Drain Pipe,,,,,,,,
 2857,13,829,49.82,https://magiceden.io/item-details/Afv7CVo51RKC5dqThzB77Y5XQZ5WiDEJZLn2ZD1HkX56,Shill City Metro,Chest 2,Saloon,Barred Window,Barred Window,,Steel,,,Telescope,,,,,,,,
+2860,9.3,411,91.95,https://magiceden.io/item-details/BmMxPq4uEwnfZZYiKmpUd1pgRDZaFNXE1Vgw5k1yCBqm,Shill City Metro,Chest 2,Black Jack,Pub Window,Green Window,,Fine,,,Chimney,,,,,,,,
 3005,14,775,40.48,https://magiceden.io/item-details/9UtGRMNm49vFUYRcqykgq4XshgMiTib8tNHFPhPLtHrN,,Chest,Black Jack,Green Window,Pub Window,,Hatch,,,Telescope,,,,,,,,
-3027,9,316,96.12,https://magiceden.io/item-details/Ctj5WSS2hUrojVuWWHYAo5niSL1ZaqyUiaiwuBJxK2Uz,Shill City Metro,Chest 2,None,Pub Window,Blue Window,,Fine,,,Chimney,,,,,,,,
 3129,12,450,64.47,https://magiceden.io/item-details/JKypkq8UuuyxAy9Ag1oJcemDt88ncfmAXgbPuqYSNd8,Shill City Ghetto,Chest,Restaurant,Barred Window,Blue Window,,Fine,,,Drain Pipe,,,,,,,,
 3179,11.75,911,61.31,https://magiceden.io/item-details/4SDirhMV2JL7oyvJUKN9chfzGLW5F3uNiie2PFjayBJe,Shill City Metro,Chest,Restaurant,Barred Window,Green Window,,Steel,,,Telescope,,,,,,,,
 3206,14,1745,28.56,https://magiceden.io/item-details/8zniCzpTN6sJn1CbD8igi5UFfT8EkTPMkD3jEYe1X3Py,,Submarine Watchtower,,,,,Pest,,,Telescope,Window,Drainage Pipe,Blue Light,,,,,
