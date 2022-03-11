@@ -18,7 +18,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1529,11.9,184,63.74,https://magiceden.io/item-details/8gGKfykHE5wNouUTR7xz2ssUr9q31Mx4wJps8knqPyvE,The Back Wall,,,,,,Decorated Door,Crested Slate Head,Slate,,,,,,Blue,,,Purple
 1535,17.5,214,7.37,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
 1538,15.45,295,26.88,https://magiceden.io/item-details/8apJ5wBFQgYf5bNr6kbtLUYT7TkENcbwRNMKadAbnBpB,,,,,,,Open Red Door,Volcanic Head,Jade Thick,,,,,,Blue,,,Red
-1571,11.5,395,65.15,https://magiceden.io/item-details/KzSk8EDTa9StTV7F24UG21kN2rjpp3P8atNpsuK5ePt,,,,,,,Pest,Slate Head,Jade Thick,,,,,,Red,,,Green
+1571,9.4,395,86.15,https://magiceden.io/item-details/KzSk8EDTa9StTV7F24UG21kN2rjpp3P8atNpsuK5ePt,,,,,,,Pest,Slate Head,Jade Thick,,,,,,Red,,,Green
 1587,10.5,371,75.44,https://magiceden.io/item-details/26Wf5yNbsmjN7kB3ctfENzspivcYCcxv2SrLTQ8MH1Q5,,,,,,,Pest,Crested Jade,Volcanic Thick,,,,,,Purple,,,Purple
 1640,10.5,427,74.75,https://magiceden.io/item-details/6AsrXxWTdTUjRPTTusX7g2MguQN37scjeV6EJaZvJEdV,,,,,,,Pest,Crested Slate Head,Jade Thick,,,,,,None,,,Green
 1681,36,29,0,https://magiceden.io/item-details/FLg9DSjSmqJVFe6g6tH3Zv2LdZpog1Gx7QD1M21E3B78,The Back Wall,,,,,,Open Blue Door,Slate Head,Slate Thick,,,,,,Red,,,Red
@@ -32,9 +32,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1981,20,1273,0,https://magiceden.io/item-details/9tPVxD6tgDhXWXW3QDCFmeiKQmeByQ24HMcxaH16oSV3,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,None,Single Eye,
 2019,10.5,1136,66.04,https://magiceden.io/item-details/HehsSTYEXNRNANneerQNnAbGwm1GA1pLNmvZ7ez93AY3,City View,Fresh Pineapple,,,,Steel,Festive,,,,,,,,,None,Left Eye,
 2039,11.69,1920,44.51,https://magiceden.io/item-details/9roqd9uMCTcYfNLBoh5WjfUcsbvy9UTRFPGsKMm1HvSz,,Silver Crown Pineapple,,,,Scrap,Steel,,,,,,,,,Red,Left Eye,
-2176,8.5,1631,79.96,https://magiceden.io/item-details/FUh2tcX46Cdw2X8av1KqcK9gZgQVj7uR2v3a42wQngph,,Reinforced Submarine,,,,,Open,,,Telescope,Barred Window,Drainage Pipe,Red Light,,,,,
 2251,10,1795,62.95,https://magiceden.io/item-details/2GqkMLkmAVxxgjJJ5CAcg18cfK1cRjtTyy8ee6VhiiKT,,Submarine Watchtower,,,,,Pest,,,Drainage Pipe,None,Chimney,Green Light,,,,,
-2597,9.5,3135,51.49,https://magiceden.io/item-details/7VzcGGkqdSWZsGkkAkiV8Nrs2uja2gBdJeq7G529Pbto,Shill City Ghetto,Scrap House,,,,,Steel,,,None,Driftwood Roof,Sewage Drain,,,,,,
+2597,8.5,3135,61.49,https://magiceden.io/item-details/7VzcGGkqdSWZsGkkAkiV8Nrs2uja2gBdJeq7G529Pbto,Shill City Ghetto,Scrap House,,,,,Steel,,,None,Driftwood Roof,Sewage Drain,,,,,,
 2616,28,2074,0,https://magiceden.io/item-details/BGJUmNErmEXHcZbBWsngMqHFG1srhnqBVE9cybTEz2qf,,Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,Casino Sign,,,,,,
 2730,10,2253,57.32,https://magiceden.io/item-details/BAv2aekZBUKd6U6jCq76H9SFBTDMxnBXAYnHnbvoDE3Z,,Scrap House,,,,,Hatch,,,Balcony,Fancy Roof,OG's Clubhouse Sign,,,,,,
 2775,8.5,1713,78.96,https://magiceden.io/item-details/7dKkmVSaYVmS4JZh562FhNhKnrUz8w8ADYCQaBiUbzob,,Fine Scrap House,,,,,Green,,,Capped Roof,Driftwood Roof,Casino Sign,,,,,,
