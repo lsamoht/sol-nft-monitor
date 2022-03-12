@@ -1,8 +1,8 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Trait 2,Chest Trait 3,Chimney,Door,Easter Head Base,Easter Head Nose,Roof,Trait 1,Trait 2,Trait 3,Unique,Wall,Walls,Window,Windows
 34,16,1861,15.14,https://magiceden.io/item-details/dZZ4Z4ywF3f3NMWPL1sscouo22pDdUxxSJCVhv8yNDU,,Fancy Bucket,,,,,Steel,,,Steel Chimney,Duck foot,None,Green Window,,,,,
 61,11.69,501,74.95,https://magiceden.io/item-details/3nMVHbBcc1XRPcpeZPQ1n5inAmShB19GWHPhCJrcWNeb,Go to Shill City,Fine Bucket,,,,,Watcher,,,Steel Chimney,Scrap Drainage Pipe,Glowing Window,Green Window,,,,,
-105,9.9,724,90.11,https://magiceden.io/item-details/7LX67MfzXGM41GtYNmeHmBV8KjGPYP8GjZ1RGP2i4qZD,,Fancy Bucket,,,,,Hatch,,,Siren,Drainage Pipe,Glowing Barred Window,Green Window,,,,,
 305,12,1791,56,https://magiceden.io/item-details/8tDrfijjstcQxsqLb1xYvkJNa9LAgAb4sQuFuSxETctw,,Fancy Bucket,,,,,Watcher,,,None,None,Glowing Window,Green Window,,,,,
+504,9.8,3029,62.79,https://magiceden.io/item-details/Gtk5ZvxC1Mdmay3JGgpwo5WHvvjsnhYs3i3WR1X2aFYY,,Trap House,,,,,Wood,,,Drainage Pipe,None,Plumbing,,,,,,
 585,11,3010,51.02,https://magiceden.io/item-details/BYCsyS3MZhyjhgyFPiL816dyAJXXgmcqLAi9422qjhTc,,Fancy Reinforced Trap House,,,,,Steel,,,None,Barred Window,Duck Foot,,,,,,
 716,10.5,2676,60.13,https://magiceden.io/item-details/EeowfNsAHNmAcjzSYsuQTjKX1ZEzjaZ55p71zkRFptPh,,Toxic Waste Site,,,,,Hatch,,,Roof Vent,Pest,None,,,,,,
 746,20,2393,0,https://magiceden.io/item-details/D3VRjwsFH5v3hY2TGCnMg16jZAhqeiQAvTYAqqubDAo5,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Vent,None,,,,,,
@@ -14,6 +14,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1529,11.9,184,76.74,https://magiceden.io/item-details/8gGKfykHE5wNouUTR7xz2ssUr9q31Mx4wJps8knqPyvE,The Back Wall,,,,,,Decorated Door,Crested Slate Head,Slate,,,,,,Blue,,,Purple
 1535,17.5,214,20.37,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
 1587,10.5,371,88.44,https://magiceden.io/item-details/26Wf5yNbsmjN7kB3ctfENzspivcYCcxv2SrLTQ8MH1Q5,,,,,,,Pest,Crested Jade,Volcanic Thick,,,,,,Purple,,,Purple
+1596,9.99,201,95.63,https://magiceden.io/item-details/DFsf6a1wuB1FLFCfDFzMpS751QL9G56WSiys4j4rAD8k,,,,,,,Open Red Door,Crested Slate Head,Ruby,,,,,,Red,,,Green
 1640,10.5,427,87.75,https://magiceden.io/item-details/6AsrXxWTdTUjRPTTusX7g2MguQN37scjeV6EJaZvJEdV,,,,,,,Pest,Crested Slate Head,Jade Thick,,,,,,None,,,Green
 1681,36,29,0,https://magiceden.io/item-details/FLg9DSjSmqJVFe6g6tH3Zv2LdZpog1Gx7QD1M21E3B78,The Back Wall,,,,,,Open Blue Door,Slate Head,Slate Thick,,,,,,Red,,,Red
 1688,14.69,223,48.36,https://magiceden.io/item-details/HFgQBCnQ5hyNRQUcdSWVXwKKyS4TA7hiou5yT8GXMn9c,,,,,,,Red Door,Crested Jade,Volcanic,,,,,,Purple,,,Green
