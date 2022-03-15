@@ -10,13 +10,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 785,10.9,2063,65.27,https://magiceden.io/item-details/3jzxZcF3mkiJbZbbYKmLK294K9Ndajq41WuxQ2votk2d,,Toxic Waste Barrel,,,,,Open,,,Roof Vent,Glowing Window,Vent,,,,,,
 916,10.5,2943,58.29,https://magiceden.io/item-details/CiD7CHkAEaZ29XS48dwUe6EqTMbRXi4CkAfHs75r1A2i,,Crushed Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,None,None,,,,,,
 919,10,2162,73.03,https://magiceden.io/item-details/EeYS4FfiMjxadP64AuTBAevKgsT6Qzh7NtdFGFdyGTMB,,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Window,Vent,,,,,,
-926,20,3172,0,https://magiceden.io/item-details/38Jr4C3wvNRkpkwnP3twqQaQ91bTgt8JsA19QH25S4iM,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,None,Glowing Light,,,,,,
+926,15,3172,10.44,https://magiceden.io/item-details/38Jr4C3wvNRkpkwnP3twqQaQ91bTgt8JsA19QH25S4iM,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,None,Glowing Light,,,,,,
 1029,13.5,2628,32.22,https://magiceden.io/item-details/ArkPGq3xLhKth4qFMtksuTVju7XAGmBF7tAfGPrW4x5i,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,Glowing Light,Glowing Light,,,,,,
 1038,11.29,2541,55.41,https://magiceden.io/item-details/24HnPe6RPt6BAwTkMHP9yNScwqAzho4LmUnQTkW9pPhG,,Crushed Toxic Waste Barrel,,,,,Open,,,Scrap Chimney,None,Vent,,,,,,
 1059,11,2981,52.82,https://magiceden.io/item-details/2LxNDcpnnURQ9og9PahfE6QWZ7Yr2fvQdoNuD5rBFi1v,,Toxic Waste Site,,,,,Steel,,,Roof Vent,Window,Glowing Light,,,,,,
 1314,13,1318,53.56,https://magiceden.io/item-details/9brTxZ2ryuEFfARzpqHtrcR7CPHM7iRyf1R5PQ7Q9N1W,,Coral Stacked Rocks,,,,Scrap,Open,,,,,,,,,Red,Red Window,
 1535,17.5,214,22.33,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
-1538,14.2,295,54.32,https://magiceden.io/item-details/8apJ5wBFQgYf5bNr6kbtLUYT7TkENcbwRNMKadAbnBpB,,,,,,,Open Red Door,Volcanic Head,Jade Thick,,,,,,Blue,,,Red
+1538,13.68,295,59.52,https://magiceden.io/item-details/8apJ5wBFQgYf5bNr6kbtLUYT7TkENcbwRNMKadAbnBpB,,,,,,,Open Red Door,Volcanic Head,Jade Thick,,,,,,Blue,,,Red
 1544,12.4,332,71.86,https://magiceden.io/item-details/C7GV79V9oq51Ew9F3vkXF1PaqvyYwxqUftwgZLe2NK2n,,,,,,,Pest,Slate Head,Jade,,,,,,None,,,Purple
 1577,14.5,66,54.18,https://magiceden.io/item-details/BYyZo3SapcZZvNN4tnaGcJMNXQA3uEi4pYgbEPGektaa,,,,,,,Decorated Door,Volcanic Head,None,,,,,,Purple,,,Red
 1640,12,427,74.67,https://magiceden.io/item-details/6AsrXxWTdTUjRPTTusX7g2MguQN37scjeV6EJaZvJEdV,,,,,,,Pest,Crested Slate Head,Jade Thick,,,,,,None,,,Green
@@ -30,9 +30,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1990,15.5,890,33.9,https://magiceden.io/item-details/2eFbXnCikxJ7jGv9MtcPfJRPYU9Wp4N1ZfxJJvFSgx2L,City View,Bare Pineapple,,,,Steel,Festive,,,,,,,,,None,Right Eye,
 2089,25,661,0,https://magiceden.io/item-details/GiGEQSZaMudqHJ1wGDXvPKrTDAbJ2jxGCAy5J6TdNE5h,,The King's Crown Pineapple,,,,Scrap,Festive,,,,,,,,,Blue,Eyes,
 2616,28,2074,0,https://magiceden.io/item-details/BGJUmNErmEXHcZbBWsngMqHFG1srhnqBVE9cybTEz2qf,,Scrap House,,,,,Green,,,Capped Roof,Fancy Roof,Casino Sign,,,,,,
+2677,10.9,2440,60.57,https://magiceden.io/item-details/Fwd6U21xkdrwk7Knr7Uum1uGkE6nHsR3mDN2M14sFJo4,,Scrap House,,,,,Hatch,,,Capped Roof,Fancy Roof,Dive Bar Sign,,,,,,
 2832,18.5,499,8.78,https://magiceden.io/item-details/38rUHrozJ4tQgWiUUhsAymAneYo81FW8ErAttmCpjyhj,Shill City Ghetto,Chest,Black Jack,Green Window,Barred Window,,Fine,,,Drain Pipe,,,,,,,,
 3005,14,775,50.33,https://magiceden.io/item-details/9UtGRMNm49vFUYRcqykgq4XshgMiTib8tNHFPhPLtHrN,,Chest,Black Jack,Green Window,Pub Window,,Hatch,,,Telescope,,,,,,,,
-3023,11.5,648,76.92,https://magiceden.io/item-details/AdALaAzyKkhZd6Mij7tpdjabEn9QBW95JosV2eKETTFL,Shill City Metro,Chest,Saloon,Barred Window,Barred Window,,Swinging Doors,,,None,,,,,,,,
 3179,11.4,911,74.64,https://magiceden.io/item-details/4SDirhMV2JL7oyvJUKN9chfzGLW5F3uNiie2PFjayBJe,Shill City Metro,Chest,Restaurant,Barred Window,Green Window,,Steel,,,Telescope,,,,,,,,
 3206,14,1745,38.24,https://magiceden.io/item-details/8zniCzpTN6sJn1CbD8igi5UFfT8EkTPMkD3jEYe1X3Py,,Submarine Watchtower,,,,,Pest,,,Telescope,Window,Drainage Pipe,Blue Light,,,,,
 3208,12.85,1496,52.84,https://magiceden.io/item-details/E2onMMKGJRueoaN1UqJ34fLMWobSkv8ENLFeCT8uX4TF,,Reinforced Submarine,,,,,Pest,,,Drainage Pipe,Window,Chimney,Blue Light,,,,,
