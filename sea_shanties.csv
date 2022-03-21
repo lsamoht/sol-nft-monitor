@@ -3,10 +3,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 148,13.469,2836,59.45,https://magiceden.io/item-details/AG3zbQD3dTKehmSSt5nN2aMJA9zSXNeWPby79eSU8QAa,,Bucket,,,,,Steel,,,Pot Lid,None,None,None,,,,,
 387,13.26,2726,62.92,https://magiceden.io/item-details/FuKnNzvKbCkamUbtJJ2cLpTPE9FeensvZMv7tpBv4twU,,Reinforced Trap House,,,,,Wood,,,Drainage Pipe,None,Plumbing,,,,,,
 406,15,3115,40.62,https://magiceden.io/item-details/5iYXWnwR7TjLt3adwWr9Lo95YA84p59VWmW9mXdKgk9M,,Trap House,,,,,Wood,,,Telescope,None,Plumbing,,,,,,
+468,13.1,3100,59.81,https://magiceden.io/item-details/8YkgNWwUJVzms5f96vkNvB9sL825kGGPjQrYJN5oWxnw,Outskirts,Trap House,,,,,Open,,,Drainage Pipe,Amethyst Window,None,,,,,,
 506,13.27,2733,62.74,https://magiceden.io/item-details/7wvSfMs8iPLfv3JS5D7b32R83quJUduvA2vSGnfG2kS6,,Reinforced Trap House,,,,,Steel,,,None,Amethyst Window,Duck Foot,,,,,,
 614,13.29,2369,67.13,https://magiceden.io/item-details/Gszd7BkHZAtTBDxYkAFVc5b1ZiZGgxKT4pe6Fe9mkWUY,,Reinforced Trap House,,,,,Wood,,,None,Skylight,Plumbing,,,,,,
 746,20,2393,0,https://magiceden.io/item-details/D3VRjwsFH5v3hY2TGCnMg16jZAhqeiQAvTYAqqubDAo5,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Vent,None,,,,,,
-750,20,2526,0,https://magiceden.io/item-details/GG5zgfQoqMbtG6jJ7PFkFj2PprDEGZ9RxK49ZZh1adpa,,Toxic Waste Barrel,,,,,Wooden,,,Roof Vent,None,Vent,,,,,,
 803,15.4,2186,48.33,https://magiceden.io/item-details/AGJKz8FpCS7As9ddHVRa6QDAzDr8kV1wmdnLU2nEiiiA,Outskirts,Toxic Waste Site,,,,,Open,,,Vent,Glowing Window,Vent,,,,,,
 926,20,3172,0,https://magiceden.io/item-details/38Jr4C3wvNRkpkwnP3twqQaQ91bTgt8JsA19QH25S4iM,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,None,Glowing Light,,,,,,
 1138,25,992,0,https://magiceden.io/item-details/HpyJyvzBQb9TecNkedVEkcpkSYL5nJqmcA4tYKnByeKw,,Coral Amethyst,,,,Scrap,Wood,,,,,,,,,Purple,Red Invader,
@@ -17,8 +17,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1535,17.5,214,52.2,https://magiceden.io/item-details/9EbCeBTCBk8AvFd8nFghBhAfudbmH8Gm5bHTABUHgSBN,The Back Wall,,,,,,Open Blue Door,Crested Volcanic Head,Slate,,,,,,Purple,,,Red
 1588,20,19,29.66,https://magiceden.io/item-details/Ax93R37yqwgGyfPUiUBLc2BmbRLUVB9NLzDHEeN7Ytmv,,,,,,,Decorated Door,Jade Head,Slate Thick,,,,,,Purple,,,Purple
 1589,15,220,77.13,https://magiceden.io/item-details/3dNcpJbXzW5TRCuRii2kuq7ZHdBxSqxjBf1pdAMcxTZ1,,,,,,,Red Door,Crested Slate Head,Volcanic,,,,,,Blue,,,Red
+1628,14.2069,97,86.61,https://magiceden.io/item-details/AyK4Z7XvB6inrodZpqUQQZ6VYCvbP1VmrUTwwtbFDUSe,,,,,,,Red Door,Slate Head,Jade,,,,,,None,,,Green
 1763,14.7,299,79.13,https://magiceden.io/item-details/D8HqadR1nJvpSknYLTUhxv49tGRwtTvkimWqjct8TG4X,,,,,,,Open Blue Door,Crested Jade,Jade Thick,,,,,,Purple,,,Red
-1779,19,1618,19.5,https://magiceden.io/item-details/DdoAftXTfkDHrGKHti2CSssa7pHMAs1SNkbAWxLuXi8w,City View,Fresh Pineapple,,,,None,Pest,,,,,,,,,Purple,Right Eye,
 1929,19,1799,17.21,https://magiceden.io/item-details/HA7A3kHLNWVs7Nm4vdnQrYissXyQXDqGu1GXFBrGtiT8,City View,Fresh Pineapple,,,,Scrap,Pest,,,,,,,,,Purple,Left Eye,
 1981,20,1273,13.85,https://magiceden.io/item-details/9tPVxD6tgDhXWXW3QDCFmeiKQmeByQ24HMcxaH16oSV3,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,None,Single Eye,
 2037,40,903,0,https://magiceden.io/item-details/GoZeo8SZNqggKeKYNCAv6nZuZTCZwmWHY49Ld2mYwgFY,,Silver Crown Pineapple,,,,Steel,Festive,,,,,,,,,Red,Single Eye,
