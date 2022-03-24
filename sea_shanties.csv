@@ -1,9 +1,9 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Trait 2,Chest Trait 3,Chimney,Door,Easter Head Base,Easter Head Nose,Roof,Trait 1,Trait 2,Trait 3,Unique,Wall,Walls,Window,Windows
 328,16.69,2134,41.45,https://magiceden.io/item-details/5CB4DyqvRie1hudYyAszKEy7zuMmQJxLkojgx65NmprH,Outskirts,Fine Bucket,,,,,Watcher,,,Pot Lid,None,None,Green Barred Window,,,,,
 595,14.9,2576,53.83,https://magiceden.io/item-details/CK76srv2FVGLAgEXDztXSMm1SPd9H5YswGJiZ9PC9GRS,,Fancy Reinforced Trap House,,,,,Wood,,,Telescope,Barred Window,Plumbing,,,,,,
+615,13.5,2987,62.7,https://magiceden.io/item-details/7eafpcmhXQA29AfvyhGaQ1w1AXnExBR9F5DKAs8dh6ZP,,Fancy Reinforced Trap House,,,,,Open,,,None,Barred Window,Plumbing,,,,,,
 656,13.5,3168,60.44,https://magiceden.io/item-details/CW3oQqDXfnDmvBeFkzCPMq2M2TJR962y2Q4iRY6b2Mvr,,Reinforced Trap House,,,,,Swinging Doors,,,Telescope,None,None,,,,,,
 683,14.5,3203,50,https://magiceden.io/item-details/4d9V7WK5QVtvBsRyYwbqsnf8zAHrspmPKZQgjhS8nbUB,,Trap House,,,,,Open,,,Telescope,None,Plumbing,,,,,,
-716,13.5,2676,66.58,https://magiceden.io/item-details/EeowfNsAHNmAcjzSYsuQTjKX1ZEzjaZ55p71zkRFptPh,,Toxic Waste Site,,,,,Hatch,,,Roof Vent,Pest,None,,,,,,
 738,15,2488,53.93,https://magiceden.io/item-details/2Ez43mJMRZUr4TU5SSXMTq8gYTsLYogg84BRSZTTuPZD,,Toxic Waste Site,,,,,Steel,,,Roof Vent,Glowing Window,Vent,,,,,,
 746,20,2393,5.12,https://magiceden.io/item-details/D3VRjwsFH5v3hY2TGCnMg16jZAhqeiQAvTYAqqubDAo5,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Vent,None,,,,,,
 841,14.8,2825,51.72,https://magiceden.io/item-details/2yvUX369LhUJXwVURGWysMrBzSdeY6kGiDEovSj1Y9iK,,Toxic Waste Site,,,,,Open,,,Vent,None,Vent,,,,,,
@@ -37,6 +37,5 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 3183,69.69,1656,0,https://magiceden.io/item-details/662zoahSfHgZYjQ9bzcS8MzqRfsF2H1h549uZUebC4e6,Shill City Ghetto,,,,,,,,,,,,,1/1,,,,
 3225,21.5,2684,0,https://magiceden.io/item-details/8bnV8kBbZUG7bcZcnB72Rin1ghAACMMuAvAg1d86wKjs,,Reinforced Submarine,,,,,Steel,,,Drainage Pipe,None,None,Red Light,,,,,
 3257,18.75,1027,34.67,https://magiceden.io/item-details/Eu2M6W5UL9ne2S2T3WJqXFujP4A7ajqUiLp9F4Nnn867,,Coral Bare,,,,Scrap,Wood,,,,,,,,,None,Blue Invader,
-3266,15,3060,46.79,https://magiceden.io/item-details/3Y3cuZGHFPKBuyviQkTEdZP4zeJ3Q2387f2mzpJq83Mn,,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,None,None,,,,,,
 3320,17.9,2388,26.18,https://magiceden.io/item-details/HtHmPYgTPvKouE3gWYV8sN1iYi8472QxmXHTrLt1mqrF,Shill City Ghetto,Fine Scrap House,,,,,Steel,,,Capped Roof,Driftwood Roof,Dive Bar Sign,,,,,,
 3333,19,2017,19.81,https://magiceden.io/item-details/H1NtCaUGGFiiwKfW2HoejaEAiSNsiWW8ecF5LcjhNcVW,Go to Shill City,Toxic Waste Site,,,,,Wooden,,,Scrap Chimney,Vent,Glowing Light,,,,,,
