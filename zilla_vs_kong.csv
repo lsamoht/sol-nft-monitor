@@ -6,7 +6,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 79,13,409,67.95,https://magiceden.io/item-details/9rv68cnFZAbNYvSXFEYoeMCkUiSQCTB469XFDX2zeF7N,Fast food,Rainbow Glasses,none,Blunt,none,Skeleton,Zilla
 100,200,4,0,https://magiceden.io/item-details/FCfC1NAS9Mz1Pneiw3yn7VbvKszcmvsjuhJ5iEiTaSBT,Beach,Monicle,Halo,Cigarrette,Prisonor leash,Rainbow,Kong
 106,12,688,64.62,https://magiceden.io/item-details/y52fssfG4SHpwPZDTiwSuycqTYURX54cE7QBxyJsn6c,Cabin,none,none,none,Prisonor leash,Metal,Kong
-124,19.9,174,10.18,https://magiceden.io/item-details/HkxkhiQabU19WLx28u1HqS7nedDnr2nvvqNQtARBzu9E,Mountains,Smoke,Viking helmet,none,Prisonor leash,Winter,Kong
 132,14.9,505,44.37,https://magiceden.io/item-details/4LB7qXhrpoYp51o72ChnNBBdm2M4dggZSa5B1KxS8U61,Cabin,none,none,Bananna,Tie,Zebra,Kong
 147,15.3,383,46.2,https://magiceden.io/item-details/8A6GUiNhMNgzSxxeK4SS6Mx7dUPoLkSVHoBgmPwGPWP6,City,none,Horns,Blue fire,none,Alien,Zilla
 169,18.5,85,28.44,https://magiceden.io/item-details/Ap8vExaMpwUpZUq4VErYZdbt4fikkG4eisWncKZSo1cH,Desert,Shades,none,Blue fire,Metal bolts,Rainbow,Zilla
@@ -14,6 +13,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 174,17.8,679,7.05,https://magiceden.io/item-details/GsMpBZtsHqYe4g5DmcGCetWU8uZkGFZ3g6wbMgBzTwD3,Mountains,none,none,Cigar,none,Scaled,Kong
 177,19.5,417,2.57,https://magiceden.io/item-details/Fig6eAus6Axfz3qbaHC6UPNUDk3rZjTjyztmVbYDV2UQ,Pool,none,none,Blue fire,Tie,Skeleton,Zilla
 203,32.8,39,0,https://magiceden.io/item-details/3H1G2Q9TX3uVwHQgRrSjCcZ8wHkFiEGXrHbMYSDbD9Zw,Pool,Zilla laser,none,Pipe,Spikes,Uranium,Zilla
+205,18,143,30.67,https://magiceden.io/item-details/4zCXiS4EQXFQDyMRLJUkBjmPsxEPJ8qzyPLTmn8cpUs6,Hot air baloon,none,Piercings,Bloody teeth,none,Rainbow,Zilla
 231,21,455,0,https://magiceden.io/item-details/ZvKCstiGoCbUMybmVzAMVitSnER3o4C3KiLkEBEp1kf,City,none,Samurai,Bandage,none,Desert,Zilla
 295,19.99,256,5.37,https://magiceden.io/item-details/8GyUrE3u2we995Ko8njZH8tUcGTfy9Sw4DFgnKoAmiyj,Pool,none,none,Blunt,Metal bolts,Furry,Zilla
 320,11.9,755,62.42,https://magiceden.io/item-details/9Afpuzr5m7rejtAuhRGkbNrTGtpaekYGAvCTQ7szcRbs,Rainforest,Smoke,none,none,none,Metal,Kong
@@ -22,12 +22,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,
 397,20,420,0,https://magiceden.io/item-details/9Va6jLEdoL121W95VgGgjaGy8vNrZbx33QaVWUgcdJvW,Desert,Visor,none,Blunt,none,Skeleton,Zilla
 404,22.5,701,0,https://magiceden.io/item-details/4k7zwxX1qwhfgbFVxdYGdPc6txiNDZJ7o5JgCu37zoe4,Rainforest,Smoke,none,none,none,Scaled,Kong
 420,420,528,0,https://magiceden.io/item-details/ANEiEWMN9dJLd1xWyQtUVUXXXbgcyiKvwpCPGBfs6MZK,Cabin,none,Viking helmet,Rose,none,Alpha,Kong
+425,25,15,0,https://magiceden.io/item-details/4EFjAeVZ2npfK5645Vw6HqTpZDu896dk5UobLowC7coz,Ruined city,Visor,Monkey,Blunt,Tie,Alpha,Zilla
 444,12,394,78.67,https://magiceden.io/item-details/H7Dc6BhZU2ZJVsbytirysF9kPUEYYANVfr4Lnnp9uHv1,Japanese house,Shades,Viking helmet,none,none,Zebra,Kong
 467,12.5,398,73.48,https://magiceden.io/item-details/7yWBedoXXn89LgyrFJo7DcG87RLCtG3GGyt4epbKuiXZ,Volcano,Shades,none,none,Spikes,Ice,Zilla
 480,14.99,763,31.14,https://magiceden.io/item-details/9je7G16N2rco1H6mLczoR3SsWWMFvCfuA2UKsYuh4yrq,Beach,none,Viking helmet,none,none,Winter,Kong
 491,25,824,0,https://magiceden.io/item-details/7rz3BhsZnRzKmH3N52nmb73XHq7hrieGoAzPpqp32VP9,Hot air baloon,none,none,none,none,Rainbow,Zilla
 503,22,131,0,https://magiceden.io/item-details/DFsCu2Jm23XULSm4qgrhNNRFywXKma3T9UWEtVEbyqbY,Pool,Rainbow Glasses,Blue fire,Pipe,none,Desert,Zilla
 529,18,339,21.3,https://magiceden.io/item-details/4iFFHG9v7VUqDpqEiLMhw5XJK8XAE64tZEsMMXsLGct6,Hot air baloon,Shades,none,Kong hand,none,Alien,Zilla
+535,19.69,96,16.01,https://magiceden.io/item-details/8jQpPbwxPnNDnADAQ4vuiR5D5hLMCB7Fpz95ZvPmfi6P,City,Rainbow Glasses,Blue fire,none,Spikes,Alien,Zilla
 548,27,222,0,https://magiceden.io/item-details/49jDWh7Gwg8FV1FBPZZboG9RSJYbd4eFYjQ2ZTmYtfAE,Beach,Fire,Pug,none,none,Winter,Kong
 554,150,6,0,https://magiceden.io/item-details/7HuYjrd9SfQLQGiPgt6JweQhB9nz6FaaCjWitv1Tbmoq,Beach,Shades,Pirate hat,Laser,Beads,Rainbow,Kong
 589,16,571,30.21,https://magiceden.io/item-details/J14iQ2rZb3biaVPxuJrV7zaEP3TEAovsJiXGg3x3D9jc,Fast food,Zilla laser,none,none,none,Alien,Zilla
