@@ -1,5 +1,5 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Trait 2,Chest Trait 3,Chimney,Door,Easter Head Base,Easter Head Nose,Roof,Trait 1,Trait 2,Trait 3,Unique,Wall,Walls,Window,Windows
-15,11.75,652,83.18,https://magiceden.io/item-details/6BnB1vUq9VEE4k13nJGJhKmPsbZNqYLTUwUtSabpH731,,Bucket,,,,,Pest,,,Steel Chimney,Scrap Drainage Pipe,Glowing Window,Green Window,,,,,
+15,11,652,90.68,https://magiceden.io/item-details/6BnB1vUq9VEE4k13nJGJhKmPsbZNqYLTUwUtSabpH731,,Bucket,,,,,Pest,,,Steel Chimney,Scrap Drainage Pipe,Glowing Window,Green Window,,,,,
 136,15,904,47.5,https://magiceden.io/item-details/Fz6F6t1XAS1XtzJRZbKh4Vieu1AawKqiGSRvJPvUATMF,,Bucket,,,,,Hatch,,,Steel Chimney,Green Light,Glowing Light,Green Barred Window,,,,,
 328,14.69,2134,35.09,https://magiceden.io/item-details/5CB4DyqvRie1hudYyAszKEy7zuMmQJxLkojgx65NmprH,Outskirts,Fine Bucket,,,,,Watcher,,,Pot Lid,None,None,Green Barred Window,,,,,
 392,10.89,2903,63.39,https://magiceden.io/item-details/BMvQ44uFc1WDtXrY6axmUDiBwyYLRCgk1bs14aSvze5j,Outskirts,Trap House,,,,,Wood,,,Drainage Pipe,Skylight,None,,,,,,
@@ -15,6 +15,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1012,12.5,2498,52.4,https://magiceden.io/item-details/E6KhPsGC81mJoS2VZfaBXPyBBX2aF4GYmQgVR1QnykHb,,Toxic Waste Site,,,,,Hatch,,,Vent,Glowing Window,Glowing Light,,,,,,
 1045,11.942,3089,50.53,https://magiceden.io/item-details/3oSk3pggbYdpCBz3SphHgY6i7wgQfWFXfJLA2nt6mCEq,Outskirts,Toxic Waste Site,,,,,Wooden,,,None,Pest,None,,,,,,
 1091,13,729,69.71,https://magiceden.io/item-details/HFNmzDWw24nuwBLz6rQhXq3HAZMohNycRBmnwWmnbcXF,,Coral Shroom Top,,,,Scrap,Red,,,,,,,,,Purple,Red Window,
+1097,11,1735,77.02,https://magiceden.io/item-details/9xRuUobi5aAGYodZKQ6mMDzqmeS6FzxLxb474jXXrHCj,,Coral balanced,,,,Steel,Open,,,,,,,,,Red,Red Invader,
 1235,11.5,747,84.48,https://magiceden.io/item-details/281PYjMfTVA5TwGrnecxdS3wxpNZrJh2qBtYJDRSY6bP,,Coral balanced,,,,None,Red,,,,,,,,,Purple,Red Window,
 1269,11.5,1262,77.99,https://magiceden.io/item-details/58LQucH5aSc4BAZcZmt2Mz4v5V5o6xTg15ucj1pDa7qz,,Coral Bare,,,,None,Wood,,,,,,,,,Red,Blue Invader,
 1358,15.125,1478,39.01,https://magiceden.io/item-details/7jtjgRtfhknQ6G6PdbGkDTRC9sM69bX3FiMYQkZTjxoL,,Coral Ruby,,,,Steel,Pest,,,,,,,,,Purple,Yellow Window,
@@ -43,6 +44,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2794,13.75,2087,45.08,https://magiceden.io/item-details/4SEe5GrqQwuDvF3TgRLquFmQANBqqwqDYoBb931ejttB,,Fine Scrap House,,,,,Hatch,,,Balcony,Turtle Shell Roof,Casino Sign,,,,,,
 2799,12,2924,52.03,https://magiceden.io/item-details/7DMkhZGfUxkFHacEdEUP9Dq1xZpzsxCjW1pkUaKNWhwd,Shill City Metro,Fancy Scrap House,,,,,Steel,,,Pot Lid,Fine Roof,None,,,,,,
 2831,14,863,58.02,https://magiceden.io/item-details/9Aw9JJveYZj9L7VNZ1jXJZ4EVvMyD5VgeeECZALnGbEM,Shill City Ghetto,Chest 2,Saloon,Blue Window,Barred Window,,Steel,,,Telescope,,,,,,,,
+3025,12.5,489,77.73,https://magiceden.io/item-details/5ySUK12sLuouYYioHpsDUC9rMRF7ZjMXfGRAe3F2RoLW,Shill City Metro,Chest 2,None,Pub Window,Green Window,,Hatch,,,Drain Pipe,,,,,,,,
 3180,120,1436,0,https://magiceden.io/item-details/9Gd3CpPFgK5PbfRnEuhF2JmDSUFEyWkHPkB7GA4SfSdA,City View,,,,,,,,,,,,,1/1,,,,
 3225,21.5,2684,0,https://magiceden.io/item-details/8bnV8kBbZUG7bcZcnB72Rin1ghAACMMuAvAg1d86wKjs,,Reinforced Submarine,,,,,Steel,,,Drainage Pipe,None,None,Red Light,,,,,
 3257,16.85,1027,27.45,https://magiceden.io/item-details/Eu2M6W5UL9ne2S2T3WJqXFujP4A7ajqUiLp9F4Nnn867,,Coral Bare,,,,Scrap,Wood,,,,,,,,,None,Blue Invader,
