@@ -34,6 +34,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 625,9.75,2935,19.02,https://magiceden.io/item-details/HN3VT53MsYS1f3LpRyV4JN5cGuwvuhh9v7LNQkN9zPs9,Nyanza,Purple,Purple Puffer Jacket,Bored,Crocodile,
 636,16,867,0,https://magiceden.io/item-details/HcQz4ShLdVJk2YpkNcMwfB789zBaHviHDuDmAN79Ex6F,Pale Lavender,Red,Pirate Costume,Vampire,Monkey,
 671,9,985,42.12,https://magiceden.io/item-details/95uVQwWVJKKAtorkDyisVPXtvTvyvyC5FxVzb4C1rqYS,Rose Pink,Confetti,Tan Brown Blazer Jacket,Embarrassed,Cat,
+811,12.5,3205,0,https://magiceden.io/item-details/Dz3Tmqb9iZhAm25srrjrSNXxHiwuSNCDzDFEUFU1qLoJ,Light Cyan,Purple,Brown Leather Jacket,Mask,Mushrooms,
 835,6.5,4394,39.85,https://magiceden.io/item-details/DorvNRhuZdMwV19e8ua4p1xPKDj9mYnU3aAk9Qm2twaq,Purple,Blue,Brown Overalls,Cinco De Mayo,None,
 858,6,2186,62.51,https://magiceden.io/item-details/r66453BmZMJW4tdXrQQN6SsXSi9wLdBVztT9mpoX4Wg,Rose Pink,Orange,Yellow Utility Jacket,Angry,Beret,
 876,15,1993,0,https://magiceden.io/item-details/UfDvuHWa7sEFdLEMbyXDuuJ7Ar5vc8syuUvaNSbhnu3,Rose Pink,Red,Black Suspenders And Grey Waistcoat,Embarrassed,Beret,
@@ -42,7 +43,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 957,4.98,3100,65.4,https://magiceden.io/item-details/9UFQ5SGujqtk9zADETC66F4TQGyNuTGKmfFwtc8suN3H,Aero Blue,Yellow,Pink Blazer Jacket and Blue Turtleneck,HBD,Crocodile,
 959,14,2596,0,https://magiceden.io/item-details/CcaH84jsocxF2mKZYypTWkVmgvSBLc61PeRppJpfunbQ,Dark Blue,Orange,Blue Denim Jacket,Thug Life,French Fries,
 972,10,1796,25.63,https://magiceden.io/item-details/594tPtwAYLV5eBseknGfimDfzRT3rJ72rM44aUXmRtFP,Papaya Whip,Red,Sleeveless Denim Button Shirt,Crying,Horns,
-993,5.25,2497,67.52,https://magiceden.io/item-details/5gzG6GssjPgCBm9CmYyTR8AxcsQnay1tQP4Rz55k6JVN,Aero Blue,Red,Brown Suspenders,Beard,Beret,
+993,4.9,2497,71.02,https://magiceden.io/item-details/5gzG6GssjPgCBm9CmYyTR8AxcsQnay1tQP4Rz55k6JVN,Aero Blue,Red,Brown Suspenders,Beard,Beret,
 999,6.8,2029,55.77,https://magiceden.io/item-details/DHGgh7V7tGsEe9fqnMHPkHRrZ9fmVjkeW4spewT8PjEE,Light Cyan,Green,Purple Town Coat,Clout Goggles,Ice Cream,
 1009,4.9,1281,80.75,https://magiceden.io/item-details/HdmX3ea6N7gSRX2MNDnn4C3V9Jepk4eysjAycAQNjpZS,Rose Pink,Blue,Multicolor Peacoat,Superballoon,Cloud,
 1017,12,1115,11.08,https://magiceden.io/item-details/GSJbY6ihoxSDkv3wQ4Vos93SxTwVc8knoctsPyxTr3FB,Nyanza,Pink,Black Overalls,Mushrooms,Ice Cream,
@@ -236,8 +237,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 4886,4.769,4025,60.11,https://magiceden.io/item-details/HXGCpN36N7MtewFRUcR5Dk2G4FP8NkoYqyiEsP6rANjj,Aero Blue,Green,Light Grey Tunic,Bread,None,
 4984,7.9,3581,32.35,https://magiceden.io/item-details/6JFkZFiZ7s27L8h2nkzZXajMVJa6ZMCfkLYBVYzMkdq9,Purple,Orange,Sleeveless Grey Button Shirt,Bread,None,
 4990,5,3927,58.58,https://magiceden.io/item-details/AHUaW4BcYdNPBAzrQYRCMK5cXwwDxzzYMAtpiutLGePP,Pale Lavender,Purple,Yellow Blouse,Earpods,None,
-Balloonpunk,80,2,0,https://magiceden.io/item-details/G3Hqh6Ba8AVt9EkK51FD6kgon8HxnxG6pV7MeEdDFex3,,,,,,Balloonpunk
-Ballooni,90,1,0,https://magiceden.io/item-details/AdZSV8tkqeKiH4dM4kf3n6nEhZEz6Ai9u8XApxsbH9CW,,,,,,Ballooni
 Ballusa,200,4,0,https://magiceden.io/item-details/CqBX6c9k3zW5bJfycbWJ5mK9a8H4WyonZVf6TxCayb1G,,,,,,Ballusa
 846,7.69,1715,49.38,https://solanart.io/search/?token=HHbYFAKo8FnCYFjaHUsAoNWENtdxfi3Cg8Yop76iWqZw,Aero Blue,Orange,Brown Collared Shirt,Cigarette,Vampire Hair,
 1755,111,566,0,https://solanart.io/search/?token=w1VSu5nVVsTsUXT8ckpH9VsuTuUJtCT2yp5AfYr6Ei4,Purple,Confetti,Striped Sweater With Buttons,Cool,Ice Cream,
