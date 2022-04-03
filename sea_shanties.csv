@@ -1,5 +1,5 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Trait 2,Chest Trait 3,Chimney,Door,Easter Head Base,Easter Head Nose,Roof,Trait 1,Trait 2,Trait 3,Unique,Wall,Walls,Window,Windows
-83,12.3,1787,64.47,https://magiceden.io/item-details/E5Z641Y5N8gZ8TAR4fLYK3Pms8k4jcHRcQmjkPbtsJNq,,Fine Bucket,,,,,Hatch,,,Steel Chimney,None,Glowing Window,None,,,,,
+161,11,672,91.53,https://magiceden.io/item-details/5uuv5RdS66JEydJynKjThKsuwmhvjicB3YsxP4siMmot,,Bucket,,,,,Hatch,,,Steel Chimney,Drainage Pipe,Glowing Window,None,,,,,
 200,21.5,1012,0,https://magiceden.io/item-details/AN8nWbhKcmQpYN4a32AJxw6FeHAeHPjBMmfKHgFdUS4N,,Bucket,,,,,Steel,,,Pot Lid,Duck foot,Glowing Barred Window,Green Window,,,,,
 283,12.25,962,75.37,https://magiceden.io/item-details/68wLLD8kXpLM3fUvwe4cxZB4ECYr5mCAmAu8zWHTSReZ,,Fancy Bucket,,,,,Watcher,,,None,Scrap Drainage Pipe,Glowing Barred Window,Green Window,,,,,
 288,11.99,523,83.5,https://magiceden.io/item-details/CXf6ruYQVNBBSha6VB1TmAY66CoHMVi1RZBfsLCHv2jC,Go to Shill City,Fancy Bucket,,,,,Watcher,,,Steel Chimney,Drainage Pipe,Glowing Window,None,,,,,
@@ -7,7 +7,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 373,11,2703,65.91,https://magiceden.io/item-details/8XJ2H5anps7S7qmhtZfFrQNhRqwKdCXbAn78Rs6vPw78,,Reinforced Trap House,,,,,Wood,,,Telescope,Skylight,None,,,,,,
 406,12,3115,50.72,https://magiceden.io/item-details/5iYXWnwR7TjLt3adwWr9Lo95YA84p59VWmW9mXdKgk9M,,Trap House,,,,,Wood,,,Telescope,None,Plumbing,,,,,,
 746,20,2393,0,https://magiceden.io/item-details/D3VRjwsFH5v3hY2TGCnMg16jZAhqeiQAvTYAqqubDAo5,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Vent,None,,,,,,
-775,11.98,2021,64.71,https://magiceden.io/item-details/2rM6fNocsJvNzbSKWcE2Hc74AxLvTKckpEXC17iLJWKY,Outskirts,Crushed Toxic Waste Barrel,,,,,Open,,,Roof Vent,Vent,Glowing Light,,,,,,
 785,14.99,2063,34.08,https://magiceden.io/item-details/3jzxZcF3mkiJbZbbYKmLK294K9Ndajq41WuxQ2votk2d,,Toxic Waste Barrel,,,,,Open,,,Roof Vent,Glowing Window,Vent,,,,,,
 850,12,2977,52.46,https://magiceden.io/item-details/B5rswcnpvotTWRxYxheVkS4chmSCjzfjCp2W2nNFWk5J,Go to Shill City,Crushed Toxic Waste Barrel,,,,,Steel,,,None,Glowing Light,Glowing Light,,,,,,
 926,20,3172,0,https://magiceden.io/item-details/38Jr4C3wvNRkpkwnP3twqQaQ91bTgt8JsA19QH25S4iM,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,None,Glowing Light,,,,,,
@@ -21,7 +20,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1617,13.5,250,71.85,https://magiceden.io/item-details/B585UkSkkA6xu1GFamYADqzbV4SY9AcAE8iT4znCFYqt,The Back Wall,,,,,,Open Red Door,Crested Jade,Slate,,,,,,Red,,,Red
 1640,12.5,427,79.62,https://magiceden.io/item-details/6AsrXxWTdTUjRPTTusX7g2MguQN37scjeV6EJaZvJEdV,,,,,,,Pest,Crested Slate Head,Jade Thick,,,,,,None,,,Green
 1698,20,166,7.91,https://magiceden.io/item-details/HEBNC9NP56Unz29Te2E4SzonZys51NVp3xfCa6oNc2jn,The Back Wall,,,,,,Open Red Door,Crested Slate Head,Jade,,,,,,Purple,,,Purple
-1705,11.5,369,90.35,https://magiceden.io/item-details/EFSEe66B6QrbJNPNVxnkZHxSu1FZYSsoz22FKAFFYjPk,,,,,,,Pest,Crested Jade,Volcanic Thick,,,,,,None,,,Green
 1711,99,15,0,https://magiceden.io/item-details/4Pntfdv2gFD8eNpGs6Q1uu2pEmu2VR8htdPgS3rFJPUt,,,,,,,Open Red Door,Jade Head,None,,,,,,None,,,Green
 1820,18,1232,14.46,https://magiceden.io/item-details/7yWypnky52hSG3giUd8MFai9aUkmeA6d83tfMs3XSsyN,,Silver Crown Pineapple,,,,None,Pest,,,,,,,,,Purple,Eyes,
 1846,19,1932,0,https://magiceden.io/item-details/4KNdo4rGqprBYWytRqHwB6zHyCjNMfMQkK1e2EchWzMf,,Bare Pineapple,,,,Steel,Steel,,,,,,,,,None,Eyes,
