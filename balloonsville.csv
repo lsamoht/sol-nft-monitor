@@ -12,7 +12,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 210,5.3,2895,61.1,https://magiceden.io/item-details/BUBwD1s6shZiwg7319oi8vMRiLsWFaZA3Y4Uko2SjUwA,Purple,Blue,Yellow Utility Jacket,Thug Life,Mushrooms,
 213,5,767,81.23,https://magiceden.io/item-details/7nzZfGtsRcB6gUXUDY52A2HnRqqoGtiFedqETWEdpaNZ,Pale Lavender,Orange,Yellow Utility Jacket,Superballoon,Vampire Hair,
 243,9.876,735,32.72,https://magiceden.io/item-details/JBNptP6TgVYNBVtQo1fJMANQYmVsQRyXTKH6KoTUhHs7,Purple,Red,Pirate Costume,Mushrooms,Pizza,
-267,5,3277,61.03,https://magiceden.io/item-details/8eX1FtsK3urkPmBYcyM2aPKV3xDRkmQD83dWoqPVUcax,Light Cyan,Purple,Black Robe,Smile,Crocodile,
 279,4.5,3007,68.2,https://magiceden.io/item-details/7ahcszVS5UyrwqX1xjmKSmDd7Hn6kmtdTWutTpbmxhfh,Blue,Green,Brown Collared Shirt,Cinco De Mayo,Bucket Hat,
 312,3.89,3059,73.88,https://magiceden.io/item-details/B9XgmjFaaYpc9G5hbUWkSmUdF9NaYA4dHVXSV5FPq8s1,Purple,Red,Purple Puffer Jacket,Clout Goggles,Dreads,
 315,10,1925,21.91,https://magiceden.io/item-details/9P77Gwgxv5zZevvP3Jvk2L73NVa3nQ3hDcoMUjZZs2E4,Pink,Gold,T Shirt,Embarrassed,Cap,
@@ -60,6 +59,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 1271,13,3551,0,https://magiceden.io/item-details/58w64QGiSHS6g2Nk72aPzq4ueX5YKwfSaa3yecrap5RL,Purple,Purple,Purple Town Coat,Wrestler,None,
 1279,6,1385,66.25,https://magiceden.io/item-details/25YcS4UgkPVWQv2CG5frwLXAfMLPpjHsDxutHantcNaR,Pale Lavender,Confetti,Purple Town Coat,Mask,Toilet Paper,
 1308,8,159,56.12,https://magiceden.io/item-details/HnuRnJG2dg22Yr9ZvJ8eCTuThHQDtv59KkCAt3NjeV3Y,Nyanza,Confetti,Tan Brown Blazer Jacket,Motorcyclist,Pilgrims Hat,
+1368,5,4382,52.13,https://magiceden.io/item-details/TPLc8Sa5GgTBwSNr1cvsqbCZHNdyQbXw3Qo7am9fEjY,Pale Lavender,Yellow,Striped Sweater With Buttons,HBD,None,
 1396,5,1192,77.81,https://magiceden.io/item-details/5cqZrjJqW4DKNDSSuyyRi8p2r4dGChP5jaofv4zUGTHV,Nyanza,Purple,Vampire Costume,Disguise,Dreads,
 1416,4.99,2027,71.19,https://magiceden.io/item-details/5YJ3cujLyxQ6hjdF9gqYfvW6g37tGXqHHAjVKEsbf31a,Aero Blue,Blue,Black Suspenders,Beard,Ice Cream,
 1478,8.5,1930,36.87,https://magiceden.io/item-details/EuYFWgS1qh8XvMt5w2xFkXeZeZJQxKNiuPbM7FVid6o9,Aero Blue,Yellow,Grey Waistcoat,Beard,Cap,
@@ -213,6 +213,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 4903,4.94,3496,59.86,https://magiceden.io/item-details/2545fYPTwwLge1CUCSRLiVRfM1vsY2gyyBXZBNtZujyP,Pink,Yellow,Denim Puff Sleeve Dress,Bread,None,
 4960,4.95,4007,55.65,https://magiceden.io/item-details/41KfMCsUgAJWVhvs5S3doc8AxTRZN73AgP1Xkr1SwVrg,Aero Blue,Orange,Blue Strapped Dress,Earpods,None,
 Ballusa,200,4,0,https://magiceden.io/item-details/CqBX6c9k3zW5bJfycbWJ5mK9a8H4WyonZVf6TxCayb1G,,,,,,Ballusa
+606,6.1,1658,63.06,https://solanart.io/search/?token=CFq4WCvCzNjHi4vAMpqq2QWvtKVFexgLU2yFPQfKNsYJ,Papaya Whip,Green,Turtle Neck Sweater,Disguise,Mushrooms,
 846,6.1,1715,62.6,https://solanart.io/search/?token=HHbYFAKo8FnCYFjaHUsAoNWENtdxfi3Cg8Yop76iWqZw,Aero Blue,Orange,Brown Collared Shirt,Cigarette,Vampire Hair,
 915,14,1677,0,https://solanart.io/search/?token=BM7WxpunkgyahrMzAdDJWBbduu9zagAG4ZkdbF1ovtDy,Rose Pink,Purple,Brown Collared Shirt,Pirate,Brown Hair,
 1755,111,566,0,https://solanart.io/search/?token=w1VSu5nVVsTsUXT8ckpH9VsuTuUJtCT2yp5AfYr6Ei4,Purple,Confetti,Striped Sweater With Buttons,Cool,Ice Cream,
