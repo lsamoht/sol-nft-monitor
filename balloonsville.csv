@@ -97,7 +97,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 2226,5.4,953,72.33,https://magiceden.io/item-details/DhruxgLet7Jr5hucuNw2tHQyXzrduNymKQdkfzoihQCr,Pink,Solana,Black Robe,3D Glasses,Elf Hat,
 2246,16,732,0,https://magiceden.io/item-details/zDb4WKs91rkrenjAc8pWeW1UtasoEEqaj57xMwEeFTY,Blue,Purple,Blue Denim Jacket,Dead,Sushi,
 2249,4.8,2991,61.93,https://magiceden.io/item-details/BMWnKGEphfnmwULN67D5xLTw1xasa7V67sF1cz4RVJWh,Dark Blue,Gold,T Shirt,Monocle,Dreads,
-2263,3.4,1502,87.91,https://magiceden.io/item-details/D1Qj3jWK4frCjbQmXArEfGBeKQqLc3Xp8Rv2U8MuxU2a,Blue,Red,Black Tunic,Disguise,Man Bun,
 2280,4.49,2078,72.38,https://magiceden.io/item-details/8QLZnhrSWZmwA9ZF4m9sQra86twrPXCPiXe3AvYtdVxU,Blue,Yellow,Puffer Vest,Monocle,Toilet Paper,
 2284,5.5,1725,65.12,https://magiceden.io/item-details/DQaeC5wdXfDY9zXc64NdP5VkTLw2zFDryjeFUq3MkunY,Rose Pink,Blue,Astronaut Suit,Crying,Crocodile,
 2294,10,1247,23.96,https://magiceden.io/item-details/635gi1wLmveB9o5PUtZfvtc7gzxsBANMjNeiaXrRmLLL,Pink,Green,Brown Overalls,Vampire,Pizza,
@@ -195,6 +194,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 4431,6.3,233,69.12,https://magiceden.io/item-details/7CDFCKcx9SYyvb5LhHCGE5AkLL3jwPiCjq3FVmZQyCzh,Dark Blue,Blue,White Strapped Dress,Wink,Frog,
 4448,12.34,322,8.01,https://magiceden.io/item-details/5gaRQKALeUWjfakvwmVWejCxwAwEkG39SY8weMa6sJvB,Pink,Green,Purple Blouse,Wink,Red Hair,
 4449,3.9,3633,65.76,https://magiceden.io/item-details/3VNYEevGZuRwE7FFURBrd5NtB6ajMeLbyV3LFpLXmwrM,Nyanza,Green,Light Blue Tech Fleece,Flower,None,
+4458,5,283,81.72,https://magiceden.io/item-details/2aD2aCrNeZzkLnPPhzr1CGtidBnCyMsmTfCuYyYNYp6M,Pale Lavender,Green,Blue Green Button Shirt,Meow,Posh Pink Hair,
 4488,12,278,11.76,https://magiceden.io/item-details/7MazGda6JHiuktPz3V7Zez5abH7ea195EsJeM5135ver,Aero Blue,Gold,Yellow Dress,Chicken Sunglasses,Orange Hair,
 4507,10,64,33.48,https://magiceden.io/item-details/Ejqgy9idq7aBEj97TarpyCxVGiz4ZAsd8euwiFXs38Yz,Purple,Solana,Red Overalls And TShirt,Cat Eye Sunglasses,Frog,
 4533,9.4,196,38.42,https://magiceden.io/item-details/DYeTSXGQ4B3EYJbFNdd9Z1t1S6iDdugSMCD66tHRtPim,Aero Blue,Red,Grey Button Shirt,Wink,Frog,
@@ -209,7 +209,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 4785,12.5,3463,0,https://magiceden.io/item-details/3ZvKAYaUekGUiLm9Bvm2syZoPHJwjs8tuvJJ2Mn2UyGs,Dark Blue,Blue,Pink Sweater With Stripped Scarf,Bread,None,
 4803,4.38,3697,60.45,https://magiceden.io/item-details/AQM7cAA8rJ94SahMDDiuVyF8D8nbgS9ppqXU4HpZAAim,Purple,Red,Light Brown Strapless Dress,Bread,None,
 4892,4.39,3534,61.66,https://magiceden.io/item-details/4tJARhAq4ewN6p6dEJPaP133T3EnWMtZsjHrqu4jYuaX,Purple,Purple,Beige Sweater Vest,Bread,None,
-4896,3.4,3584,71.15,https://magiceden.io/item-details/7D8eEcfpYaJtKQuvPURTr93bg18CQzmVZWcXXq4G6mEV,Light Cyan,Blue,Beige Sweater Vest,Earpods,None,
 4903,4.94,3496,56.46,https://magiceden.io/item-details/2545fYPTwwLge1CUCSRLiVRfM1vsY2gyyBXZBNtZujyP,Pink,Yellow,Denim Puff Sleeve Dress,Bread,None,
 4960,3.95,4007,62.25,https://magiceden.io/item-details/41KfMCsUgAJWVhvs5S3doc8AxTRZN73AgP1Xkr1SwVrg,Aero Blue,Orange,Blue Strapped Dress,Earpods,None,
 Ballusa,200,4,0,https://magiceden.io/item-details/CqBX6c9k3zW5bJfycbWJ5mK9a8H4WyonZVf6TxCayb1G,,,,,,Ballusa
