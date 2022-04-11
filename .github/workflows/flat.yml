@@ -59,3 +59,10 @@ jobs:
           http_url: https://reqbin.com/echo/get/json
           downloaded_filename: zilla_vs_kong__magiceden.json
           postprocess: ./postprocess/magiceden.ts
+
+      - name: tamashi_soul - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: tamashi_soul__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
