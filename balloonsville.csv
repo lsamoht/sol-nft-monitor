@@ -5,6 +5,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 95,3.9,2846,69.09,https://magiceden.io/item-details/5SHH8WrAHTcS2zqcsFvZ4N3vtxUN7sw3xHgSW59S3jCp,Purple,Orange,Purple Town Coat,Embarrassed,Crocodile,
 98,3.99,4102,58.09,https://magiceden.io/item-details/6DPKBGyRCVnaqi91AT3GKLkNAByp3ZN95uxk9AQWSdHf,Rose Pink,Orange,Yellow Utility Jacket,Crying,None,
 114,99,750,0,https://magiceden.io/item-details/EKof2DvLV5exguxBoyRC5iMkQEisEx7Fv6VX2t9ENqpM,Dark Blue,Orange,Black Robe,Bored,Pilgrims Hat,
+144,3.49,756,90.02,https://magiceden.io/item-details/GEgtCfPQvu2Kg3fNG5xFdSsEsqrMuudSAojUqwyYs3Li,Aero Blue,Pink,Beige Tech Fleece,Mustache,Snowman,
+195,3.1,3484,71.96,https://magiceden.io/item-details/4gkukzmGNGGjDDDYqaiWLueLX2Ufh1KVNyq5rTqoZUKp,Papaya Whip,Yellow,Black Tunic,Superballoon,None,
 198,6.9,1942,46.37,https://magiceden.io/item-details/37cM2NH1dHGNuSNS1nvonuzYgduGWbqdSypuuj1ErYji,Nyanza,Red,Turtle Neck Sweater,Cloudy,Monkey,
 210,10,2895,7.7,https://magiceden.io/item-details/BUBwD1s6shZiwg7319oi8vMRiLsWFaZA3Y4Uko2SjUwA,Purple,Blue,Yellow Utility Jacket,Thug Life,Mushrooms,
 213,5,767,74.83,https://magiceden.io/item-details/7nzZfGtsRcB6gUXUDY52A2HnRqqoGtiFedqETWEdpaNZ,Pale Lavender,Orange,Yellow Utility Jacket,Superballoon,Vampire Hair,
@@ -113,6 +115,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 2767,5.99,1103,62.22,https://magiceden.io/item-details/HNoW5JKkDBj88aD2skvC31eYo1phb2m8JqsM4gibUJen,Rose Pink,Confetti,Striped Sweater With Buttons,Thug Life,Dreads,
 2770,9,2814,18.35,https://magiceden.io/item-details/FoNN8VAXXnAWQ9YzaXt1b6TyPUBE99B5Kkp27hvTjge6,Pink,Orange,Black Suspenders,Embarrassed,Fox,
 2806,5,4757,42.71,https://magiceden.io/item-details/4fyMwgHGCD9thbqbL1MCVEW1EvgVn2UTc5VwaWg55Dko,Rose Pink,Green,Multicoloured Tech Fleece,VR,None,
+2812,3.1,4431,64.34,https://magiceden.io/item-details/7MTjHyMnb2kVDhvkbwxXcQRN72UxUkJ9MhKoQ2ViRA2x,Pale Lavender,Gold,Grey Waistcoat,VR,None,
 2921,4.9,3857,50.96,https://magiceden.io/item-details/3s3Vu93CSc6urH2dwL9mUrXRt2HJwUCWTfEBcA5KXKSB,Pale Lavender,Solana,Black Robe,Cyborg,None,
 2954,4.2,4548,52.4,https://magiceden.io/item-details/3Nrqq3f1S4WtwhVq8cbkDeSzpnNjVCLaeRoamtDPjioy,Nyanza,Blue,Multicolor Peacoat,VR,None,
 3000,3.9,4515,55.66,https://magiceden.io/item-details/55JkZ5tShR2UgHXzJ4uwxN7LwAFwSgEgpstc64K4wR44,Nyanza,Purple,Black Robe,Cyborg,None,
@@ -142,7 +145,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 3723,3.7,1003,85.93,https://magiceden.io/item-details/GiqkXERKcwWBobWDuig2nFU68pUy97k2mANop4Dqwrj9,Dark Blue,Purple,Light Grey Tunic,Flower,Picnic,
 3744,7.069,100,59.51,https://magiceden.io/item-details/2D5dibUtVyRkEZrMKibmcPQuLtFw2aRg5jpCPPouzGLE,Light Cyan,Red,Sunflower Zip Up Jacket,Meow,Witch Hat,
 3752,10,3469,3.08,https://magiceden.io/item-details/4WX2brU4C5ACDkmYRi6PBo1qc3qj1RDnNx5cqq9oAbEi,Pale Lavender,Yellow,Pink Puff Sleeve Shirt,Flower,None,
-3771,3.1,1584,87.25,https://magiceden.io/item-details/GamDZqd5b1MuWiAuSqzQHPpNTCWHAbwxAWFy3Z6iNMU2,Blue,Blue,Light Blue Tech Fleece,Smile,Cold Day,
 3787,7,266,58.86,https://magiceden.io/item-details/62yj2j875Hs2QBNuAhPgWyoVkbER3MxaoPG52FUCVbdH,Pale Lavender,Green,Yellow Blazer Jacket,Lollipop,Picnic,
 3807,5.5,1940,60.39,https://magiceden.io/item-details/AS4XYigoYz4s5S6THQLwuAHTLWYUJfeht7JSCmNuFR7g,Pink,Red,Light Brown Strapless Dress,Mask,Beach,
 3854,4.48,499,82.18,https://magiceden.io/item-details/6VexjzVEYsvsbjhybE5S9DsKDEwYvQrvwfjBFwxnJdp3,Pink,Green,Quilted Sweater,Flower,Witch Hat,
@@ -197,7 +199,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 4892,4.4,3534,58.56,https://magiceden.io/item-details/4tJARhAq4ewN6p6dEJPaP133T3EnWMtZsjHrqu4jYuaX,Purple,Purple,Beige Sweater Vest,Bread,None,
 4897,4.39,3894,55.76,https://magiceden.io/item-details/DuWthwycqJS7YTF4izNoCAn5BNMfaD6Vc3zqZfh4DSRm,Rose Pink,Pink,Light Blue Tech Fleece,Earpods,None,
 4909,3.5,3753,65.79,https://magiceden.io/item-details/BGkwE6g3F3ikcdrZWLzFQjyFv2gGusqXXwGYsQfvCpKX,Dark Blue,Yellow,White Dress,Bread,None,
-4954,3.1,3835,69.13,https://magiceden.io/item-details/2CEBSdg1byS3RsAecwJGyrhzu4RQKxZaLHC17fsYtntv,Dark Blue,Purple,Quilted Sweater,Bread,None,
 Ballusa,200,4,0,https://magiceden.io/item-details/CqBX6c9k3zW5bJfycbWJ5mK9a8H4WyonZVf6TxCayb1G,,,,,,Ballusa
 Bladiator,5000,5,0,https://magiceden.io/item-details/9fuYV6Vm2R3fNqUMgcnxkgmSonRDvh6v5Y76xc1bvYeq,,,,,,Bladiator
 606,6,1658,57.66,https://solanart.io/search/?token=CFq4WCvCzNjHi4vAMpqq2QWvtKVFexgLU2yFPQfKNsYJ,Papaya Whip,Green,Turtle Neck Sweater,Disguise,Mushrooms,
