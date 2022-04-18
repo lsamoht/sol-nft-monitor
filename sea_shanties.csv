@@ -4,6 +4,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 157,8.89,1550,77.98,https://magiceden.io/item-details/BmrvsMCmj3PXZX5praikysRHdiibFJPAkJ3PLRrGdnUa,,Fancy Bucket,,,,,Pest,,,Siren,None,Glowing Barred Window,Green Window,,,,,
 222,10.222,446,78.28,https://magiceden.io/item-details/76LFQTfFEbtj7c9ym9hcUVB8sLAfP8Fc4j5TY4drs1U1,,Bucket,,,,,Watcher,,,Steel Chimney,Duck foot,Glowing Window,Green Barred Window,,,,,
 229,10,1571,66.62,https://magiceden.io/item-details/Gkt1Br4BtZeF73EygxbxL4sheYmhVrXxgdXXFZ8s6pUV,,Fine Bucket,,,,,Hatch,,,Steel Chimney,None,Glowing Window,Green Window,,,,,
+452,9.5,2570,59.3,https://magiceden.io/item-details/GThYYHETTLgQpRKuebLwt8w73UGz8pZi9ujyXq1y56R6,,Fancy Trap House,,,,,Wood,,,None,Skylight,Plumbing,,,,,,
 453,10.2,3243,44,https://magiceden.io/item-details/9qiNCDnpDyL7RocAkBHV4zn4eFa3sWvKcG9hpH9zvTtb,,Reinforced Trap House,,,,,Open,,,None,Barred Window,None,,,,,,
 455,8.7,3153,60.11,https://magiceden.io/item-details/2jvd5Gs2ao19sqtonzNyFByvtY65pefpSd4xEerHtwB3,,Trap House,,,,,Wood,,,Drainage Pipe,Barred Window,None,,,,,,
 468,8.9,3100,58.76,https://magiceden.io/item-details/8YkgNWwUJVzms5f96vkNvB9sL825kGGPjQrYJN5oWxnw,Outskirts,Trap House,,,,,Open,,,Drainage Pipe,Amethyst Window,None,,,,,,
@@ -14,6 +15,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 746,20,2393,0,https://magiceden.io/item-details/D3VRjwsFH5v3hY2TGCnMg16jZAhqeiQAvTYAqqubDAo5,Outskirts,Toxic Waste Barrel,,,,,Wooden,,,Scrap Chimney,Vent,None,,,,,,
 785,11,2063,50.55,https://magiceden.io/item-details/3jzxZcF3mkiJbZbbYKmLK294K9Ndajq41WuxQ2votk2d,,Toxic Waste Barrel,,,,,Open,,,Roof Vent,Glowing Window,Vent,,,,,,
 798,9.4,2444,61.86,https://magiceden.io/item-details/9KydCCP7jg5AAZPQy4SCuq4Bk3yFA53Rd4jGorTSmWvB,,Toxic Waste Barrel,,,,,Wooden,,,None,Pest,Vent,,,,,,
+848,8.6,1908,76.47,https://magiceden.io/item-details/61mAh4N16WVUw4xqYsC19BNgpgYdDRe6MZD3WEvxsbni,,Toxic Waste Barrel,,,,,Wooden,,,Roof Vent,Glowing Window,Vent,,,,,,
 926,20,3172,0,https://magiceden.io/item-details/38Jr4C3wvNRkpkwnP3twqQaQ91bTgt8JsA19QH25S4iM,,Crushed Toxic Waste Barrel,,,,,Wooden,,,None,None,Glowing Light,,,,,,
 951,8.87,3076,59.36,https://magiceden.io/item-details/BKXX4SawzVnisuXPSgqqtCxFrX4vQbRL2H8Pz6kQTSyC,,Toxic Waste Barrel,,,,,Wooden,,,None,Glowing Light,None,,,,,,
 968,9.4,2630,59.56,https://magiceden.io/item-details/7uNFq6rrJiAoKnHoVaKrfcEha6nhJBzDhqJ5hje8Qqpi,,Toxic Waste Site,,,,,Wooden,,,Vent,None,Vent,,,,,,
@@ -26,7 +28,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1505,13.5,239,48.05,https://magiceden.io/item-details/GNndkRirJTpW52BSByXBs5tJRZSMYLZdtKfF9vzZAnmr,,,,,,,Red Door,Crested Jade,Jade,,,,,,Purple,,,Red
 1640,12.5,427,55.73,https://magiceden.io/item-details/6AsrXxWTdTUjRPTTusX7g2MguQN37scjeV6EJaZvJEdV,,,,,,,Pest,Crested Slate Head,Jade Thick,,,,,,None,,,Green
 1770,13.9,261,43.78,https://magiceden.io/item-details/3uQHbyR5wh5fC64j3oYqCdbfEW9qvKHBot93KUbGcNMZ,,,,,,,Red Door,Crested Jade,Slate,,,,,,None,,,Red
-1858,12.49,613,53.54,https://magiceden.io/item-details/EM6pYu28pnqkH16NXGmNVdSWTtYhZ2dkd29NQ8zZhPQ5,,The King's Crown Pineapple,,,,None,Festive,,,,,,,,,Purple,Eyes,
+1858,12.99,613,48.54,https://magiceden.io/item-details/EM6pYu28pnqkH16NXGmNVdSWTtYhZ2dkd29NQ8zZhPQ5,,The King's Crown Pineapple,,,,None,Festive,,,,,,,,,Purple,Eyes,
 1930,19,1386,0,https://magiceden.io/item-details/BJF28rmQNavc1M4zxYM9cjHNjs3JmZWqXb5ypdxy3Dbt,City View,Bare Pineapple,,,,Rust,Pest,,,,,,,,,Purple,Eyes,
 1958,13,1807,33.71,https://magiceden.io/item-details/5St5gACC5tBK3KFG3qp5aA4eLKfVvWQK7Dp11tNsfPfq,,Bare Pineapple,,,,Steel,Pest,,,,,,,,,Purple,Right Eye,
 1981,20,1273,0,https://magiceden.io/item-details/9tPVxD6tgDhXWXW3QDCFmeiKQmeByQ24HMcxaH16oSV3,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,None,Single Eye,
