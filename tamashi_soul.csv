@@ -68,7 +68,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 366,11,1315,4.1,https://magiceden.io/item-details/BZfdjqZ1vFnWJZBE69Mdfkpa7FhUp8KRW43ibAW1C8kS,None,Green,Mage Armor,,Cataract,Blue Spike,Normal,Karito,Pale,Bow
 369,8.5,112,60.57,https://magiceden.io/item-details/4XQQi9vZVVTMTqg6ssNaFCPHczH7YisR73yhJ9pL6pQq,None,Gate of Truth,Samurai,,Blue Female,Fox Male,Cigar,Deshi,Stone,Demon Sword
 371,8.99,1529,18.6,https://magiceden.io/item-details/Fup7VC6uMyytX181GgAM4BND7JJhc4RAdtvXfLUwHYMu,None,High Noon,Village of Wind,,Sleepy,Black Long,Normal,Karito,Dark,Torch of Infinity
-376,5.3,1102,66.67,https://magiceden.io/item-details/6FHWi6akkWtFC9138bF4wk9SvLLSrLfuEYcPZ1FhRfzJ,None,Ethereal Sunset,Village of Wind,,Snake Eyes,White Bob,Normal,Karito,Tan,Cleaver
+376,5,1102,69.67,https://magiceden.io/item-details/6FHWi6akkWtFC9138bF4wk9SvLLSrLfuEYcPZ1FhRfzJ,None,Ethereal Sunset,Village of Wind,,Snake Eyes,White Bob,Normal,Karito,Tan,Cleaver
 385,8,426,57.36,https://magiceden.io/item-details/ERZ8QqmVgu1SeXkuRHSz6BpzQcXHdnrQk7gpBJiUj19v,None,High Noon,Naked,,Angry,Blue Bob,Rainbow Mask,Karito,Tan,Monkey Staff
 391,13.75,210,5.51,https://magiceden.io/item-details/AHTfwDE6NCJCn3aU4AzNC8jqzgnPsGrTjJvrUB2R5SKq,None,Nirvana,General,,Sunglasses,Blue Bob,Black Mask,Karito,Tan,Cleaver
 396,9.98,974,23.22,https://magiceden.io/item-details/2n7pBNieGCEtTNRmjsZuvdWQAM93sU969hqd35zHXsHT,None,Purple,Village of Fire,,Glasses,Bald,Black Mask,Karito,Stone,Demon Sword
@@ -104,7 +104,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 509,15,1132,0,https://magiceden.io/item-details/AAgFsbz9EtFfLh8dKdht4BjEZniiQBjSqk7AvghJ9xLk,None,Red,Village of Fire,,Blue Female,Teal Spike,Ghoul Mask,Karito,Tan,Cleaver
 512,25,94,0,https://magiceden.io/item-details/74SUKHuEazQnSdAvrgBQeq9Ay8fjHohvTbaeMtSpNyTM,None,Gate of Truth,Village of Fire,,Cataract,White Spike,Robot Mask,Deshi,Lover,Cleaver
 513,12,1180,0,https://magiceden.io/item-details/2BgttStcSwewDcTBGsQiP6jcwoybtgrEfKkcGRN8te93,None,Purple,Village of Wind,,Snake Eyes,Teal Spike,Joint,Deshi,Pale,Monkey Staff
-517,5.5,109,90.65,https://magiceden.io/item-details/3YTPpdjdDdYFSfraJDLkyi35sFsGvewa38RjvRuP1Zp5,None,Red,Yacht Club,,Round,Orange Bob,Grin,Karito,Snow Monkey,Cleaver
+517,6.89,109,76.75,https://magiceden.io/item-details/3YTPpdjdDdYFSfraJDLkyi35sFsGvewa38RjvRuP1Zp5,None,Red,Yacht Club,,Round,Orange Bob,Grin,Karito,Snow Monkey,Cleaver
 519,9.2,226,50.59,https://magiceden.io/item-details/7mKPpMG74UuGH11BrFNR6Mqc2z14zqajTKWesqKfQRYN,None,Gate of Truth,Village of Wind,,Gecko Cyborg,Purple Part,Dog Mask,Deshi,Brawler,Cleaver
 529,13.88,329,1.09,https://magiceden.io/item-details/B5YA431kxuSi19fnYxSiCXCq1CjG3YLNF7fyFAG4D1sm,None,Gate of Mortality,MonkeDAO Bomber,,Cataract,Teal Spike,Ghoul Mask,Karito,Zombie,Demon Sword
 530,9.99,360,39.18,https://magiceden.io/item-details/AHAK5qv8VAFfFjJ7CKqp88M5nUdzkHuwpguLvSYKJD2b,None,Purple,Thug Suit,,Demon,Purple Spike,Smirk,Deshi,Lover,Demon Sword
@@ -133,6 +133,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 666,17.69,981,0,https://magiceden.io/item-details/EcVpC2Z63LT65Z3EgH73AYQ5oYoNyvFVgm5tfpa5spcE,None,Ethereal Sunset,Village of Fire,,Angry,Blue Spike,Smirk,Karito,Lover,Bow
 671,10.5,1425,6.22,https://magiceden.io/item-details/HAdrLTCR5z7vE27hDqfy5cCocFf6JrhYXuSHeJcLWjLq,None,Green,Village of Wind,,Angry,Orange Bob,Black Mask,Karito,Pale,Buster Sword
 680,21,516,0,https://magiceden.io/item-details/HmWyj9pyZdbg5VXnyw4hfzAVbC5MKFHvLHoSp7zf94to,None,Purple,Monk,,Demon,Blue Bun,Normal,Karito,Zombie,Monkey Staff
+690,9.45,105,51.25,https://magiceden.io/item-details/6mXyrtnsM2c2i9NVPPBjLtaLLMLQpBt5kTQ69gvXACjF,None,Golden Seal,Village of Wind,,Angry,Blue Bun,Cigarette,Deshi,Lover,Monkey Staff
 701,26,64,0,https://magiceden.io/item-details/J9Qe1WrV94Z9L8jdLyN1CjEqcL41JSHVJEJs5xXi1NVn,None,Nirvana,Village of Fire,,Pink Female,White Spike,Bandage,Deshi,Snow Monkey,Monkey Staff
 704,10,813,27.23,https://magiceden.io/item-details/4JpfdvDhCwPYyuXjmnwwiZnLjhHR8FtWMnTnoiV2nr6R,None,Ethereal Sunset,Deshi Platesuit,,Round,Blonde Spike,Joint,Karito,Tan,Cleaver
 715,11,261,31.67,https://magiceden.io/item-details/2abkTyLnDPjLWqMKPLPDTTX76i5CWVNHCkQA3JB9H2X7,None,Gate of Mortality,Mage Armor,,Zuko,Purple Long,Bandage,Karito,Pale,Torch of Infinity
@@ -150,7 +151,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 764,9.7,1415,14.48,https://magiceden.io/item-details/H4N6cBNzAonCDNcvn4Z6rRFP2KMj9b5ZyTUVsBEgjdcG,None,Orange,Village of Fire,,Sleepy,Orange Bob,Bandage,Deshi,Dark,Torch of Infinity
 768,200,31,0,https://magiceden.io/item-details/AbhC8ANVuvHzvLhWhZ21pSuJuruUdd1r9phTu8JYfrD8,None,Purple,Thug Suit,,Shadow,Dragon,Robot Mask,Deshi,Stone,Cleaver
 772,6.5,929,59.2,https://magiceden.io/item-details/GKtqmRZomBQThdwy2yYgQ75twSUnVEfossXfzqAtpkaL,None,High Noon,Village of Shadow,,Cataract,Teal Spike,Normal,Deshi,Snow Monkey,Demon Sword
-781,5,299,90.68,https://magiceden.io/item-details/Fz9peGnrsPi8nc5bDahjLXsNR7azbm1dfrnVNYqUsEAa,None,Blue,Village of Fire,,Zuko,Navy Beret,Bandage,Karito,Lover,Demon Sword
+781,5.15,299,89.18,https://magiceden.io/item-details/Fz9peGnrsPi8nc5bDahjLXsNR7azbm1dfrnVNYqUsEAa,None,Blue,Village of Fire,,Zuko,Navy Beret,Bandage,Karito,Lover,Demon Sword
 783,9,570,43.59,https://magiceden.io/item-details/4tQwYwdBhFHdzQgzsTNtbjvjcWFwu8DbbzwJkJ4a5JgV,None,Red,Tracksuit,,Sleepy,White Bun,Oni Mask,Deshi,Pale,Demon Sword
 791,20,245,0,https://magiceden.io/item-details/BnF9y8j4Rg2raJEssTLFWrFfaq9Fc8KBjRxtxr158jih,None,Purple,Space Warrior,,Snake Eyes,Teal Spike,Cigarette,Karito,Tan,Torch of Infinity
 793,100,24,0,https://magiceden.io/item-details/HuS3bK7Znjr6bHcW9rpBczD576pXKe7YnxPhw8T4CKCx,None,Red,MonkeDAO Bomber,,Deal With It,Blue Bob,Rainbow Mask,Karito,Snow Monkey,Torch of Infinity
@@ -204,7 +205,6 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 1014,8.7,502,48.37,https://magiceden.io/item-details/BCRGrfnKh4JfgEDDdACLwk45FEb7Aeq7zQ3wP68qFXNv,None,Ethereal Sunset,Thug Suit,,Glasses,Purple Dread,Grin,Karito,Dark,Bow
 1017,10.8,1249,7.83,https://magiceden.io/item-details/8LtZHAM8t9LLzQms7yWJ2FcR23fEW4nHW5R2pYMbfsya,None,Orange,Village of Fire,,Zuko,White Spike,Normal,Karito,Tan,Bow
 1018,19.9969,212,0,https://magiceden.io/item-details/AMaJcqgJXUa968XpefbzqAK3iFPmJy4ZfCJDFg9bwE5f,None,High Noon,Karito Chestguard,,Purple Female,Purple Spike,Grin,Karito,Snow Monkey,Cleaver
-1029,5,845,76.39,https://magiceden.io/item-details/2taNQfSEeDh5jUt9YjVMqxtCvFTQ6CEkBwaFM2GD1G8K,None,Blue,MonkeDAO Bomber,,Round,Blue Shot,Bandage,Karito,Tan,Monkey Staff
 1031,11,113,35.54,https://magiceden.io/item-details/cnvmvy5zL9kikcHxGwfJuqLAWNpmhesSrSTdyRvoZHS,None,Zoom,Monk,,Sunglasses,Blonde Long,Dog Mask,Karito,Dark,Bow
 1047,6.5,1138,53.73,https://magiceden.io/item-details/7NX8mVUCvdCkrraeDCUtCxqDtDfohyosYBLw1idfpxtz,None,Green,Tracksuit,,Demon,Blue Bob,Black Mask,Karito,Pale,Demon Sword
 1050,57,110,0,https://magiceden.io/item-details/7xohHVqmQeeSFGcFw99cnYDCnh1yk3w9dckUQFngBatQ,None,Green,Village of Wind,,Snake Eyes,Teal Spike,Oni Mask,Karito,Monkey,Torch of Infinity
@@ -270,11 +270,13 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 1379,25,467,0,https://magiceden.io/item-details/FBQ86Vsf68th3r9S5q25aaHBqvW1WGFcthcegAX5jxCf,None,Purple,Village of Shadow,,Shadow,White Hero,Smirk,Deshi,Dark,Monkey Staff
 1389,16,619,0,https://magiceden.io/item-details/C4tcmFvmWFqSch4jkDKP3uC5eDztuS54VTaTLpkVgB5b,None,Ethereal Sunset,MonkeDAO Bomber,,Sleepy,Black Long,Ghoul Mask,Karito,Stone,Monkey Staff
 1392,23,127,0,https://magiceden.io/item-details/7a9TkZeYtYwRLXXVY7ByTqzs1ScqpLeTkHHFRTXyvdsu,None,Purple,Thug Suit,,Shadow,White Bun,Tongue,Deshi,Dark,Torch of Infinity
+1404,7,139,74.86,https://magiceden.io/item-details/3zSbFRsf59R5cCa9FfoeWfgNGSEbdrLADZVuNNRoJtQ1,None,Ethereal Sunset,Monk,,Zuko,Blue Spike,Dog Mask,Deshi,Brawler,Cleaver
 1406,14.95,949,0,https://magiceden.io/item-details/z5QZ7mZDysDQvjdvEVwPQpHW7XKZS4NuUE6c7jnc3ZB,None,Red,Village of Fire,,Zuko,Black Long,Normal,Deshi,Zombie,Monkey Staff
 1409,10,458,36.52,https://magiceden.io/item-details/2E9iP71oc787jFPWGhUe74Wf5ts4APovStnP3r2vgTYM,None,Gate of Truth,Yacht Club,,Pink Female,Black Long,Normal,Karito,Monkey,Torch of Infinity
 1414,5.95,959,63.91,https://magiceden.io/item-details/3ocSWCgsZVJ94wheFtU91JBaB7nseUWqfFUqFKuJZLnp,None,Ethereal Sunset,Thug Suit,,3D Glasses,Blonde Spike,Normal,Deshi,Pale,Monkey Staff
 1416,9.999,1462,10.26,https://magiceden.io/item-details/67ahKhoZ233hZjqTL4eASqsFwjt1X5U8NECBLK6MgUNr,None,Ethereal Sunset,Village of Wind,,Demon,Black Bun,Normal,Deshi,Tan,Buster Sword
 1426,47.5,78,0,https://magiceden.io/item-details/5S9EDyDxL4WbcxkQb5XPgGeEWZuVcDfGbo2CknfZnxRG,None,Gate of Truth,Thug Suit,,Pink Female,Black Bun,Joint,Karito,Snow Monkey,Bow
+1433,8,1020,41.82,https://magiceden.io/item-details/LHN3Go7x2Cja8CtM6y8DWea2TxTKuaV69fd3vKHQR4P,None,Green,Mech Pilot,,Cataract,Protagonist,Cigar,Karito,Tan,Torch of Infinity
 1443,9,385,48.43,https://magiceden.io/item-details/4AoXeyLXckSe1Z9hDra3y58Q8nGGZdH2jvdVaTdaebM2,None,Zoom,Mech Pilot,,Sleepy,Blonde Long,Smirk,Deshi,Brawler,Buster Sword
 1452,8.7,348,52.4,https://magiceden.io/item-details/BVtsZN3HZuv3b2JKBBviUToVgLPpcUedM8RKk1d1qG6c,None,Purple,Tracksuit,,Gecko Cyborg,Blue Bob,Tongue,Karito,Pale,Monkey Staff
 1469,9,899,34.98,https://magiceden.io/item-details/BpmDMaChtBJiE3tQ2hKzgQtjra5Djm55P3F8X5Mx7Sgj,None,Red,Village of Shadow,,Sleepy,Afro,Bandage,Karito,Monkey,Buster Sword
