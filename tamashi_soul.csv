@@ -6,7 +6,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 22,8,691,44.78,https://magiceden.io/item-details/6mhqWTmzrs4oNX4sJ3W4VmYvxP47LGaBR2r4dPCtF9Ji,None,Green,Village of Shadow,,Shadow,Dragon,Smirk,Karito,Pale,Monkey Staff
 24,6.89,996,47.93,https://magiceden.io/item-details/Fiq2ZAwtadRoLdKtSMfMUfKw1j9UneYEDU7ikSX7UicG,None,Gate of Mortality,Yacht Club,,Cataract,Blue Shot,Bandage,Deshi,Tan,Torch of Infinity
 33,10,658,25.64,https://magiceden.io/item-details/8MgDPABmH617FFL9SXK1vEVukF3XQiLKmxe4yB8gauRT,None,High Noon,Space Warrior,,Angry,Purple Spike,Smirk,Deshi,Dark,Bow
-35,6,403,72.29,https://magiceden.io/item-details/3fokzxd93K14tBqfcLmUavUFwnzqMq8bBRsZNqF1mF2k,None,High Noon,MonkeDAO Bomber,,Pink Female,White Hero,Black Mask,Karito,Pale,Torch of Infinity
+35,9,403,42.29,https://magiceden.io/item-details/3fokzxd93K14tBqfcLmUavUFwnzqMq8bBRsZNqF1mF2k,None,High Noon,MonkeDAO Bomber,,Pink Female,White Hero,Black Mask,Karito,Pale,Torch of Infinity
 38,15,997,0,https://magiceden.io/item-details/9bQxskkHcukt7FCaPqziNxtkpQHoMNpiLihvt64GhoyT,None,Green,MonkeDAO Bomber,,Purple Female,Blonde Spike,Grin,Deshi,Dark,Buster Sword
 43,16.69,508,0,https://magiceden.io/item-details/F113re7G9aUTRERFa4zwEQMzRCw7SBKrPmS6KVsfPdaU,None,Orange,Yacht Club,,Deal With It,Blue Spike,Dog Mask,Deshi,Dark,Cleaver
 46,9.69,102,43.24,https://magiceden.io/item-details/3NZDBjWhMDSFvkYUycRDkUuFNUtq7zwLKoozffqZAzzZ,None,Purple,Spartan,,Sleepy,Pink Bun,Dog Mask,Deshi,Monkey,Bow
@@ -68,6 +68,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 366,11,1315,0,https://magiceden.io/item-details/BZfdjqZ1vFnWJZBE69Mdfkpa7FhUp8KRW43ibAW1C8kS,None,Green,Mage Armor,,Cataract,Blue Spike,Normal,Karito,Pale,Bow
 371,8.99,1529,13.03,https://magiceden.io/item-details/Fup7VC6uMyytX181GgAM4BND7JJhc4RAdtvXfLUwHYMu,None,High Noon,Village of Wind,,Sleepy,Black Long,Normal,Karito,Dark,Torch of Infinity
 385,8,426,51.69,https://magiceden.io/item-details/ERZ8QqmVgu1SeXkuRHSz6BpzQcXHdnrQk7gpBJiUj19v,None,High Noon,Naked,,Angry,Blue Bob,Rainbow Mask,Karito,Tan,Monkey Staff
+386,5,1316,58.48,https://magiceden.io/item-details/ERwuk3CzMuF7a9YW9Y3Xca5uKqqCrF7yr2SbWDVad9ym,None,Red,Village of Shadow,,Angry,Bald,Black Mask,Deshi,Brawler,Monkey Staff
 391,13.75,210,0,https://magiceden.io/item-details/AHTfwDE6NCJCn3aU4AzNC8jqzgnPsGrTjJvrUB2R5SKq,None,Nirvana,General,,Sunglasses,Blue Bob,Black Mask,Karito,Tan,Cleaver
 400,7.5,931,43.52,https://magiceden.io/item-details/CW5XsHEPxejVwieEJdhdUezxTtiQAGjEfcXPEFMN18d,None,High Noon,Village of Shadow,,Angry,Fox Male,Smirk,Deshi,Zombie,Cleaver
 402,4.8,830,73.16,https://magiceden.io/item-details/AxHXrZpmMuqzRdxyGbWmbRMXKt7v3TZnLCRhaLBcKaRG,None,Green,Tracksuit,,Sleepy,Purple Part,Joint,Deshi,Zombie,Torch of Infinity
@@ -215,7 +216,6 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 1018,19.9969,212,0,https://magiceden.io/item-details/AMaJcqgJXUa968XpefbzqAK3iFPmJy4ZfCJDFg9bwE5f,None,High Noon,Karito Chestguard,,Purple Female,Purple Spike,Grin,Karito,Snow Monkey,Cleaver
 1050,57,110,0,https://magiceden.io/item-details/7xohHVqmQeeSFGcFw99cnYDCnh1yk3w9dckUQFngBatQ,None,Green,Village of Wind,,Snake Eyes,Teal Spike,Oni Mask,Karito,Monkey,Torch of Infinity
 1051,7.8,465,52.67,https://magiceden.io/item-details/3b9PMD2HaT62BrztGW2EuLiRMCU33rjfS9be9JCF1SyM,None,Ethereal Sunset,Nature,,Pink Female,Black Bob,Black Mask,Deshi,Dark,Cleaver
-1053,4.7,646,78.96,https://magiceden.io/item-details/GMsizXg1HMQQ1UrqRXRZJzQWkUfxGuGPEj9ShYX7LoTg,None,Purple,Deshi Platesuit,,ETH,Purple Part,Grin,Deshi,Tan,Demon Sword
 1061,5.5,1271,54.66,https://magiceden.io/item-details/4XvxLhUkYpggdhcnoZuy1M4zvVewzCL7ufNrwpiyPRAT,None,High Noon,Village of Wind,,Snake Eyes,Protagonist,Smirk,Deshi,Pale,Monkey Staff
 1065,5.89,198,78.74,https://magiceden.io/item-details/3taq2vbzgp6hi3ZNjApj6aMqhKRzbrfQNnQ2Ab4aACed,None,Blue,General,,ETH,Blue Bun,Cigarette,Karito,Tan,Bow
 1070,11,1440,0,https://magiceden.io/item-details/9yPTwDmf75yCyGUTkcMvfEDX3d1AfvMFYUmU3HE9M68D,None,Purple,Village of Fire,,Sleepy,White Bob,Joint,Deshi,Tan,Bow
