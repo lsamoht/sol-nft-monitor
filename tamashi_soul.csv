@@ -17,7 +17,6 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 72,250,6,0,https://magiceden.io/item-details/3demupPJvdQtVMwyYkTR3CQi5caFhxUbpbQpEkG64jcZ,None,Orange,Mage Armor,,Snake Eyes,Fast Food,Rainbow Mask,Deshi,Zombie,Buster Sword
 87,12,156,12.97,https://magiceden.io/item-details/BKgdQWVQAswPgoodgL3w7ttX12gAFeLmvkyQvLNvZqDH,None,Gate of Truth,Nature,,ETH,Purple Long,Cigar,Karito,Pale,Torch of Infinity
 105,7,1215,35.58,https://magiceden.io/item-details/CT7v7VpU9H5iXL3FbVZfNW24PfAX1rWubB5GRs1Hbv9x,None,Blue,Naked,,Sunglasses,Blonde Long,Joint,Karito,Dark,Torch of Infinity
-109,12.99,65,5.42,https://magiceden.io/item-details/6YX8ZvRfN185XA5AruV1PfqUA5rz1TeB6tZos9QF9TqU,Laser Eyes,Purple,Village of Fire,,Angry,Afro,Black Mask,Karito,Dark,Buster Sword
 116,6.5,182,67.29,https://magiceden.io/item-details/5XGHwrC8dDpo1fcViPdMyWdHywu1Pg5XrN1rkxoSdRHf,None,Zoom,Village of Wind,,Sunglasses,Black Part,Dog Mask,Deshi,Stone,Torch of Infinity
 118,7,780,46.83,https://magiceden.io/item-details/7dLsaDuiC8tvrdmGbGCGN7GKQM38HidUn4wQ69KxPPYH,None,Red,Samurai,,Cataract,Teal Spike,Black Mask,Deshi,Dark,Demon Sword
 121,14.8,1273,0,https://magiceden.io/item-details/GzRuxAGQw2xVvLTxq9we6FJCyavtNDVGySo32zqPXGn1,None,Red,Karito Chestguard,,Cataract,Black Part,Joint,Deshi,Dark,Demon Sword
@@ -109,6 +108,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 503,9.9,1431,1,https://magiceden.io/item-details/FZ8DK2qJEFjed2orDN5xgVLhzbdcKz74DCiEdz5utL9p,None,High Noon,Village of Fire,,Sleepy,Black Part,Black Mask,Karito,Tan,Demon Sword
 507,15,197,0,https://magiceden.io/item-details/GxwhQUvFJ9Fs1sk1vNh8foFqJgKMjZJR8qKuZ4XLPVhu,None,Sky,Deshi Platesuit,,3D Glasses,Fox Male,Grin,Karito,Pale,Buster Sword
 509,12,1132,0,https://magiceden.io/item-details/AAgFsbz9EtFfLh8dKdht4BjEZniiQBjSqk7AvghJ9xLk,None,Red,Village of Fire,,Blue Female,Teal Spike,Ghoul Mask,Karito,Tan,Cleaver
+511,4.2,1137,65.6,https://magiceden.io/item-details/4YWxtBW2djv68zcomaiMupvuAkoC6vVRszdCdfnSpLtf,None,Purple,Deshi Platesuit,,Sunglasses,Pink Long,Bandage,Deshi,Brawler,Monkey Staff
 512,11,94,24.57,https://magiceden.io/item-details/74SUKHuEazQnSdAvrgBQeq9Ay8fjHohvTbaeMtSpNyTM,None,Gate of Truth,Village of Fire,,Cataract,White Spike,Robot Mask,Deshi,Lover,Cleaver
 513,12,1180,0,https://magiceden.io/item-details/2BgttStcSwewDcTBGsQiP6jcwoybtgrEfKkcGRN8te93,None,Purple,Village of Wind,,Snake Eyes,Teal Spike,Joint,Deshi,Pale,Monkey Staff
 519,6.5,226,66.16,https://magiceden.io/item-details/7mKPpMG74UuGH11BrFNR6Mqc2z14zqajTKWesqKfQRYN,None,Gate of Truth,Village of Wind,,Gecko Cyborg,Purple Part,Dog Mask,Deshi,Brawler,Cleaver
@@ -272,7 +272,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 1280,10.35,1317,0,https://magiceden.io/item-details/HEAVCAgarBcN1YFzqbeYxw7DPsebob4re9hyYttu88Gj,None,Blue,Naked,,Purple Female,Blue Spike,Cigarette,Karito,Pale,Bow
 1284,13,179,2.37,https://magiceden.io/item-details/4agHjCw1TDHT3WdC6zqcnqxLtFVhiyntSR67aT4ejyJC,None,Ethereal Sunset,Nebular Guise,,3D Glasses,White Bun,Smirk,Deshi,Pale,Demon Sword
 1288,5.3,1118,55.09,https://magiceden.io/item-details/92Sne3upujpQ5YPEDnn8mimFaud2sLAKDEBi2Zf48QjX,None,Green,Village of Wind,,Glasses,Purple Dread,Cigarette,Karito,Tan,Bow
-1290,35,123,0,https://magiceden.io/item-details/Ae1QV2XWWWapgPABwiTrJMr2VnEaCWC8EEB7xiakWnW8,None,Green,Yacht Club,,3D Glasses,Fox Male,Bandage,Karito,Snow Monkey,Buster Sword
+1290,15,123,0,https://magiceden.io/item-details/Ae1QV2XWWWapgPABwiTrJMr2VnEaCWC8EEB7xiakWnW8,None,Green,Yacht Club,,3D Glasses,Fox Male,Bandage,Karito,Snow Monkey,Buster Sword
 1293,7.5,327,53.54,https://magiceden.io/item-details/DBqrcnL2jqFdmwRy8cAaVBt9h4b8ZGLMonZ3AqgV8w6U,None,Orange,Monk,,Blue Female,Blue Spike,Black Mask,Karito,Zombie,Buster Sword
 1298,5.69,942,55.74,https://magiceden.io/item-details/G2wK8LUzRevye1Y3mGwQUdSyuQQWAsVQMqykmZPKa8ko,None,Nirvana,Village of Shadow,,3D Glasses,Black Part,Smirk,Karito,Pale,Buster Sword
 1300,10,819,15.82,https://magiceden.io/item-details/ERmRiqaDbZZCtVZc8QdCf6J5csr7pH2CQ8gcdkWg1Jor,None,Purple,Thug Suit,,Sunglasses,Navy Beret,Cigar,Karito,Pale,Torch of Infinity
