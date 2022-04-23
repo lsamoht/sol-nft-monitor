@@ -7,7 +7,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 274,8,2247,66.61,https://magiceden.io/item-details/BqzAMRoV4QTWW8jBW3ULGADkJYD1DfiWeGXj3WhAEo6K,,Fine Bucket,,,,,Hatch,,,None,None,Glowing Barred Window,Green Barred Window,,,,,
 368,8.6,3136,49.77,https://magiceden.io/item-details/8YoSeeG5Twa5ED3kVPXA61CBTHHEgeTUyL2wRP6pfhwh,,Trap House,,,,,Wood,,,None,None,Duck Foot,,,,,,
 375,8,3195,55.05,https://magiceden.io/item-details/GVCkfit2JhLvSy645kvuDVNKyRFbkB9Z5qJWVo7macLR,,Fancy Trap House,,,,,Wood,,,None,Barred Window,None,,,,,,
-402,7.75,2137,70.45,https://magiceden.io/item-details/ASZp91BzG7FWGNUN6QYynu1EFixvbsHmPBFqgBCXkUcG,,Trap House,,,,,Swinging Doors,,,Drainage Pipe,Amethyst Window,Duck Foot,,,,,,
+402,7.4,2137,73.95,https://magiceden.io/item-details/ASZp91BzG7FWGNUN6QYynu1EFixvbsHmPBFqgBCXkUcG,,Trap House,,,,,Swinging Doors,,,Drainage Pipe,Amethyst Window,Duck Foot,,,,,,
 453,10.2,3243,32.46,https://magiceden.io/item-details/9qiNCDnpDyL7RocAkBHV4zn4eFa3sWvKcG9hpH9zvTtb,,Reinforced Trap House,,,,,Open,,,None,Barred Window,None,,,,,,
 486,7.8,2618,64.08,https://magiceden.io/item-details/6JrPfGqK3VvScs8c9puxNWMXiyNCjWV3ftUsXLLx94ir,,Fancy Trap House,,,,,Wood,,,None,Amethyst Window,Plumbing,,,,,,
 499,10.2,2392,42.84,https://magiceden.io/item-details/8dEYQdgU3yZA8aCBvU1X7deFhn4eMVf3k8HNXSqPK8sg,,Trap House,,,,,Swinging Doors,,,Pest,Amethyst Window,None,,,,,,
@@ -28,7 +28,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 1639,11.99,69,53.26,https://magiceden.io/item-details/DSNnQTtFPMdwjgNU4D8xduhujibhpzaLUG6fraBeRjMQ,,,,,,,Decorated Door,Crested Volcanic Head,Topaz,,,,,,None,,,Green
 1640,12.5,427,43.79,https://magiceden.io/item-details/6AsrXxWTdTUjRPTTusX7g2MguQN37scjeV6EJaZvJEdV,,,,,,,Pest,Crested Slate Head,Jade Thick,,,,,,None,,,Green
 1694,9,257,80.87,https://magiceden.io/item-details/GZAjFSarHaKwRQYwJJDp21SjBsGyPS1cZsrhaSSkwqqy,The Back Wall,,,,,,Open Red Door,Crested Volcanic Head,Jade Thick,,,,,,Red,,,Purple
-1704,9,52,83.37,https://magiceden.io/item-details/EEeULpwaMt1EgweDqWxkQFxTfZDL9x4WNYi4EAERzMzQ,The Back Wall,,,,,,Red Door,Jade Head,Volcanic Thick,,,,,,Blue,,,Purple
+1704,15,52,23.37,https://magiceden.io/item-details/EEeULpwaMt1EgweDqWxkQFxTfZDL9x4WNYi4EAERzMzQ,The Back Wall,,,,,,Red Door,Jade Head,Volcanic Thick,,,,,,Blue,,,Purple
 1770,13.9,261,31.82,https://magiceden.io/item-details/3uQHbyR5wh5fC64j3oYqCdbfEW9qvKHBot93KUbGcNMZ,,,,,,,Red Door,Crested Jade,Slate,,,,,,None,,,Red
 1858,11.95,613,47.03,https://magiceden.io/item-details/EM6pYu28pnqkH16NXGmNVdSWTtYhZ2dkd29NQ8zZhPQ5,,The King's Crown Pineapple,,,,None,Festive,,,,,,,,,Purple,Eyes,
 1981,20,1273,0,https://magiceden.io/item-details/9tPVxD6tgDhXWXW3QDCFmeiKQmeByQ24HMcxaH16oSV3,,Bare Pineapple,,,,Steel,Wooden,,,,,,,,,None,Single Eye,
@@ -42,7 +42,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Base,Chest Trait 1,Chest Tr
 2711,7.5,1394,82.01,https://magiceden.io/item-details/AJBgEYWqK7xSvxmffRhihVG5tT2wKmsYTx1RXasvhaEA,,Fancy Scrap House,,,,,Green,,,Balcony,Turtle Shell Roof,Casino Sign,,,,,,
 2936,10,728,65.12,https://magiceden.io/item-details/ygjsj29USt4KRAYXQB2wj15rnY2Dj9CfJ7PCfCTgTHW,Shill City Metro,Chest,Saloon,Green Window,Green Window,,Hatch,,,Telescope,,,,,,,,
 2991,8.5,830,78.88,https://magiceden.io/item-details/9NUU4dZkTd9D4cFCrbs4Aum9d6fuCvjTtqQPpimj84s5,Shill City Metro,Chest,Saloon,Barred Window,Barred Window,,Steel,,,Telescope,,,,,,,,
-3002,7.4,597,92.72,https://magiceden.io/item-details/HfPUB65Ar6VSYAVvS928g6RowGYHpRF7oDtzMyfouras,,Chest,Black Jack,Blue Window,Pub Window,,Swinging Doors,,,Telescope,,,,,,,,
 3238,7.5,3281,59,https://magiceden.io/item-details/3ZL7yeN8QzVfvyvRaVWT8s9V7d42vDxMBoRfXMjvY1x7,,Trap House,,,,,Wood,,,Telescope,None,None,,,,,,
 3257,16.85,1027,0,https://magiceden.io/item-details/Eu2M6W5UL9ne2S2T3WJqXFujP4A7ajqUiLp9F4Nnn867,,Coral Bare,,,,Scrap,Wood,,,,,,,,,None,Blue Invader,
 3300,7.5,2403,69.7,https://magiceden.io/item-details/5VdGG2m4pf6ZjTSfehteXnLQuuTF7JBn4xeYE5Z5BbUc,,Submarine,,,,,Steel,,,None,Barred Window,Chimney,Red Light,,,,,
