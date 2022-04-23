@@ -58,6 +58,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 288,13.6,706,0,https://magiceden.io/item-details/DogpmNhWGUBxvhnwR7u8MfazqmhLjCW6ahix2DgDmqdK,None,Green,Boryoku Defender,,Deal With It,Protagonist,Normal,Deshi,Tan,Torch of Infinity
 289,5.49,1099,56.24,https://magiceden.io/item-details/H8ZaEzWjm36V3oPKRif6bmJJLkFPx6zvv973LAVZGcBJ,None,Gate of Mortality,MonkeDAO Bomber,,Cataract,Bald,Smirk,Deshi,Pale,Cleaver
 297,8.5,337,45.8,https://magiceden.io/item-details/5M8RVihqbJk3qHuNuMW6U1PmG348CeXaLvrsu2RqnmNe,None,Ethereal Sunset,Samurai,,Deal With It,Blonde Long,Cigarette,Deshi,Tan,Torch of Infinity
+298,5,171,85.09,https://magiceden.io/item-details/8CJDbZ5BoCPpw4s1pmyuyDoKThL6NwUS6tWwaHdopmL2,None,Green,Tracksuit,,Zuko,Navy Beret,Smirk,Karito,Snow Monkey,Monkey Staff
 301,5.98,29,78.95,https://magiceden.io/item-details/XKdu1K6xr5xh4aKHKHk994anDe97Zs4LChehrPKzExT,None,Zoom,Nebular Guise,,Pink Female,Protagonist,Grin,Karito,Monkey,Cleaver
 307,7,10,69.24,https://magiceden.io/item-details/CPyRtLfdGZqK5fdMzMKJuSdk61Wi49afZndrNVBASgaa,None,Golden Seal,Village of Fire,,Snake Eyes,Fox Female,Tongue,Deshi,Lover,Demon Sword
 308,12,135,16.02,https://magiceden.io/item-details/CnF429jF84GT3skmTHbMLBAmBFffugnrRCcH8XgRhkzq,None,Red,Boryoku Defender,,Pink Female,Black Dread,Black Mask,Deshi,Brawler,Monkey Staff
@@ -133,7 +134,6 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 655,15,850,0,https://magiceden.io/item-details/JDsCoXJPKMQQz78hW7ypHSN32E83KknsNHD6rNA4MnAw,None,Gate of Truth,Village of Shadow,,Sleepy,White Hero,Smirk,Karito,Brawler,Monkey Staff
 659,12,222,13.77,https://magiceden.io/item-details/2ctuFJbH38T2mJ5YnqqKfGQNYw5s1LVNQ7hDxpMAevaH,None,Gate of Truth,Village of Fire,,Cataract,White Dread,Duck Mask,Deshi,Stone,Buster Sword
 660,17,856,0,https://magiceden.io/item-details/AaFzrvxYz6NRsftR8swhpKFXSnaoW2d5eaATiAWSep55,None,Purple,Village of Shadow,,Sunglasses,Fast Food,Cigar,Deshi,Tan,Monkey Staff
-662,5,399,79.2,https://magiceden.io/item-details/bcdz96zJEvvBQg3GQeXKDVhfUBmaeKN79mNF7XWiqwE,None,Orange,MonkeDAO Bomber,,Zuko,Navy Beret,Duck Mask,Karito,Tan,Buster Sword
 666,17.69,981,0,https://magiceden.io/item-details/EcVpC2Z63LT65Z3EgH73AYQ5oYoNyvFVgm5tfpa5spcE,None,Ethereal Sunset,Village of Fire,,Angry,Blue Spike,Smirk,Karito,Lover,Bow
 670,5.5,852,62.51,https://magiceden.io/item-details/ASgTNkCsXSKRAp7Mvwkj2tocNCcEcMKvt777rrVFPMp8,None,Gate of Truth,Village of Shadow,,Snake Eyes,Pink Shot,Black Mask,Karito,Dark,Buster Sword
 671,10.5,1425,0,https://magiceden.io/item-details/HAdrLTCR5z7vE27hDqfy5cCocFf6JrhYXuSHeJcLWjLq,None,Green,Village of Wind,,Angry,Orange Bob,Black Mask,Karito,Pale,Buster Sword
@@ -206,7 +206,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 990,18,765,0,https://magiceden.io/item-details/BWPgqExWMSzkHLeRF4gQHTKojjwRodUgxDxL35bt8fn8,None,Red,Village of Fire,,Shadow,Bald,Cigarette,Karito,Pale,Monkey Staff
 994,11.69,676,5.15,https://magiceden.io/item-details/E9jEYH6dZxPTgaiUZraR1jiy8xp9ZzZMKpuuo8NZgx4a,None,High Noon,Mage Armor,,Sleepy,Protagonist,Normal,Karito,Monkey,Torch of Infinity
 996,15,788,0,https://magiceden.io/item-details/HKgVXCFZd72fRgtPdPoaCH6FBcRTCwbEZqYyVbhdiTkb,None,Gate of Mortality,Space Warrior,,Glasses,Pink Long,Normal,Karito,Pale,Bow
-997,7,762,49.84,https://magiceden.io/item-details/7Y9eHjQ9Gza9sbLoEZeWXf6A1imMz4wWWrKk23KecJgZ,None,High Noon,Village of Wind,,Pink Female,White Bun,Smirk,Deshi,Stone,Torch of Infinity
+997,5,762,69.84,https://magiceden.io/item-details/7Y9eHjQ9Gza9sbLoEZeWXf6A1imMz4wWWrKk23KecJgZ,None,High Noon,Village of Wind,,Pink Female,White Bun,Smirk,Deshi,Stone,Torch of Infinity
 999,10,278,32.33,https://magiceden.io/item-details/CFJRt9B228UCVbck8zcYbKsPvVom2eGV3sfvyFJZnHA9,None,Green,Boryoku Defender,,Sunglasses,White Bun,Joint,Karito,Brawler,Bow
 1003,4.3,1458,58.87,https://magiceden.io/item-details/Fc4BbR8Kr7gWEPVcgkoYNLTYbh4m3EcQKiUrTD2FWRw9,None,Red,Naked,,Angry,Orange Bob,Normal,Karito,Tan,Buster Sword
 1004,9.9,826,19.18,https://magiceden.io/item-details/HFwzjS18cKdGJgk2NW5FzJaGEPRN9pVQfqgrdQ3iSRSZ,None,Purple,Village of Fire,,Demon,Pink Bun,Normal,Deshi,Lover,Monkey Staff
