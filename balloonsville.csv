@@ -35,6 +35,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 714,4.7,2699,61.18,https://magiceden.io/item-details/8dtdwZTvqBiGTwytnSocGuAhty5ecKVhFcKhsCFnJJhg,Blue,Gold,Multicoloured Tech Fleece,Dead,Brown Hair,
 768,4.2,1901,72.6,https://magiceden.io/item-details/AxpnfoPno6Qrgty2hC6PujsJKAL8Dd4ptdgtSFR8rtPF,Nyanza,Purple,Tan Brown Blazer Jacket,Beard,Monkey,
 775,3.45,1861,80.42,https://magiceden.io/item-details/9Kbs7xTnDCLY8cf8TYbK5j1SbQeTgmzySKjCBvPjxrkD,Blue,Gold,Brown Leather Jacket,Smile,Snowman,
+787,3.01,1799,85.32,https://magiceden.io/item-details/ATLgtANQanEeMWjNUnAf73RHoYzJjyGdeY5RJEY3miNg,Pale Lavender,Yellow,Tan Brown Blazer Jacket,Mask,Watermelon,
 811,12.5,3205,0,https://magiceden.io/item-details/Dz3Tmqb9iZhAm25srrjrSNXxHiwuSNCDzDFEUFU1qLoJ,Light Cyan,Purple,Brown Leather Jacket,Mask,Mushrooms,
 837,3.3,2448,77.2,https://magiceden.io/item-details/3tcudiTPiDcQNUEKQjmAGnm8ZAbikyGqBNzFG8bVwxjw,Nyanza,Blue,Grey Waistcoat,Cinco De Mayo,Brown Hair,
 852,3.45,2628,74.25,https://magiceden.io/item-details/9961aHCUdGuchUA7uCWB3sgBjMef2mEbLYk8QwkuiyGy,Light Cyan,Pink,Starship Suit,Bored,Ice Cream,
@@ -221,7 +222,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 Ballusa,200,4,0,https://magiceden.io/item-details/CqBX6c9k3zW5bJfycbWJ5mK9a8H4WyonZVf6TxCayb1G,,,,,,Ballusa
 606,6,1658,56.56,https://solanart.io/search/?token=CFq4WCvCzNjHi4vAMpqq2QWvtKVFexgLU2yFPQfKNsYJ,Papaya Whip,Green,Turtle Neck Sweater,Disguise,Mushrooms,
 915,14,1677,0,https://solanart.io/search/?token=BM7WxpunkgyahrMzAdDJWBbduu9zagAG4ZkdbF1ovtDy,Rose Pink,Purple,Brown Collared Shirt,Pirate,Brown Hair,
-961,3.99,2841,67.13,https://solanart.io/search/?token=ErvtVCstZNZU1ZsCrW2FUp4eM11KY4BWY9DPS1kiCTH6,Purple,Red,Sleeveless Denim Button Shirt,Thug Life,Boot,
 1745,4.99,423,76.6,https://solanart.io/search/?token=GCdA9rvwyypAbRuhy3UGd42cMegbrcPAKLMTYQUhpWWC,Rose Pink,Rainbow,T Shirt,Stressed,Vampire Hair,
 1755,111,566,0,https://solanart.io/search/?token=w1VSu5nVVsTsUXT8ckpH9VsuTuUJtCT2yp5AfYr6Ei4,Purple,Confetti,Striped Sweater With Buttons,Cool,Ice Cream,
 3084,25,4433,0,https://solanart.io/search/?token=6PUTpfRESfxVCnMtVBBiBsjmUNCPuQVFzFgFfgHXAQep,Aero Blue,Blue,Black Tunic,Glitch,None,
