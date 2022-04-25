@@ -48,7 +48,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 852,3.45,2628,71.35,https://magiceden.io/item-details/9961aHCUdGuchUA7uCWB3sgBjMef2mEbLYk8QwkuiyGy,Light Cyan,Pink,Starship Suit,Bored,Ice Cream,
 861,6.69,2371,41.02,https://magiceden.io/item-details/BYsBGDj59gMZZPhSo9DGPF99Wf7gAS5QL4Vee5otQv3n,Nyanza,Yellow,Multicoloured Tech Fleece,Dead,Cone,
 876,15,1993,0,https://magiceden.io/item-details/UfDvuHWa7sEFdLEMbyXDuuJ7Ar5vc8syuUvaNSbhnu3,Rose Pink,Red,Black Suspenders And Grey Waistcoat,Embarrassed,Beret,
-912,3.3,1065,85.43,https://magiceden.io/item-details/5BEskKmpzrMpao2MkT3YVF8nwZRVagCWsKHoYmZgcq1R,Aero Blue,Red,Sleeveless Denim Button Shirt,Mushrooms,Horns,
 913,3.6,1668,77.58,https://magiceden.io/item-details/EA6qF4ZQa2G8GwCc2p7uT44TceiNGL6Qd6c9kh7ADVoJ,Dark Blue,Blue,Short Sleeved Blue Button Shirt,Wrestler,Crocodile,
 940,4,2014,70.79,https://magiceden.io/item-details/EN12Y7ca8wz2B4VAS2KTnW37GovK2DWDkxCL77utcZ6H,Aero Blue,Gold,Yellow Utility Jacket,Bored,Pirate,
 948,11,2579,0,https://magiceden.io/item-details/HAtz1JX7b6GZbytWciNwce25iaZex6PwzAJvvN4a4EBq,Blue,Pink,Pink Blazer Jacket and Blue Turtleneck,Crying,Dreads,
@@ -233,6 +232,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Balloon,Body,Face,Head,Spec
 4892,3.48,3534,63.76,https://magiceden.io/item-details/4tJARhAq4ewN6p6dEJPaP133T3EnWMtZsjHrqu4jYuaX,Purple,Purple,Beige Sweater Vest,Bread,None,
 Ballusa,200,4,0,https://magiceden.io/item-details/CqBX6c9k3zW5bJfycbWJ5mK9a8H4WyonZVf6TxCayb1G,,,,,,Ballusa
 606,6,1658,53.66,https://solanart.io/search/?token=CFq4WCvCzNjHi4vAMpqq2QWvtKVFexgLU2yFPQfKNsYJ,Papaya Whip,Green,Turtle Neck Sweater,Disguise,Mushrooms,
+643,3.99,3014,62.84,https://solanart.io/search/?token=5bi8sY2JoU9YKkuxffSy1gyJSraVzgSSLe3LyhHnoTjN,Blue,Red,Dark Grey Suit,Beard,Fox,
 915,14,1677,0,https://solanart.io/search/?token=BM7WxpunkgyahrMzAdDJWBbduu9zagAG4ZkdbF1ovtDy,Rose Pink,Purple,Brown Collared Shirt,Pirate,Brown Hair,
 1745,4.99,423,73.7,https://solanart.io/search/?token=GCdA9rvwyypAbRuhy3UGd42cMegbrcPAKLMTYQUhpWWC,Rose Pink,Rainbow,T Shirt,Stressed,Vampire Hair,
 1755,111,566,0,https://solanart.io/search/?token=w1VSu5nVVsTsUXT8ckpH9VsuTuUJtCT2yp5AfYr6Ei4,Purple,Confetti,Striped Sweater With Buttons,Cool,Ice Cream,
