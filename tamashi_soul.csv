@@ -8,6 +8,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 22,4.3,691,69.17,https://magiceden.io/item-details/6mhqWTmzrs4oNX4sJ3W4VmYvxP47LGaBR2r4dPCtF9Ji,None,Green,Village of Shadow,,Shadow,Dragon,Smirk,Karito,Pale,Monkey Staff
 27,3.17,1270,65.53,https://magiceden.io/item-details/DdeSgzLEdvx63Hd2NqmbUDhnF2utrYQkCmwgEK91vLWb,None,Blue,Village of Shadow,,Round,Afro,Smirk,Karito,Dark,Monkey Staff
 33,10,658,13.02,https://magiceden.io/item-details/8MgDPABmH617FFL9SXK1vEVukF3XQiLKmxe4yB8gauRT,None,High Noon,Space Warrior,,Angry,Purple Spike,Smirk,Deshi,Dark,Bow
+34,5,853,57.99,https://magiceden.io/item-details/JCdhzM726aqfCwAQZLjodUK3x4gctRQnjWwKe4WtjiVv,None,Red,Karito Chestguard,,Demon,Purple Dread,Black Mask,Deshi,Dark,Bow
 38,15,997,0,https://magiceden.io/item-details/9bQxskkHcukt7FCaPqziNxtkpQHoMNpiLihvt64GhoyT,None,Green,MonkeDAO Bomber,,Purple Female,Blonde Spike,Grin,Deshi,Dark,Buster Sword
 41,3.43,586,80.58,https://magiceden.io/item-details/AFKjFLKz15gajDWCfLhs4p57hZjfvEXSJ2r8nua2CcKp,None,Purple,Village of Wind,,Snake Eyes,Pink Long,Duck Mask,Deshi,Brawler,Demon Sword
 46,8.88,102,38.57,https://magiceden.io/item-details/3NZDBjWhMDSFvkYUycRDkUuFNUtq7zwLKoozffqZAzzZ,None,Purple,Spartan,,Sleepy,Pink Bun,Dog Mask,Deshi,Monkey,Bow
@@ -48,6 +49,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 228,4,1447,52.66,https://magiceden.io/item-details/9MvkNWwA7J7KeRJ55564yovRdhoPqsmakmPx14M6zFFG,None,Gate of Mortality,Karito Chestguard,,Sleepy,Teal Spike,Normal,Karito,Brawler,Bow
 233,10.5,436,13.75,https://magiceden.io/item-details/8BMFvdeszQbsepx8LYV3kzgJxsK3giRPSQpLZwrMefS6,None,Green,Mage Armor,,Blue Female,Fox Female,Bandage,Karito,Tan,Cleaver
 235,3.5,1206,63.88,https://magiceden.io/item-details/BzCUftvbU5cQXQweGo1RadiLFvKfXU3gHmJLF6KKwNc2,None,Red,Village of Fire,,Zuko,Purple Long,Cigarette,Karito,Pale,Torch of Infinity
+236,4.5,158,80.92,https://magiceden.io/item-details/HFRs31Tr4pRp5UGFkJUUEzqacFkcxDraLy6CUGCBb1Tz,None,Solana,General,,Pink Female,Pink Long,Black Mask,Deshi,Brawler,Torch of Infinity
 245,3.9,1319,56.96,https://magiceden.io/item-details/7hoiwwMqxiHkhU8Ano1kmNBRijjJUZmFBooiXXkJ53m6,None,Gate of Mortality,Village of Wind,,Angry,Afro,Joint,Deshi,Pale,Demon Sword
 249,15,447,0,https://magiceden.io/item-details/8VLDwaDcpsC2iMS3XowEqm3ESVKxEExJM1R15rgXBXkh,None,Golden Seal,Karito Chestguard,,Pink Female,Pink Shot,Normal,Karito,Tan,Demon Sword
 254,5,797,59.43,https://magiceden.io/item-details/5pU2cqFCoWuuwfSG92aHNbKkqMsgqe9UdTa6QMBfEwcw,None,Gate of Truth,Deshi Platesuit,,Glasses,Blue Spike,Ghoul Mask,Karito,Dark,Bow
@@ -195,7 +197,7 @@ id,price,moonRank,💎 score (%),storeURL,Ascendance,Background,Body,Decisions,E
 969,6,444,58.54,https://magiceden.io/item-details/hBEKVJ2RHpfMgHwUSdDcgf7hUXiuU6Aykv822mZD255,None,Nirvana,Village of Wind,,Sunglasses,Blue Bun,Cigar,Karito,Stone,Torch of Infinity
 971,3.9,925,67.13,https://magiceden.io/item-details/7ALujTvPbqhT3tbicsFNjxkMM3Tz44is3Vqt6NHfS2Mr,None,Purple,Naked,,Sleepy,Black Bob,Duck Mask,Deshi,Tan,Buster Sword
 975,10,126,26.75,https://magiceden.io/item-details/4NA3W7cjGjyqNSvpwRxqpgtghawz2ar8TZSdA3KyachQ,None,High Noon,Mech Pilot,,3D Glasses,Purple Spike,Cigarette,Deshi,Zombie,Torch of Infinity
-981,6.96969697,612,44.51,https://magiceden.io/item-details/FaiveWdrgDvEjek9omU9i4dbNE4CzL8ScEaKne3MSFdc,None,Green,Tracksuit,,Sleepy,Green Beret,Rainbow Mask,Karito,Dark,Monkey Staff
+981,5,612,64.21,https://magiceden.io/item-details/FaiveWdrgDvEjek9omU9i4dbNE4CzL8ScEaKne3MSFdc,None,Green,Tracksuit,,Sleepy,Green Beret,Rainbow Mask,Karito,Dark,Monkey Staff
 985,27,121,0,https://magiceden.io/item-details/9UkUASS42f2S6Uth1XgB8FFha8zNuKrQH5YmJj6RpdaH,None,High Noon,Space Warrior,,Glasses,Black Part,Normal,Deshi,Lover,Buster Sword
 988,7,386,50.04,https://magiceden.io/item-details/3Rygq8RpJ4yQtRigbNDpdrHGKWvDuTFAkWsG7LFm6ApR,None,High Noon,Spartan,,Cataract,Black Part,Ghoul Mask,Deshi,Brawler,Bow
 989,14,579,0,https://magiceden.io/item-details/9RGdvPYHQCGRKdDwrUNUxUQoRoNXSfmdozrLyp6qzfhE,None,Blue,Mech Pilot,,Pink Female,Protagonist,Normal,Karito,Monkey,Buster Sword
