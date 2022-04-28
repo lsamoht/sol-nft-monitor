@@ -1,5 +1,4 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Hat,Mouth
-3,82,3628,0,https://magiceden.io/item-details/C3UTGHipYkPfh5XqDBEe7qyQCix2FtdGNToHpksrfe3A,Yellow,Golf Polo,Okay,Aviator Sunglasses,Andean,Pencil,Okay
 30,88.88,8716,0,https://magiceden.io/item-details/AKzwNDfQRXTK69Uv6CeyyWmmLnUngp4TRFnMBKbDMWkb,Grey,Polo with Headphones,Okay,,Tan,Bandana,Okay
 39,80,3355,0,https://magiceden.io/item-details/eenCvxaj85NRdjy32Jw5j58perGL2kXmW38ZXbEhqby,Purple,Torn Sleeveless Tee,Closed,,Ginger,Classic Cap,Huh
 44,81,935,0,https://magiceden.io/item-details/FQBDgmXT14VRV6r5Vj7uTkGyXixLis24GkEjKJdxNUUc,Grey,,Spirited,Pixel Glasses,Andean,Visor,Worried
@@ -57,6 +56,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 384,159,8189,0,https://magiceden.io/item-details/FnJRjpNqV5YTQnnfvBKiBuJmt5pjm8SutrrqGjQF45EY,Blue,,Golden Glow,,Ginger,Runner Cap,Okay
 386,100,6093,0,https://magiceden.io/item-details/GD7xyeXpvu2rfYbwQAq3n8qzc6cgu1LGSn9wLPoGdccE,Yellow,Vintage Windbreaker,Okay,,Pink,Earrings,Wry
 401,150,6755,0,https://magiceden.io/item-details/5V6Ax7pLbcDsSEU31hBKGRiEnuFq57hW5YUL8udbZ2p4,Cream,Sleeveless Tee,Spirited,,Tan,Flat Hat,Clean Smile
+428,130,357,0,https://magiceden.io/item-details/CMvzYKWthvT47psSK3gUh8vsZTKWjY4W6UZbdeC5iB9v,Grey,Pullover Windbreaker,Sad,Wayfarer Sunglasses,Panda,Visor,Beaming Smile
 435,155,268,0,https://magiceden.io/item-details/95fx2erkbwAFVbizeLB4zEZVq5gVi7Yhwn56JrgrhhaM,Blue,Tech Jacket,Tired,Holographic,Grizzly,Beret,Oou
 441,95,579,0,https://magiceden.io/item-details/TfVweW7BVyTSzSUeoFEk7AeDdvXydthnqdMLVZD31pB,Blue,Tweed Suit,Annoyed,Punk Sunglasses,Dark Brown,Earrings,Wheat
 443,80,3339,0,https://magiceden.io/item-details/AVtL1sZDsJeyWhMz4CemWdnnUtRZyUZKcKFeLX1DxGU4,Warm Grey,Woven Sweater,Sarcastic,Clear Glasses,Andean,,Proud
@@ -81,7 +81,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 549,78.99,5222,0,https://magiceden.io/item-details/9YkY4MYGRie2dS5sh3iKSo6HSiJpMF8JQHti1KdcYyYG,Purple,Autumn Sweater,Defeated,,Grizzly,Chullo,Okay
 570,200,588,0,https://magiceden.io/item-details/9H9FoWW2w1V31kJ6GidGCbWH1jubSEBqVxtCLnhgWLk7,Warm Grey,Loose Overalls,Disappointed,Punk Sunglasses,Dark Brown,Worn Out Cap,Yum
 575,80,9588,0,https://magiceden.io/item-details/Ep9hgToDStGa2E6KsFRYq1EzUSFpSXDUbF9xmZY1yCh3,Cream,,Disappointed,,Tan,Pencil,Pouting
-581,99,2355,0,https://magiceden.io/item-details/GPpc1Pchdyhb2xEAPBrkD9fyQ385d7Nwx3XAvWmhNw6T,Grey,Summer Shirt,Okay,Punk Sunglasses,Green,Worn Out Cap,Pouting
+581,109,2355,0,https://magiceden.io/item-details/GPpc1Pchdyhb2xEAPBrkD9fyQ385d7Nwx3XAvWmhNw6T,Grey,Summer Shirt,Okay,Punk Sunglasses,Green,Worn Out Cap,Pouting
 624,250,2661,0,https://magiceden.io/item-details/6stxbWvtyjchtrrc73xAv3AgoU3SfyeRSZqLWgYgfEh9,Green,Double Jacket,Disappointed,,Blueprint,Classic Cap,Hmm
 636,110,1140,0,https://magiceden.io/item-details/ByFoxmhaZcAsSHQvTvQbgeyyyVQhV4M1bKHjYi4Zarmh,Blue,Lumber Jacket,Golden Glow,Round Glasses,Sun,,Wry
 645,100,6630,0,https://magiceden.io/item-details/6WVATqV8zH6QRxwXxz15MdtfLNvqE7oCLuvc6nqAkGTU,Purple,,Okay,Round Glasses,Albino,,Wheat
@@ -95,12 +95,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 685,72,1908,0,https://magiceden.io/item-details/577vReKaH93FJMhVd9PZZ3EXoKFbDRHkRwKd1aWabrKS,Cream,Hawaiian Shirt,Happy,Wayfarer Sunglasses,Pink,Baker Boy Hat,Okay
 690,140,1312,0,https://magiceden.io/item-details/5FjU1DPF313jLv9SRQokdrUrPwyXQsgvoqQHbSFMBdKA,Green,Torn Sleeveless Tee,White Glow,Clear Glasses,Sun,Worn Out Cap,Okay
 698,200,1137,0,https://solanart.io/search/?token=GoFm8ZRBVqxyBaf5jnNWAK4c9XauGCHCb2VLx4mQGkvC,Warm Grey,Okay Hoodie,Disappointed,Flying Goggles,Panda,Worn Out Beanie,Okay
+699,69.69,6284,0,https://magiceden.io/item-details/E346nCsNoBDRTs4zGKDhk7oGTRWfL5SWmjEw43TksS4t,White,Pullover Windbreaker,Okay,,Grizzly,Runner Cap,Haa
 702,111,4559,0,https://magiceden.io/item-details/F7cxEqtzJHWTUJQoEs1t15thXpoHFuogb9JUnBe2JJMv,Warm Grey,Okay Tee,Spirited,,Blueprint,,Sneer
 732,100,5972,0,https://magiceden.io/item-details/2BKYXpHnKAaQhRzE2M6oFP7b9ZNYTASAX3LU9eZeqNVk,Yellow,Polo with Headphones,Interested,,Ginger,Sweatband,Okay
 740,74.999,9165,0,https://magiceden.io/item-details/ATPKFtAq11ycDpYbCMKWwKCqUeAF4Wo9bHg1yVe9qp8y,Warm Grey,Double Jacket,Happy,,Grizzly,,Clean Smile
 742,89.9,1049,0,https://magiceden.io/item-details/G1hGpbpxctQaCib6Q5ykNDrGxC7yzfJC975rovch11ku,Grey,Sleeveless Tee,Annoyed,Flying Goggles,Grizzly,Sweatband,Ugh
 746,100,931,0,https://magiceden.io/item-details/Cai81NGFK4xm6aJDrKsgnupLc5W2YHYcQrsyX9Rk5ron,Yellow,Hoodie with Headphones,Tired,Holographic,Black,Black Bucket Hat,Pouting
 748,130,4551,0,https://magiceden.io/item-details/BRK8KiXjKzBUfNmuPeF7PHzW6RAgm1BTaQdpDgRYf7HB,Green,Legacy Windbreaker,Defeated,Pixel Glasses,Sand,,Okay
+752,78.9,7817,0,https://magiceden.io/item-details/2gUKujXdpoBsa6CLWjoT91fKwr4PyQsUQWH1nJYF2eht,Blue,Double Jacket,Sarcastic,,Tan,Bandana,Wry
 764,500,3255,0,https://magiceden.io/item-details/CkAm86Q6WgmmX1tGjT3p2NUP4yEKuGrn5sWwTBNYf4rs,Blue,,Sarcastic,Flying Goggles,Dark Brown,Okay Beanie,Hmm
 769,88.88,3217,0,https://magiceden.io/item-details/4Mf1UqE9JKQ3v9KEvdtYKmR4GZfZT57AbYzZRXM2E58r,Purple,,Interested,VR Headset,Dark Brown,,Grimace
 773,74,6506,0,https://magiceden.io/item-details/9X4JuhSmJvPMbeA6eZHYcQM3NYwaX2dxv6qqjUEXATnC,Cream,Autumn Sweater,Happy,,Green,Classic Cap,Okay
@@ -111,10 +113,12 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 811,95,3465,0,https://magiceden.io/item-details/CX4N39F6ojx2zpR2YdXcMJ5tZ88JJjJ1kbu25umkPwGR,Cream,Vintage Windbreaker,Sad,Aviator Sunglasses,Dark Brown,Pencil,Okay
 816,75,5742,0,https://solanart.io/search/?token=FfdDLj3XqzSsAt5N2sB5P1zdSkrMdQUFzCHrN2ejAoCZ,White,Utility Vest,Spirited,,Dark Brown,Pencil,Proud
 825,105,1454,0,https://magiceden.io/item-details/6zh2dwYCEDaRZ2DvAXquipaTygZT7rLY3iQMPAdRM2YP,Purple,Utility Vest,Golden Glow,,Green,Head Cam,Proud
+827,75,1547,0,https://magiceden.io/item-details/3GR5tBncTHMjfikUXXycic4sKS5MoX3GPFMaw8x8DRPJ,Blue,Tech Jacket,Interested,Aviator Sunglasses,Sand,Runner Cap,Pouting
 835,100,1840,0,https://magiceden.io/item-details/G9ev7CH6yrXC1Y6vEHaQe7fPgT4ktKWaHuKpd6aR9rhh,Purple,Polo with Headphones,Sad,,Ginger,Earrings,Wheat
 845,360,3,0,https://magiceden.io/item-details/8PPv1YUehqVo1F5wrzfU1B97Ezs4cECxnkXNV8wdMCfs,Purple,Tech Jacket,White Glow,Flying Goggles,Red Panda,Baker Boy Hat,Ahh
 853,77.5,5811,0,https://magiceden.io/item-details/Fc7rJrjM2VyvinK1LUyRuzKxVLU6KHxw7XwS2LSGmCwo,Cream,Lumber Jacket,Sarcastic,,Grizzly,Head Cam,Pouting
 856,133,294,0,https://magiceden.io/item-details/Eq9P3YLPmifgSToqLC9S76USGLL9VWK7UdZwconHwdxy,Cream,Hawaiian Shirt,Happy,Aviator Sunglasses,Blueprint,Book,Pouting
+877,70,3600,0,https://magiceden.io/item-details/KG1LhgU1baRX8BeRLz9V4dCFXihnaE2Qb5yzW4ML5qR,Yellow,Hoodie with Headphones,Tired,,Ginger,Skate Cap,Beaming Smile
 891,389,177,0,https://magiceden.io/item-details/8QC3sTiFtwTw88LXgmnje4PS5nupFWC5M3FET5nfVNw5,Yellow,Pullover Windbreaker,Interested,Wayfarer Sunglasses,Albino,Army Hat,Drool
 898,70,9235,0,https://magiceden.io/item-details/AYUD2NUcunAWF5wUJUrUiiboyy4fGtkV9NrYrEyUh3jX,Grey,Summer Shirt,Disappointed,,Black,,Okay
 901,128,404,0,https://magiceden.io/item-details/6HmWr9NJFyvs1cmZ22r4JtHX7ZwXVjvcPmFcTqHrDvUA,Grey,Puffer Jacket,Tired,Aviator Sunglasses,Red Panda,Army Hat,Proud
@@ -181,6 +185,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 1325,119.95,267,0,https://magiceden.io/item-details/HVBEHjqee73uRt3AxK4HLqxrB2atkpuQuSJbzuETYY3J,Blue,Sling Pack,Disappointed,Clear Glasses,Andean,Pom Pom Beanie,Ahh
 1340,150,7117,0,https://magiceden.io/item-details/G8ndd5eKbguS8dTQdTykek6YQT7Zqd6yQWGb8iBZBBp,Green,,Okay,,Sun,Visor,Ohh
 1354,99,1783,0,https://magiceden.io/item-details/EaMCWN5i8sSAEUNP4S23rp4RyUuMrVmYYwoZvYaGvFJ9,Yellow,Hooded Cardigan,Disappointed,,Dark Brown,Pom Pom Beanie,Eight Ball
+1377,70,7535,0,https://magiceden.io/item-details/FpAKvwEjbKsZxvd9CHXvqFnwQpCEaUtZGPCuJBPoyU5y,Warm Grey,Cord Tracksuit,Okay,,Dark Brown,Pencil,Clean Smile
 1378,88.9,540,0,https://magiceden.io/item-details/8P86PaycSF2GjUyhyTcRYmVWTJ8C6eK6nJJtfqMPreUC,Green,Utility Vest,Annoyed,Clear Glasses,Panda,Backwards Skate Cap,Ohh
 1391,64,6267,23.83,https://magiceden.io/item-details/CKGh8njbrhYMwvnE1fD9P7qEPrbW6MP6oAFswqPN82V3,Grey,,Tired,,Sand,Army Hat,Raspberry
 1398,75,3262,0,https://magiceden.io/item-details/GY8TVknzGBGmzPFM68a1GCjfhJJAioX22Qet7pjGQYB1,Warm Grey,Cord Tracksuit,Annoyed,,Albino,Classic Cap,Haa
@@ -201,13 +206,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 1501,87,4989,0,https://magiceden.io/item-details/GkF4VBBCCB489um91AAjr57GPJrwVDY4EmZbkgpaPoBg,Green,Summer Shirt,Disappointed,,Pink,Sticky Note,Wry
 1504,80.5,872,0,https://magiceden.io/item-details/2UW99D2t4yEYuvdZNQDTQQv2Eb1XQNDxFVNqp6GESr7C,Grey,Hooded Cardigan,Annoyed,Pixel Glasses,Sand,Surf Bucket Hat,Proud
 1514,90,9338,0,https://magiceden.io/item-details/CyJHfLmVm1XWcSvom1Wx9LQu3H8wnRwuKwfLxyfSWXzf,Cream,,Annoyed,,Ginger,Baker Boy Hat,Okay
-1522,420.69,1255,0,https://magiceden.io/item-details/9MeT2c7bpW8Vhzs86xCiv2TE7AiAvwafa2kb9KdpYxMP,Blue,Okay Hoodie,Happy,Holographic,Black,Skate Cap,Pouting
+1522,269.69,1255,0,https://magiceden.io/item-details/9MeT2c7bpW8Vhzs86xCiv2TE7AiAvwafa2kb9KdpYxMP,Blue,Okay Hoodie,Happy,Holographic,Black,Skate Cap,Pouting
 1527,85,9248,0,https://magiceden.io/item-details/DwkyjDQYjCyrRXk5ZXMBzf8Pg1DUM21yH9KtL6AFDLeN,Yellow,Sleeveless Tee,Happy,,Grizzly,,Clean Smile
 1542,250,7135,0,https://magiceden.io/item-details/Bmg2yVVAPC6dsBwHnj9ARFUW83SyJDFfaz5aJ2b3aru5,Purple,,Disappointed,,Dark Brown,Sweatband,Bubble Gum
 1550,250,9995,0,https://magiceden.io/item-details/aDeJRPPRNPKgdqWS7KNyYFcxTq5fg5XSK8fMukcJMBm,Grey,,Okay,,Sand,,Okay
 1551,138,9329,0,https://magiceden.io/item-details/4CUWTLhBbNTRRfbmHwqT5UEdp1sUhqjMvy1KKhpojhpG,Warm Grey,,Happy,,Blueprint,,Pouting
 1555,109,308,0,https://magiceden.io/item-details/9abe38n6bX5omkHHVhdJSK6v9D1D8nJcCsVJHivYvwng,Purple,Hooded Cardigan,Spirited,Wayfarer Sunglasses,Andean,Rabbit Fur Hat,Clean Smile
 1556,75,1529,0,https://magiceden.io/item-details/8q23hMtbJXPtP3iujzSJBw3GQciAJZWDLgmaG2LcaYo2,White,Woven Sweater,Annoyed,VR Headset,Tan,,Grimace
+1560,70,9206,0,https://magiceden.io/item-details/J72ekUh7WtJAgri1RJZUZjHAidLjARsyLrqwf6P2t7DK,Blue,,Spirited,,Green,,Gah
 1581,69.42,2714,0,https://magiceden.io/item-details/9saWesxYkpMR5dhnqVVe1UtGp26FE8q4xUNCSFEu3gGN,Yellow,Formal Vest,Annoyed,Punk Sunglasses,Ginger,Sweatband,Okay
 1584,220,1542,0,https://magiceden.io/item-details/ASq2ywN1dw4pE9GZxfXQKkoqgwggJ2hoKUR1ySEUU3gN,Warm Grey,Black Tee,Defeated,,Blueprint,Visor,Ugh
 1590,120,676,0,https://magiceden.io/item-details/7cZFtJJkrLRugs4yAxpSb3NPiGfBEDes7u3NRpLjMeBh,Green,Golf Polo,Annoyed,Flying Goggles,Tan,Bandana,Drool
@@ -216,7 +222,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 1610,95,5927,0,https://magiceden.io/item-details/3fG17CXKNArgtA6z3MPyuTAFk8tEZDR9h9Dph1b8hyUX,Purple,Okay Tee,Sarcastic,,Polar,Army Hat,Wry
 1614,70,5579,0,https://magiceden.io/item-details/U7iAQvbVTZT7d5VQPx3NJwuNsvTv9Zf1ScRxt67BKis,Yellow,Sling Pack,Sad,,Ginger,Sweatband,Pouting
 1619,125,3386,0,https://magiceden.io/item-details/4VZ5sSxfWYG3Nk4viQU3tNPhf943PwSsoEiuiYpnhRwD,White,Olive Windbreaker,Okay,,Green,Beret,Worried
-1626,80,2682,0,https://magiceden.io/item-details/5bipxcJCiMfzTgxVg178uumHqLNnf8HJonZm2uxa3B39,Warm Grey,Coat with Headphones,Disappointed,,Albino,Pencil,Oou
+1626,70,2682,0,https://magiceden.io/item-details/5bipxcJCiMfzTgxVg178uumHqLNnf8HJonZm2uxa3B39,Warm Grey,Coat with Headphones,Disappointed,,Albino,Pencil,Oou
 1631,100,8156,0,https://magiceden.io/item-details/2AVW8QGg1RHEAKernWQeVLLH9WKjzesGcmZ9RBnSD5Zu,White,,Annoyed,,Panda,Black Bucket Hat,Gah
 1636,59.9,9532,51.77,https://magiceden.io/item-details/5xPVfvc2HKqqcP3UG5T16siRuW214gGePLZcrzsE755H,White,,Okay,Clear Glasses,Tan,,Pouting
 1651,140,5791,0,https://magiceden.io/item-details/8yris9PDM5f3VkYK69qNxrHQo3gbW4jcuyR9gMJgbSMT,Cream,Woven Sweater,Tired,,Black,,Ohh
@@ -237,6 +243,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 1825,75,1421,0,https://magiceden.io/item-details/GFg4Pw6LsshSHw8hFfn1yESnbUKHJ1BAmd7XDChz3LBf,Purple,Hoodie with Headphones,Tired,Circle Sunglasses,Pink,Visor,Okay
 1835,93,2780,0,https://magiceden.io/item-details/4sbVLQZHCDbGZHUXhhSRspdKGqgRmqFTz4D1scbAaxHc,Purple,Faded Denim Jacket,Interested,,Blueprint,Black Bucket Hat,Proud
 1845,120,2958,0,https://magiceden.io/item-details/C712BWdjR2QbEkbHLDciWhNxYA6LJvu2xuncUbrpDDh7,Purple,Olive Windbreaker,Okay,,Lofi,Army Hat,Sneer
+1848,100,5964,0,https://magiceden.io/item-details/ApWRT36UfVjYyXEa1MHSEk2qyiWTxM7WY2sAbRnZzihi,White,,Disappointed,,Panda,Head Cam,Huh
 1857,78,1038,0,https://magiceden.io/item-details/G2rAS1i59MG7UQvTpmRPtvXRSMMWvkkwBkEizp9hnYFq,Green,Striped Tee,Annoyed,Barrel Sunglasses,Red Panda,Skate Cap,Huh
 1864,100,5686,0,https://magiceden.io/item-details/DcFj5gKT9DXQfwqJmsqTE3sJ26rbyuJLNGckdHBifop8,Purple,Golf Polo,Sarcastic,,Andean,Skate Cap,Clean Smile
 1867,79,4179,0,https://magiceden.io/item-details/G93pZPcRzYSLiaZb1aizKDmdgVZdVYS5iSQbNJWRB1wy,White,Urban Hoodie,Interested,,Tan,Army Hat,Gah
@@ -286,13 +293,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 2130,120,2213,0,https://magiceden.io/item-details/BS766FdYDXBh1rL1NtYMy79TYNEzxvjgcSQTCyjV7rc7,Grey,Pullover Windbreaker,Annoyed,,Panda,Okay Beanie,Yawn
 2132,90,8591,0,https://solanart.io/search/?token=XyjpK6F6SMDpSBiMiXUCoubunfr3y2JouS6gJHxFsec,Grey,Leather Jacket,Happy,,Dark Brown,,Clean Smile
 2136,100,7146,0,https://magiceden.io/item-details/EX8YK1FT9ApSJumMgW436zGeqyQwmrX2r6Y4ycw1N1mw,Grey,Faded Denim Jacket,Interested,,Polar,Black Bucket Hat,Okay
+2136,100,7146,0,https://magiceden.io/item-details/EX8YK1FT9ApSJumMgW436zGeqyQwmrX2r6Y4ycw1N1mw,Grey,Faded Denim Jacket,Interested,,Polar,Black Bucket Hat,Okay
 2143,500,7401,0,https://magiceden.io/item-details/73Fu8f7xcxrm1fP4kTbcmdbj6F8Nh8hqwREJkLKKmhX3,Grey,Sleeveless Tee,Annoyed,,Pink,,Haa
 2148,93,2970,0,https://solanart.io/search/?token=9HNFXbF5CNoyaqsXqXjv2MyzKuZy49gW5Jg5Yra5XGZM,Green,Overalls,Spirited,Round Glasses,Grizzly,Backwards Flat Cap,Okay
 2166,444,7276,0,https://magiceden.io/item-details/FLePacnavtphvMJ1vmhxgKq7Fz6W9h4Wi5P8JXNoG3Rh,Green,,Disappointed,,Coral,,Ohh
 2171,225,270,0,https://magiceden.io/item-details/Eb4w7Z1VoV7bdi3A3DdUUVFTFQsNWDYttiJ6ciBEuyge,Yellow,Double Jacket,Okay,Circle Sunglasses,Wood,Runner Cap,Drool
 2183,1200,388,0,https://magiceden.io/item-details/WMSdi3uQfvSpwLWdE7rA1F4MaRXDqK3adVo2FqufvBP,White,Pullover Windbreaker,Defeated,,Lofi,Book,Toothpick
 2185,94,1457,0,https://magiceden.io/item-details/78iZvqXQmH1tBruoEJHcGeHjoyZQMqeitXYCFgSC51bf,Blue,Autumn Sweater,Interested,Circle Sunglasses,Panda,Skate Cap,Pouting
-2187,99,1424,0,https://magiceden.io/item-details/9qJTbeYgNQoEvvBY33j6MVH34bNQ7S4Jd2n2UWuq9Bgu,Purple,Formal Vest,Sad,,Lofi,Classic Cap,Raspberry
+2187,80,1424,0,https://magiceden.io/item-details/9qJTbeYgNQoEvvBY33j6MVH34bNQ7S4Jd2n2UWuq9Bgu,Purple,Formal Vest,Sad,,Lofi,Classic Cap,Raspberry
 2188,100,1025,0,https://magiceden.io/item-details/EA3AEkSvuw4bnrt7KZCBg1QZrraL8cVdR1wviESSD5RZ,Blue,Pullover Windbreaker,Golden Glow,Barrel Sunglasses,Grizzly,,Ugh
 2199,140.5,591,0,https://magiceden.io/item-details/F91WY1VYJvaEtWBA2K9daDGbFFrKM42ma3Kztrsk5tmN,Warm Grey,Lumber Jacket,Tired,Round Glasses,Dark Brown,Beret,Hmm
 2204,77,9346,0,https://magiceden.io/item-details/FiPAmFQ3dfGNh5cFuogcmHYtXGUvBhEpFmYYDiGK922p,Warm Grey,,Sarcastic,,Tan,Pom Pom Beanie,Pouting
@@ -304,7 +312,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 2247,89,9587,0,https://solanart.io/search/?token=7Z7npJjqyMUiNLDY8GmY4zXgKq9vkN2KeMhNn5Zb4aY2,Yellow,,Sarcastic,,Ginger,,Gah
 2251,100,3747,0,https://magiceden.io/item-details/EtRsGHGkMqSWRzRndX6kMhvNnRr2LRNFSZnhoZDJvu4f,Warm Grey,Scarf,Wide Eyed,,Dark Brown,Worn Out Beanie,Clean Smile
 2253,80,5297,0,https://magiceden.io/item-details/H5vpLZWwoSdizXqKTLLe1bjipKyoUAaAuiQtad6A14ko,Blue,Double Jacket,Wide Eyed,,Ginger,Worn Out Beanie,Okay
-2254,85.49,2343,0,https://magiceden.io/item-details/9VnBdm9nn64Q798FYeUJvMvCXkUwMds97XHEFLgimMof,Cream,Tweed Suit,Annoyed,Pixel Glasses,Polar,Runner Cap,Okay
+2254,94.9,2343,0,https://magiceden.io/item-details/9VnBdm9nn64Q798FYeUJvMvCXkUwMds97XHEFLgimMof,Cream,Tweed Suit,Annoyed,Pixel Glasses,Polar,Runner Cap,Okay
 2274,82.5,1875,0,https://solanart.io/search/?token=DyNrJs8BQqcvtXePM623fsLCTrq2W8keRRybodTzpQFG,Cream,Travel Coat,Tired,,Tan,Sweatband,Yawn
 2278,96,8397,0,https://magiceden.io/item-details/DxFiP9RXHogrZbkm86tnwmw5A7fqx94pijfpaXjEu6aG,Cream,Striped Tee,Okay,,Tan,Earrings,Clean Smile
 2279,500.00204928,2542,0,https://magiceden.io/item-details/G2jSSBpfz2YvVPKmx2fE9USPBX4hHDY6TccUekD1zD3Y,Warm Grey,Vintage Shirt,Okay,Flying Goggles,Ginger,Black Bucket Hat,Wry
@@ -364,7 +372,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 2695,99,4161,0,https://magiceden.io/item-details/2BQLAuq5jyhGWhRjL8d6n8gZEZM8cRZoCSvCeRSCoZ1e,Purple,Striped Tee,Sad,,Red Panda,Earrings,Wry
 2700,84,5759,0,https://magiceden.io/item-details/EdnrAaAK9gbiXNnNx4ovev6SeihMaisBQbwD7DVN3V9,Green,Summer Shirt,Closed,Round Glasses,Dark Brown,,Okay
 2701,180,646,0,https://magiceden.io/item-details/66yB8BDqreYHgbysrMr8aPkxoHRFisU9YicesXwGJpY3,Blue,Striped Tee,Wide Eyed,,Wood,Baker Boy Hat,Drool
-2715,65,2740,27.94,https://magiceden.io/item-details/Hve6A1oxo86xeJn12VXH7nmthkiveFV7WpxRTMJ3kM4p,Warm Grey,Striped Tee,Spirited,,Polar,Visor,Worried
 2720,100,1265,0,https://magiceden.io/item-details/DEABKhnYuvuUA425wjXh64U8LuFHTxsUuTwEPFx4g44k,White,Double Jacket,Okay,Clear Glasses,Pink,Head Cam,Proud
 2722,150,853,0,https://magiceden.io/item-details/AsRMpRpfSC9shbur3pM7MHk27MTftB3ZFBLScNoCUoei,Green,Autumn Sweater,Closed,,Ginger,Mumford Hat,Yum
 2732,70,5483,0,https://magiceden.io/item-details/CSpcW7GhFf4Svrpwt7JVq8CT1TJDxKuYLoUFMCkxqgr7,Purple,Coat with Headphones,Happy,,Sand,Backwards Skate Cap,Okay
@@ -397,7 +404,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 2882,100,1235,0,https://magiceden.io/item-details/Bx7Lddn6KMDjWBd6uZt2B69pffNW2bbcrtopi9SX1h61,Green,,Okay,Barrel Sunglasses,Red Panda,Sweatband,Pencil
 2886,120,5381,0,https://solanart.io/search/?token=5f7agzbL4jwoMqAyVeYsqgaRakW8vN3oLzFMb7ab2sXz,Purple,Insulated Jacket,Okay,,Grizzly,Earrings,Haa
 2887,110,1110,0,https://magiceden.io/item-details/JCQTs6xihYu4z1gKdQcbBX6p4HfSyZuSFCJYFjXRQsP4,Warm Grey,Black Tee,Wide Eyed,,Black,Baker Boy Hat,Yawn
-2889,70,5897,0,https://magiceden.io/item-details/CT2Q8ZoaQFJPmK1DAcTMeifJMT2VMygyuarDKfNqpvYE,White,Hooded Cardigan,Happy,,Red Panda,Bandana,Okay
 2894,118.88,1819,0,https://magiceden.io/item-details/HwEmUSJajGozFQEsqseKA55SysrTwEi5xFvDpFY1d6Mp,Warm Grey,Lumber Jacket,Sad,Clear Glasses,Wood,,Wry
 2895,160,3214,0,https://magiceden.io/item-details/8FHpq7LmYNnEkFpcGc49jedinthmEFLG915EtSodg8ni,Grey,Hoodie with Headphones,Defeated,,Coral,Beret,Okay
 2898,100,1673,0,https://magiceden.io/item-details/9AhZM4mXxLPtiaJhKu8ur5NaTeQewxtnHYkXHGro6pii,Warm Grey,Polo with Headphones,Happy,,Sand,Bandana,Honey
@@ -470,6 +476,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 3385,96.66,6667,0,https://magiceden.io/item-details/2Ynk5wFHH52vKx81B5uZE959eh72ERcxdz5mtbKgJXU6,Blue,Suede Jacket,Sarcastic,,Ginger,Backwards Skate Cap,Okay
 3390,185,3804,0,https://magiceden.io/item-details/BZmJbJsz4nWc3VzXirsNhKLAXgz4yEv7xNVFtZVTKTWc,Green,Striped Tee,Annoyed,,Red Panda,Okay Beanie,Beaming Smile
 3394,250,5773,0,https://magiceden.io/item-details/HZR15SzteYe5D5wV6YhftKdiUDnpPh5dWFqR8W78k9Md,Cream,,Defeated,,Coral,Mumford Hat,Okay
+3398,69.8,5197,0,https://magiceden.io/item-details/AfGdgeXAidgKuTxJ1sgVteegupsDuYgW2vVcMVdFvhn3,Yellow,Cord Tracksuit,Annoyed,,Sand,,Gaiter
 3408,100,255,0,https://magiceden.io/item-details/2zzkngeo4cAHJBshHRYUU3GKViHnp1JPoBzNJMFQ4k9c,Yellow,Golf Polo,Interested,Holographic,Black,Worn Out Beanie,Hmm
 3413,97,9968,0,https://magiceden.io/item-details/9kx69uYLYoXMVD9TMUZr1chx9ixKVpjsNuD4LRX9aUca,Yellow,,Okay,,Albino,,Okay
 3429,100,5510,0,https://magiceden.io/item-details/ETfJfnEAhjkXe1Ttu7QFakaumBPbBFT2e53kLmvbpwqi,Yellow,Scarf,Okay,,Panda,,Bubble Gum
@@ -478,7 +485,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 3459,130,2266,0,https://magiceden.io/item-details/7uC5mPdT7kqNTSnYXy2um6scsjPmabZfYKuLCnsVnVi,Purple,Autumn Sweater,Okay,,Lofi,Black Bucket Hat,Bubble Gum
 3462,200,3341,0,https://magiceden.io/item-details/1BzxYJNBATzfgWSqJrfWg28fybzBtUi8Zth4NtoqmBS,Purple,Wool Overcoat,Okay,,Grizzly,Pom Pom Beanie,Asparagus
 3465,83,3786,0,https://magiceden.io/item-details/9CKwtBS2qoouvPr87vw6A1H99u8MnfF91Qv6XWFa5kP5,Yellow,Cord Tracksuit,Sarcastic,,Lofi,Pencil,Wry
-3465,83,3786,0,https://magiceden.io/item-details/9CKwtBS2qoouvPr87vw6A1H99u8MnfF91Qv6XWFa5kP5,Yellow,Cord Tracksuit,Sarcastic,,Lofi,Pencil,Wry
 3470,96.69,3100,0,https://magiceden.io/item-details/GP72Tab6dmEHGkWrEvWM3vVfe48xvBcMNZc34FqgqzQx,Cream,Torn Tee,Okay,,Wood,Worn Out Cap,Gah
 3483,100,8375,0,https://magiceden.io/item-details/GLWwNJuTfiASHykPR6Q1yT5omdtCKkbTVNHoEYMCRyAT,White,,Disappointed,Holographic,Tan,,Pouting
 3487,90,1090,0,https://magiceden.io/item-details/AjEEhtHUp8EouUkeeJRyNHFKjrK7tEYXZwXusijdQcXe,Green,Striped Tee,Spirited,,Sun,Mumford Hat,Yawn
@@ -486,7 +492,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 3504,150,8130,0,https://solanart.io/search/?token=FnA4k2YcFmRZ4dG5WZQPTQrQNUfXGPmDo8J2noRCwPBr,Cream,,Spirited,,Green,Army Hat,Pouting
 3509,75,9644,0,https://magiceden.io/item-details/Dqbo2rFyFW23fSR9u7jYktqyjYzVsoZNSNFDqRxXsLdQ,Cream,,Disappointed,,Tan,Army Hat,Okay
 3514,175,590,0,https://magiceden.io/item-details/813mAvAdAKWiFGFJ9p5P5njGFzWovWJYB4nYuPZedeQq,Yellow,Vintage Shirt,Closed,,Lofi,Baker Boy Hat,Grimace
-3523,130,4664,0,https://magiceden.io/item-details/44pngjHjqRqsGSGoPAw1bS1xqaMx4Jkse9iAPaEYoQPG,Green,Torn Tee,Sad,,Dark Brown,Skate Cap,Gah
+3523,180,4664,0,https://magiceden.io/item-details/44pngjHjqRqsGSGoPAw1bS1xqaMx4Jkse9iAPaEYoQPG,Green,Torn Tee,Sad,,Dark Brown,Skate Cap,Gah
 3533,100,1671,0,https://magiceden.io/item-details/BiE2PruVFux7tAuJor2fk235HYfK4PMTvWQMjc4TMmkP,White,Scarf,Happy,Aviator Sunglasses,Tan,Sticky Note,Clean Smile
 3554,80,1219,0,https://magiceden.io/item-details/E1RLNppDpFoPqLW7kFn7AoLFvTWXUD9FwANp4XL85w6G,Green,Okay Tee,Okay,Wayfarer Sunglasses,Tan,Ear Tag,Grimace
 3559,111.11,2723,0,https://magiceden.io/item-details/6yPjoukeqfXwDofiQ4otphjJEHCgCjHUGqpD1eBh4QU,Grey,Tweed Suit,Annoyed,Wayfarer Sunglasses,Dark Brown,Classic Cap,Pouting
@@ -526,7 +532,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 3838,90,1703,0,https://magiceden.io/item-details/J4wcYWC844MrDYy8dyqm2UQnrneAxxkEk8LJY8mhE454,White,Torn Tee,Annoyed,Clear Glasses,Albino,Ear Tag,Okay
 3842,62,8140,36.34,https://magiceden.io/item-details/BxHNaxb3UinMnKUh5T47RV4arUJRZJHpSzAX7gjQTjuY,White,Vintage Shirt,Okay,,Tan,Army Hat,Wry
 3843,58.9,7514,69.84,https://magiceden.io/item-details/Cmx6pBUCm7YJCJYDtiu7jo8Q9mpmiTN93aes5MFfa5wn,Grey,Sling Pack,Sarcastic,,Tan,Worn Out Cap,Pouting
-3849,60,6864,61.44,https://magiceden.io/item-details/DD3FPFD24DNJgEeFH8KgqQBDJGU3a1oZQhoRbFEaDJp6,Grey,,Okay,,Panda,Ear Tag,Haa
 3861,90,804,0,https://magiceden.io/item-details/GeLQDPVggxRtUxDCC3HgEQa7yDVG7MTsynHkJtj2KpUL,Blue,Wool Overcoat,Okay,Wayfarer Sunglasses,Sand,Black Bucket Hat,Grimace
 3866,65,1827,31.59,https://magiceden.io/item-details/Hisn2VwK83Tor9avMJzK6Yvt7RBRzBSU4NAvAZJAjmCu,Cream,Sling Pack,Interested,Circle Sunglasses,Pink,Beret,Okay
 3875,150,224,0,https://magiceden.io/item-details/AMF9w1x3s2Bz2fNpyvB2Tu9qVov246ApuYt8PE8XnXKH,Yellow,Autumn Sweater,White Glow,Snow Goggles,Black,,Pencil
@@ -571,6 +576,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4240,115,5827,0,https://magiceden.io/item-details/CSYZerpzXg3tDYC6FwEM5D9FZ5QpnyCa1T8Zs7rrhstD,Green,Olive Windbreaker,Closed,,Sand,Black Bucket Hat,Pouting
 4241,170,8717,0,https://magiceden.io/item-details/9zTGtPt2QsRMMDESFSqH1A5uaTR5nzijgHzYTWUi8xKN,Yellow,Hoodie with Headphones,Spirited,,Andean,,Okay
 4249,130,1736,0,https://magiceden.io/item-details/Ght3oPCcvVXkS3itAdw1SyktYUF6swJm2eLTeE39iLvV,Grey,Tech Jacket,Robot,,Lofi,Bandana,Okay
+4256,59,7311,69.65,https://magiceden.io/item-details/6oxk3TQ6kbaZF6WJBzxQG1VJa1WgdVMT9DJ1RxCnNZCS,Blue,Hooded Cardigan,Happy,,Black,,Proud
 4261,100,8186,0,https://magiceden.io/item-details/6htVDjc6HLYJQbK8wrPXYL4A6MsqnbMLauiGZtU3DZex,White,Pullover Windbreaker,Happy,,Green,,Wry
 4265,80,8446,0,https://magiceden.io/item-details/C8sMVDNb6kTjKvcPRMqKsxCFzfLFoYS4vyKFNxdpby14,Purple,Puffer Jacket,Okay,,Sand,Beret,Okay
 4270,65,8021,6.81,https://magiceden.io/item-details/GJbBJJjiYtiTqQcQANSMXng7fetAMVBAsmAoErtgURFr,Yellow,Olive Windbreaker,Annoyed,Clear Glasses,Dark Brown,,Okay
@@ -599,6 +605,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4431,99.99,2142,0,https://magiceden.io/item-details/CJWyV8n8FBJM2w1P8qe5HKg2oLQCS6R9PrKyd9jbSxQW,Warm Grey,Golf Polo,Okay,Barrel Sunglasses,Tan,Mumford Hat,Clean Smile
 4441,120,2747,0,https://magiceden.io/item-details/EMyYcXmLEgKxS3caUAQNm5kHUvMxg6CQgmeTLwhmgqiV,Grey,Hawaiian Shirt,Happy,Holographic,Green,,Wry
 4452,500,493,0,https://magiceden.io/item-details/Ebv9sAvsBEgV9RmiFagnXpFUdX2uKbLrNa2kh5Z6e1LA,Cream,Insulated Jacket,Annoyed,Punk Sunglasses,Wood,Visor,Proud
+4466,74,2994,0,https://magiceden.io/item-details/9T7XFF9RUjetpatmQWh9Lxr8k73qEn8FAR5q4D33beEn,Green,,Defeated,Punk Sunglasses,Andean,,Toothpick
 4472,180,461,0,https://magiceden.io/item-details/CUUxKdBh2tpP6LVVGuo1VK7UTABLKJ738SNsGbBQ63UP,Blue,Autumn Sweater,Annoyed,Circle Sunglasses,Wood,Head Cam,Wry
 4473,125,5830,0,https://magiceden.io/item-details/2PWZMegFgnczxBXxCZtugTS7fcy7QoVR6sKf2hKVGVzU,Warm Grey,Loose Overalls,Okay,,Black,Army Hat,Proud
 4478,91,4850,0,https://magiceden.io/item-details/7XsGEKQnqiAu2yM7vL8HRPK5KV8uzHFP7ts4LcWV92hH,White,Sling Pack,Disappointed,,Ginger,Earrings,Proud
@@ -641,6 +648,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4718,72,8341,0,https://magiceden.io/item-details/6D2muvaD4pjhdHBQJejZXcbrrzGzDopgZPgPrWjCSNwU,Warm Grey,Utility Vest,Sarcastic,,Dark Brown,,Huh
 4727,70,8297,0,https://magiceden.io/item-details/H1NNqM738fCMyNjiQgNzNpCzwfKPT431qXgQPoQ8uXx,Cream,Overalls,Disappointed,,Ginger,,Wry
 4746,111,6053,0,https://magiceden.io/item-details/6eFdhmicmNgPxYDVpyvacEQhkb6mgj4Jz6jcCokaPYhe,White,Suede Jacket,Okay,,Blueprint,,Haa
+4764,500,9981,0,https://magiceden.io/item-details/9SZ7q2kc32H9GBTucNg8uVdW6bnQ88VtjJz8bBTxyCL4,Yellow,,Disappointed,,Dark Brown,,Okay
+4768,59.59,5834,69.66,https://magiceden.io/item-details/86P8UHLkPRby2LHhJ3X947TuQfZttdhdCGwyGQAtHLE1,Grey,Tech Jacket,Happy,,Sand,Baker Boy Hat,Okay
 4778,88,1846,0,https://magiceden.io/item-details/3MbxnJhswEJBxGEZxCncoZU7UFEga4nmzmVx4gRPy1TL,Green,Camel Coat,Annoyed,Aviator Sunglasses,Tan,,Honey
 4800,80,2114,0,https://magiceden.io/item-details/6fsH3qKdqyR3iXQFgiqRYUB8dtK9o3PDYxQqegCcjpw,Yellow,Okay Hoodie,Okay,Holographic,Ginger,Bandana,Pouting
 4801,75,2774,0,https://magiceden.io/item-details/4ZHZ87vkjzaUemSoq87a8pXXESCqp6BaRT9aBo76i9me,Green,,Happy,Round Glasses,Tan,Sweatband,Drool
@@ -657,6 +666,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4856,120,8406,0,https://magiceden.io/item-details/67visv8wbqA5rfuAKmkNovWtLwNicg9DYf3XWzMTYdAg,White,,White Glow,,Panda,Pencil,Okay
 4858,75,6972,0,https://magiceden.io/item-details/7WsBMpWpa847fLaK9WcAZU4UUe6LSPy4Zr6372axnr9Q,Purple,Insulated Jacket,Okay,,Andean,,Beaming Smile
 4860,94.95,2776,0,https://magiceden.io/item-details/C8y5dPAECStdXd1aWeLuUNnU2L25CxfMrpN98aitTesf,Cream,Overalls,Annoyed,Wayfarer Sunglasses,Sand,,Ugh
+4873,88,8539,0,https://magiceden.io/item-details/71sDK1BT2X36Ci5PtM1cwmUx4r1XtDGrsv6Hc3zhfVuD,Blue,Hoodie with Headphones,Disappointed,,Wood,,Okay
 4886,269,11,0,https://magiceden.io/item-details/7LXKp8r9ut65Det5pv1an2BSkZFkd9Q454CuwxysVLqc,Purple,Scarf,Sarcastic,Flying Goggles,Green,Chullo,Drool
 4894,100,7861,0,https://magiceden.io/item-details/597dWToHFTmAAvzPSRPzb4qo7W3e9tqGU72AbLR83kr9,Blue,Denim Jacket,Okay,,Sand,,Huh
 4901,1400,5039,0,https://magiceden.io/item-details/74T8Zbbgqhm85dX17ntqwWAWe3KCZufQot3cpbWR1bsU,Grey,Black Suit,Golden Glow,,Dark Brown,,Clean Smile
@@ -695,8 +705,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5179,70,3152,0,https://magiceden.io/item-details/4ikAxRgwMjJ2xyTt9fsHMmqXUeTchfEoNng2AKwAouX7,Green,Polo with Headphones,Interested,Snow Goggles,Polar,,Okay
 5182,99.99,6260,0,https://magiceden.io/item-details/GKAn3m6cdvsqEW7fB7mQfinmdHoQy81DkpbypGvFBdkW,White,,Robot,,Grizzly,Classic Cap,Proud
 5184,100,3772,0,https://magiceden.io/item-details/b9b2mNkMrF5wyRDwq6nsxEY2wX45ARi2wkAn1yP9VfZ,Cream,Formal Vest,Defeated,,Grizzly,Backwards Flat Cap,Beaming Smile
-5187,188,78,0,https://magiceden.io/item-details/4tqTXUJfnCv17UFSZ5pnKz14SdRfirAQk8XzucPLNL7w,Cream,Formal Vest,Sad,Round Glasses,Andean,Backwards Flat Cap,Worried
 5194,94.69,2957,0,https://magiceden.io/item-details/Cgt7jLRdxwT7kcGgDWt1QCsiwUbBszJHZtJZxnDGBkpZ,White,Loose Overalls,Happy,,Polar,Head Cam,Ohh
+5197,200,2016,0,https://magiceden.io/item-details/AxpPp93yT7hY4W1U5D97zRnPobghgpDutTuoCHs3vyjM,Cream,Hooded Cardigan,Interested,,Tan,Pom Pom Beanie,Honey
 5213,111.111,713,0,https://magiceden.io/item-details/GSX6RdB9tJhoZGeZWqQVzGJwoc1P9kJAu93DR5E91fxb,Cream,Insulated Jacket,Happy,Wayfarer Sunglasses,Polar,Skate Cap,Ugh
 5219,59.99,6173,64.31,https://magiceden.io/item-details/98WjUMytHBnBd1TuH29KmZLQgbC6QcgM8ptiGZttWufg,Purple,Suede Jacket,Annoyed,,Sun,Worn Out Cap,Okay
 5245,150,121,0,https://magiceden.io/item-details/GfrJXv7xbWWEQis42YTKhKrY8Nza4Vk3xUDytgJ13DmY,Cream,Legacy Windbreaker,Tired,Pixel Glasses,Andean,Sticky Note,Hmm
@@ -708,14 +718,12 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5277,88,565,0,https://magiceden.io/item-details/FCBwDtaPMVeXgFrTo1e1WBWS7zFYsE5xFg38TyvUCJsM,Yellow,Polo with Headphones,Sad,Wayfarer Sunglasses,Dark Brown,Flat Hat,Ohh
 5279,100,9894,0,https://magiceden.io/item-details/7swFXtk9g7aQ2iYLtwDKcC3f5B5jPsCpdfoLv2fG97fz,Warm Grey,,Okay,,Tan,,Hmm
 5281,98,8328,0,https://magiceden.io/item-details/ChLAokZYFnBm7cGKozyzUtQ2136G4cGV9HmvQDNY21Zz,Grey,Black Tee,Okay,,Tan,Rabbit Fur Hat,Okay
-5283,64.5,1430,38.18,https://magiceden.io/item-details/4xh7rGkHeYFwYZmEFNae95bKZ43PjzduWG8XzeLfhTVe,Cream,Autumn Sweater,Okay,Clear Glasses,Ginger,Earrings,Huh
 5303,200,240,0,https://magiceden.io/item-details/B5xYeRy5ctjXymmQCVbfSeB7D4K9siMYapeTPXd1zZrT,Blue,Black Tee,Closed,Wayfarer Sunglasses,Andean,Mumford Hat,Ohh
 5311,100.6942,5340,0,https://magiceden.io/item-details/8a19Ud4o6NhTV4MGCwtzsSmx7DwfDXbWbUhX3MNRL23U,White,,Disappointed,Punk Sunglasses,Dark Brown,,Worried
 5316,97,595,0,https://magiceden.io/item-details/DwBW6cHXYixPcsEWMP5TdXxrFNj4BvCMoAYJu8gSuGqY,Warm Grey,Winter Scarf,Disappointed,Aviator Sunglasses,Polar,Surf Bucket Hat,Pouting
 5321,89,625,0,https://magiceden.io/item-details/9e3RorGxa84DqgfZ7KeBnxzdRNpMXmUrcppw2XSseav,White,Formal Vest,Okay,Wayfarer Sunglasses,Red Panda,Backwards Flat Cap,Sneer
 5326,74,5663,0,https://magiceden.io/item-details/5KtdzDmbBpnkNGwXd8kRCyprnXvvJugLnNwh2kBdwc5i,Cream,Vintage Windbreaker,Okay,,Sand,Pencil,Beaming Smile
 5330,75,9694,0,https://magiceden.io/item-details/Fz42NagLda1rgAxTdm8PbL2wKMJuZo37LK97TGK6iqUS,Cream,Puffer Jacket,Okay,,Tan,,Wry
-5332,64.1,2199,39.1,https://magiceden.io/item-details/BqGeF5bAa5x8iPWkhxAVe4tJH3URY8SdWPQYUYweh1UN,Green,,Closed,Aviator Sunglasses,Sun,,Grimace
 5334,340,1053,0,https://magiceden.io/item-details/639j1BouTDee1Mw2VUep93aWAxXwGVSLTQAf7j7SbGUM,Purple,Legacy Windbreaker,Disappointed,Wayfarer Sunglasses,Sand,,Honey
 5337,94,4285,0,https://magiceden.io/item-details/2nJT44dpCFp1sSCG2rxM941JGNo5ga8QfnZztjigCavz,Green,,Annoyed,Barrel Sunglasses,Grizzly,Bandana,Raspberry
 5345,108,1877,0,https://magiceden.io/item-details/H4r1sKQeMQJfYhjSMMLPSnhQVbDwsKLgA8KunPtgJ9hp,Blue,Polo with Headphones,Spirited,Circle Sunglasses,Grizzly,Pencil,Pouting
@@ -729,7 +737,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5378,109.69,1521,0,https://magiceden.io/item-details/JDx4pYkUVBH2PFfVRUkT7KfYqmPN6T5FZzgsmA9WhszG,White,Insulated Jacket,Sarcastic,Holographic,Polar,,Sneer
 5394,100,1155,0,https://magiceden.io/item-details/Ecza2xifp6jmfdVRUuqgPcJye5ZiYiAdsuygFap6XA5,Purple,Leather Jacket,Disappointed,Holographic,Green,Beret,Okay
 5406,150,1822,0,https://magiceden.io/item-details/2FjpESvQS7aSpfjGNzMGPz4nKawLdqtznhuL8rAyJk6L,Cream,Striped Tee,Interested,,Wood,Mumford Hat,Sneer
-5407,68,5300,0,https://magiceden.io/item-details/DVyeWFPnGtZsAG5Ekqp54RpQBTzctEad1h6qyHQeWVnr,Warm Grey,,Wide Eyed,Clear Glasses,Sand,Black Bucket Hat,Okay
 5410,82,5076,0,https://magiceden.io/item-details/A9ssXXh3bY4FKc2PQ65jMc8zMTnNhJ142pqq4FvRCJTr,Green,Autumn Sweater,Sarcastic,VR Headset,Tan,,Okay
 5414,92,1292,0,https://magiceden.io/item-details/6ftyA6kjeNeQxN8WFAoMVx5eVeG4uZTybmBUkPWonaGE,Grey,Formal Vest,Spirited,,Tan,Chullo,Grimace
 5440,150,2967,0,https://magiceden.io/item-details/BL4TgrvcTaveZqDYMoP2D88s65eayaabkt1bVXuJkbu9,Blue,Polo with Headphones,Okay,Aviator Sunglasses,Black,Backwards Flat Cap,Okay
@@ -745,7 +752,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5547,94.313,954,0,https://magiceden.io/item-details/EasCJGvt1t1X7FnJMgBMAc2Ysk7uVtycss4iRc2vduEE,Yellow,Hooded Cardigan,Defeated,Aviator Sunglasses,Green,Skate Cap,Proud
 5564,98,3641,0,https://magiceden.io/item-details/4gHoyKdYGj5xuSDKYN58NLH1RF66nLwzTrxNL6m5yEWz,Yellow,Pullover Windbreaker,Disappointed,,Polar,Visor,Wheat
 5572,110,8387,0,https://magiceden.io/item-details/3i8QM36DvVjojKyD9bK4Hrd9VeovFXPrz5JHLH4ND67f,Purple,Okay Tee,Interested,,Ginger,,Clean Smile
-5581,77,3201,0,https://magiceden.io/item-details/7sdPFWbe4a5Y8dpr6AfYLunjSWtLyJ9QgAGLoT3o1Nng,Yellow,Tech Jacket,Annoyed,,Wood,Mumford Hat,Pouting
 5590,77,2527,0,https://magiceden.io/item-details/5qd5zTFq1hzDhSQaBLKEuzv5UQc4PfNptq9qdsEMRN1z,Warm Grey,Faded Denim Jacket,Tired,,Ginger,Ear Tag,Huh
 5598,81.999999,4708,0,https://magiceden.io/item-details/48YVdaVWXk3rY8YeWjg7VKEQw2xzAeaQENLcC3xHReC1,Purple,Hoodie with Headphones,Spirited,,Dark Brown,Black Bucket Hat,Beaming Smile
 5600,555,6008,0,https://magiceden.io/item-details/3F6tSymYxqL9jE385qMC1Duhvf6q29x6WECFgHvdDEj3,White,Pullover Windbreaker,Sad,,Andean,Black Bucket Hat,Okay
@@ -754,13 +760,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5614,67,2684,8.16,https://magiceden.io/item-details/BLx2R4yMmctKFA12xjTg2G8vsRV95r7gPXc79rXGufki,Green,Striped Tee,Disappointed,,Wood,Pencil,Ugh
 5619,70,1393,0,https://magiceden.io/item-details/BRKCHt8DinG7wj6ATXip191Vb3AVpMB17S8xNao4ZGqg,Green,Suede Jacket,Okay,Clear Glasses,Andean,Skate Cap,Beaming Smile
 5620,79.79,3775,0,https://magiceden.io/item-details/2GC4Fm4oYCDD258vsw7Bx4UGbyW4xd7Vpik1W58SGHpY,Cream,,White Glow,Round Glasses,Andean,,Haa
+5634,88,6337,0,https://magiceden.io/item-details/Ad6v1SivSbSadArA7i1zUub2i7ZsB7iQAdm21L1oLnap,Purple,Sleeveless Tee,White Glow,,Sand,Earrings,Okay
 5638,150,1473,0,https://magiceden.io/item-details/4XCCphZUyaxRzrZQZjijb6MERSBmA5YfhwuRFDFy2Fea,Cream,Loose Overalls,Sad,,Black,Ear Tag,Yum
 5641,88,2618,0,https://magiceden.io/item-details/Ays9YKVBcDiHJq4b3sEzBiWRVpEG9T8nvC8Y8vLovWjw,Yellow,Wool Overcoat,Happy,Punk Sunglasses,Dark Brown,Runner Cap,Okay
 5646,88.8,3257,0,https://magiceden.io/item-details/AxNpNSghhFT4grCHmh9794MFsFSAVLrn8LDx5QZr5u2t,Grey,Okay Tee,Annoyed,,Panda,Bandana,Bubble Gum
 5655,124.69,5947,0,https://magiceden.io/item-details/7sQqbt2thh6cQDpd4oDAfjKoAYPdTrSUQXvdor28WjXB,Cream,,White Glow,,Polar,Runner Cap,Beaming Smile
 5656,110,6475,0,https://magiceden.io/item-details/FKyjnJakrqZ9HNEBgmwM3rJsnapCPNgC1Z3uvYrYTVLm,Purple,Hawaiian Shirt,Happy,Pixel Glasses,Dark Brown,,Okay
 5662,95,7511,0,https://magiceden.io/item-details/EgNuVLPaAvzfwiDjBvShDkT9CWev1f9KZ6W6sdDLf46U,White,Insulated Jacket,Okay,,Tan,Flat Hat,Clean Smile
-5673,98,175,0,https://magiceden.io/item-details/DxpVvKk6gGkQfGxyRVxvLfDcoCDYztohsibqZkFxFzS3,Warm Grey,Sleeveless Tee,White Glow,Holographic,Tan,Worn Out Cap,Worried
+5673,90,175,0,https://magiceden.io/item-details/DxpVvKk6gGkQfGxyRVxvLfDcoCDYztohsibqZkFxFzS3,Warm Grey,Sleeveless Tee,White Glow,Holographic,Tan,Worn Out Cap,Worried
 5682,250,2668,0,https://magiceden.io/item-details/3qvV92xUyMffYxnoZceVhdUibJh6cqENdTUx578ZbpJT,Blue,Overalls,Okay,Circle Sunglasses,Robot,,Okay
 5683,15555,4338,0,https://magiceden.io/item-details/GPRmY9HBB8QqddVZEwFzfKet9Q2VYmjbm93FyVRLfbE2,Grey,Torn Sleeveless Tee,Tired,,Tan,Beret,Haa
 5690,101,2499,0,https://magiceden.io/item-details/4ANDed3KKhjYJ12FYC1TgLWKeRQAx5K9boSFPmvz1g8m,Purple,Lumber Jacket,Happy,,Pink,Classic Cap,Raspberry
@@ -773,7 +780,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5714,131.3,3919,0,https://magiceden.io/item-details/DAkNTAV5gjPNnwpfH9mVJEfhhW4G2SXdBKZG4QWQAEQf,Warm Grey,Scarf,Interested,,Sand,Earrings,Proud
 5721,85,1957,0,https://magiceden.io/item-details/9PXBgMX2yBki9XwFbChDm4TutZyryiY3BfuHAAka3whg,Warm Grey,Hoodie with Headphones,Interested,,Albino,Pencil,Yawn
 5724,79.69,9825,0,https://magiceden.io/item-details/3ByZ7EQpJv3i6UKt9z9NFHFmDBuwEm8AFLKWrnXFfnYR,Warm Grey,,Defeated,,Black,,Okay
-5725,90,2933,0,https://magiceden.io/item-details/9vmWvfuxoHCNi5Jr1iRXzD22pkTHJwfW6XX6iPF4jwAZ,Blue,Cord Tracksuit,Annoyed,,Panda,Earrings,Raspberry
+5725,85,2933,0,https://magiceden.io/item-details/9vmWvfuxoHCNi5Jr1iRXzD22pkTHJwfW6XX6iPF4jwAZ,Blue,Cord Tracksuit,Annoyed,,Panda,Earrings,Raspberry
 5745,90,366,0,https://magiceden.io/item-details/AiT7rgx9Aj8oreNJMSXwX23Z5zR46bbVLz7YTX8xzMbP,Warm Grey,Sling Pack,Disappointed,Aviator Sunglasses,Polar,Baker Boy Hat,Forced Smile
 5753,777,38,0,https://magiceden.io/item-details/Hk59z9XYDyzX3zsUu7zWqjB4ubCyfWNx75qrNQEx6H92,Blue,Okay Tee,Golden Glow,Round Glasses,Ginger,Mumford Hat,Worried
 5772,96,3106,0,https://magiceden.io/item-details/4b7ggxoE8ttyxQbDqPCtvdTs2pQkbShDtCY3owtQoz5V,Purple,Vintage Shirt,Defeated,,Andean,Okay Beanie,Huh
@@ -783,7 +790,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5792,100,6119,0,https://magiceden.io/item-details/3FrHvvwFs9BDo7QiMtip6MH2mgYts19xqszqxuPZwfqZ,Green,Silk Robe,Okay,,Dark Brown,,Drool
 5807,87,7207,0,https://solanart.io/search/?token=6jRvHA4dwyqSq7ShdQUVxi3SDMitJD8uVYe8ybA3Wz8H,Purple,,Sarcastic,,Wood,Beret,Clean Smile
 5808,80,1789,0,https://magiceden.io/item-details/6xhSDFLSZBoMA5wQ12uPWGSmTji12TxBDG5e34qGJSk6,White,Summer Shirt,Annoyed,Snow Goggles,Green,,Oou
-5812,90,5318,0,https://magiceden.io/item-details/JDeVJXUjEC5MnbmEhFUfySBvo8ASegeEc7ZNKUzieoMy,Yellow,Vintage Shirt,Okay,,Panda,Baker Boy Hat,Proud
+5812,80,5318,0,https://magiceden.io/item-details/JDeVJXUjEC5MnbmEhFUfySBvo8ASegeEc7ZNKUzieoMy,Yellow,Vintage Shirt,Okay,,Panda,Baker Boy Hat,Proud
 5813,500,1306,0,https://magiceden.io/item-details/DQHtuqaePGQ3TtgS2spFeu5hZpSv5j2JYv4sv9jzqUtk,Grey,Summer Shirt,White Glow,,Green,Okay Beanie,Bubble Gum
 5823,125,597,0,https://magiceden.io/item-details/8AVnqhyrV3wSc4uQvtVUThofoz9EPmeXoxp772yDtS3d,Warm Grey,Summer Shirt,Disappointed,Wayfarer Sunglasses,Wood,Okay Beanie,Gah
 5846,99,4049,0,https://magiceden.io/item-details/CDQ9kBgTZsoCD2tjt5gFmQR6qApxiQYaaxVud81Vkdh1,Purple,Sling Pack,Defeated,,Wood,Backwards Skate Cap,Okay
@@ -806,13 +813,14 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5944,104.69,1016,0,https://magiceden.io/item-details/Dk1K25cqjsmm9XsAHufUHnQx5pV25iAShcCkdDNYv7yj,Blue,Torn Sleeveless Tee,Sarcastic,,Lofi,Worn Out Beanie,Yoyo
 5947,150,152,0,https://magiceden.io/item-details/78n6cBBQNCAFta8HHiPApkxD2vaNcy57Z9Doi6CrgaKE,Warm Grey,Formal Vest,Disappointed,Flying Goggles,Sand,Rabbit Fur Hat,Hmm
 5948,75,9356,0,https://magiceden.io/item-details/3ocNpbG5yaV1a9uAbrVC4oppAKDHxWCZo3CRtwQvBUrD,Purple,Overalls,Okay,,Dark Brown,,Wry
-5950,61,7263,49.85,https://magiceden.io/item-details/Bu5Sx2qU6fxw4VDiGSQTQvP8iM3avSiZcVoAcqy1rEAd,Green,Wool Overcoat,Okay,,Sand,Sweatband,Pouting
+5950,60,7263,59.85,https://magiceden.io/item-details/Bu5Sx2qU6fxw4VDiGSQTQvP8iM3avSiZcVoAcqy1rEAd,Green,Wool Overcoat,Okay,,Sand,Sweatband,Pouting
 5952,1000,8379,0,https://magiceden.io/item-details/2XDRdvVRS3BZwa1zojgpPkewW72zSnqn1wGnZuKd4dDF,White,,Okay,Wayfarer Sunglasses,Dark Brown,Beret,Okay
 5958,59,9044,62.72,https://magiceden.io/item-details/dJtZDCPY5Mp5AqXrBs1hC6BA7bJ6SGd7NtALn7YtcmA,Cream,,Tired,,Dark Brown,,Ugh
 5968,107.77,4533,0,https://magiceden.io/item-details/AcempGFBwapTR8QK4hGgWgK5FLhYW7WF5Fw3KxVqyqqY,Cream,Okay Tee,Sarcastic,Clear Glasses,Ginger,,Proud
 5985,1200,97,0,https://magiceden.io/item-details/H4GiJ5t7HH6kkUCcdrNWB5iBUJfoDFYCMSh9oPoofA58,Grey,Loose Overalls,Okay,Pixel Glasses,Coral,Surf Bucket Hat,Ohh
 5990,180,856,0,https://magiceden.io/item-details/JD9th35F2YAkfCYP6G7UAEFAYqezNwYn7Win8d6KY37r,Cream,Summer Shirt,Disappointed,Circle Sunglasses,Lofi,Pencil,Clean Smile
 5994,64,2764,37.84,https://magiceden.io/item-details/BhYJVNZ7vZcbXafznbDAmuU4kY9D2ydMQwMSGQi9Kjfo,Warm Grey,Leather Jacket,Sad,,Sand,Beret,Oou
+5998,75,4698,0,https://magiceden.io/item-details/BBPgLwWBgMxQhL18pwArPHtW1giX2qAM4C3tLtG4bGbf,Green,Sling Pack,Sarcastic,,Sand,Mumford Hat,Proud
 6003,120.42069,5417,0,https://magiceden.io/item-details/DWZKHRtqcAcFRfoGw1gihbD7hVuqqyfmaEZEcZuifAoe,Cream,,Defeated,Circle Sunglasses,Panda,,Proud
 6004,350,62,0,https://magiceden.io/item-details/CrHfkx33djCxfJQPS3Z87T8zroosiWRS3CoQFm7U5XA3,Purple,Loose Overalls,Interested,Round Glasses,Wood,Backwards Skate Cap,Bubble Gum
 6007,100,3442,0,https://magiceden.io/item-details/GjPHKPKa8NuzC5s9Vzn75Ct9RmrBf8xPCZCBpjMqGigN,Purple,Olive Windbreaker,Spirited,,Andean,Sticky Note,Proud
@@ -821,7 +829,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 6022,66.666,5608,0,https://magiceden.io/item-details/3ZoWr2nPgLx1wzpTepWHnXqgNd4c5uXdY3bKYEqCkebr,Yellow,,Happy,Pixel Glasses,Tan,Sticky Note,Pouting
 6027,59.5,7682,63.17,https://magiceden.io/item-details/BANSdtGFB9HjKC5dYGWfvetpozswMyX7PNGKtch5Yq5D,Purple,,Okay,,Black,Beret,Haa
 6032,122,811,0,https://magiceden.io/item-details/7DgEJnrXi5fawE7ZjuxJThxkp2NUhRfyqem9xt1h5j9U,Purple,Golf Polo,Sad,Pixel Glasses,Andean,Classic Cap,Wry
-6033,102,7902,0,https://magiceden.io/item-details/CwzUCweCkPdhYR1BWqxs8iTDj86BwMzGoXf4X487hpbS,Purple,,Sad,,Sand,Sweatband,Proud
+6033,59.8543682,7902,58.75,https://magiceden.io/item-details/CwzUCweCkPdhYR1BWqxs8iTDj86BwMzGoXf4X487hpbS,Purple,,Sad,,Sand,Sweatband,Proud
 6043,96.69,272,0,https://magiceden.io/item-details/EBcvRQSAxN2xELLTRePGbZv2sJsAY1DBJP55vaseeRrY,White,Camel Coat,Interested,Circle Sunglasses,Tan,Visor,Drool
 6045,111,4197,0,https://magiceden.io/item-details/5dDzAbfFxhP4dXq3JcWrJQd4BNCo16Y3w8vWdHAxTmmg,Yellow,Polo with Headphones,Okay,,Red Panda,Army Hat,Clean Smile
 6048,62.5,9729,24.98,https://magiceden.io/item-details/J4Lkhy7fmJLyTaj1wth6sYcEDwiQA9Jb2WFcxS5paMAX,Green,Olive Windbreaker,Sarcastic,,Dark Brown,,Okay
@@ -865,7 +873,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 6336,150,785,0,https://magiceden.io/item-details/BWTRVYcJVqgYQ82v53FxcUBD4GFaHTNKwBhHfKQoGaF5,Warm Grey,Woven Sweater,Defeated,,Blueprint,Worn Out Beanie,Forced Smile
 6349,80,1647,0,https://magiceden.io/item-details/EpPkXJnEhskGQVKWUNFpW5vkn2KkskqBenzh89wSHNqJ,Blue,Black Tee,Disappointed,Pixel Glasses,Grizzly,Pom Pom Beanie,Raspberry
 6365,88.88,5395,0,https://magiceden.io/item-details/9nbkEuZ32JD2kEoUDZGqAkvPbVQ8SGddSGHgczTyZEiW,White,Okay Tee,Annoyed,VR Headset,Sand,,Okay
-6365,88.88,5395,0,https://magiceden.io/item-details/9nbkEuZ32JD2kEoUDZGqAkvPbVQ8SGddSGHgczTyZEiW,White,Okay Tee,Annoyed,VR Headset,Sand,,Okay
 6366,77,3294,0,https://magiceden.io/item-details/GhnAs1wyToPfts9derqiJuqx2hbFu7RYR3fwEB5YMQ1g,Purple,Wool Overcoat,Okay,Aviator Sunglasses,Polar,,Raspberry
 6381,70,3764,0,https://magiceden.io/item-details/3dbf9Qag7rTvTR1MNgQTk4ispb78GnWq2VZMpLfzkgNH,Green,Olive Windbreaker,Annoyed,,Pink,Worn Out Cap,Haa
 6390,100,7623,0,https://magiceden.io/item-details/9FnpFdu11dAu2TMejsHwP5yUs26aTQFVUKY97uaqp6BA,Purple,Winter Scarf,Okay,,Dark Brown,Runner Cap,Okay
@@ -876,7 +883,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 6446,125,7543,0,https://solanart.io/search/?token=9iUzeCNZSuc29T1bLUGyzkGf4YUrtGNAvTUTsLJSB89y,Grey,Lumber Jacket,Defeated,,Tan,,Gah
 6469,888,2038,0,https://magiceden.io/item-details/5koRyredJjiEp1N3cMyjpfPGnLaDboV1bgCZrnc8Akpk,Grey,Scarf,Sarcastic,,Dark Brown,Mumford Hat,Pencil
 6500,96,1619,0,https://magiceden.io/item-details/EqX6bxaugEzBxsKND7NuPBvVJz3iSctjXoo4zT98gFsg,Cream,Black Tee,Interested,Flying Goggles,Ginger,Worn Out Cap,Pouting
-6502,64,4860,29.46,https://magiceden.io/item-details/9ihhd3NpVC7feJv9eANdSMjJ5gGN3aRdAvo1HtCw1RNM,Blue,,Spirited,,Red Panda,Sweatband,Ugh
 6508,100,2592,0,https://magiceden.io/item-details/4txEJdr8grSPp21ieBF3ppAySCPRsSag1ehPRxWxU5LF,Warm Grey,Legacy Windbreaker,Interested,,Pink,Backwards Skate Cap,Proud
 6519,123.45,399,0,https://magiceden.io/item-details/94wgvtQprjGoUmQsE3ac2hDUWysomJtsBkQuV3Ma7n38,Green,Torn Tee,Annoyed,Aviator Sunglasses,Green,Backwards Skate Cap,Oou
 6520,150,9446,0,https://solanart.io/search/?token=9dXaouo4c4kpy3Kttcyv67D6aCSXE5rvSoHLX65PhuT2,Green,Black Tee,Sarcastic,,Pink,,Okay
@@ -983,7 +989,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 7160,97,1649,0,https://magiceden.io/item-details/W2eh3TZFrjHykoHWXGS1yWnTmSG5EogQqW4Ke4tPMre,Blue,Polo with Headphones,White Glow,,Panda,Visor,Huh
 7166,99.99,9999,0,https://magiceden.io/item-details/EFofSURv9PaEdn4L7FqapdPexsMfXf4mLZ86mxniAX6D,Grey,,Okay,,Grizzly,,Okay
 7172,99,6604,0,https://magiceden.io/item-details/8wo1rkKF6kYdGQP2APKGy3Mwh4E7w5psfiAepxo4Wezt,Warm Grey,Pullover Windbreaker,Spirited,,Grizzly,Classic Cap,Wry
-7174,70,4190,0,https://magiceden.io/item-details/C2i5K5Ku6w2fQQJQh6xpU2JP84ZzWHpVknWype31aWbA,Warm Grey,Okay Hoodie,Okay,,Dark Brown,Visor,Bubble Gum
 7183,190,1906,0,https://magiceden.io/item-details/Hgh9qaBtiiY97GiHbZ41ns2oQjEiZBJ5pWhao6HcciiD,Cream,Black Tee,Defeated,Clear Glasses,Panda,Mumford Hat,Okay
 7188,65,3438,25.15,https://magiceden.io/item-details/5zu5GPWTKAk4m6c266fFmw9L1AL9EhVdiacABvknudh4,Yellow,Torn Sleeveless Tee,Happy,Pixel Glasses,Dark Brown,Pencil,Pouting
 7198,200,1482,0,https://magiceden.io/item-details/ABUnwCGzC9gt4xcHjujrR5K5ZgM59tazuaRBxYeZsCY1,Grey,Lumber Jacket,Happy,Clear Glasses,Polar,Pencil,Wry
@@ -992,6 +997,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 7220,85,1495,0,https://magiceden.io/item-details/D5mqUNE4nouaebBVs6UgTUAFUZhqkdv1GNPZrC8EwBpc,Cream,Cord Tracksuit,Sarcastic,,Ginger,Worn Out Cap,Gaiter
 7222,75,1805,0,https://magiceden.io/item-details/2baYWMQ2DDwqydcwsH1QnbAqSRCTTtAx4ffj983nYZ8L,Blue,Hoodie with Headphones,Okay,Round Glasses,Sand,Beret,Hmm
 7228,250,3125,0,https://magiceden.io/item-details/FEnGHtMDTvXRREhjsvjmond8jkBtzwnEmncTLJgaHjkd,Warm Grey,Black Tee,Okay,,Sand,Sticky Note,Eight Ball
+7241,85,4549,0,https://magiceden.io/item-details/2T7yBFmaVobeUx5WDCGdyakNeKuQdaMtt7HMKMtvebzS,Grey,Denim Jacket,Spirited,,Pink,Earrings,Okay
 7242,76.69,5132,0,https://magiceden.io/item-details/BeWihnDWo696QzY8QLMaSKUeSoYcPVp9mZ4DUb55toTD,Blue,Striped Tee,Defeated,,Grizzly,Rabbit Fur Hat,Wry
 7246,77.77,5920,0,https://magiceden.io/item-details/8iznP5FQ6M58defTiLuA24DbwV215GM4uVghxFxq7HkD,Blue,Wool Overcoat,Disappointed,,Albino,,Raspberry
 7264,80,8987,0,https://magiceden.io/item-details/4e3XBAejsTR134mjkNU1Fa6tmRULaijJWoxEnvaCrRc4,Cream,,Interested,,Grizzly,,Yawn
@@ -1024,7 +1030,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 7404,88.88,792,0,https://magiceden.io/item-details/HbQkihpqAHKsVxoCe8k5nSeyzHfJuUqL69pSAHUVpALK,Yellow,Cord Tracksuit,Disappointed,,Red Panda,Worn Out Beanie,Gaiter
 7405,365,1693,0,https://magiceden.io/item-details/GaG7U669ieNfhhsiGHzYtAQR7rh53GqoQ1iG5fZYRyvE,Cream,Formal Vest,Disappointed,Pixel Glasses,Andean,Pom Pom Beanie,Okay
 7420,88,9180,0,https://magiceden.io/item-details/EuNNWydo2to4v6DhDz1jhPfmQJ5T9XknnBc7zZRLyUtM,Blue,Scarf,Okay,,Andean,,Okay
-7427,67,2100,10.5,https://magiceden.io/item-details/3J21dzFW3CXw8oPMav43icWjr6RTiL1wWsu5j2Q4oD4D,Cream,Travel Coat,Sarcastic,Clear Glasses,Grizzly,Backwards Skate Cap,Pouting
+7427,77,2100,0,https://magiceden.io/item-details/3J21dzFW3CXw8oPMav43icWjr6RTiL1wWsu5j2Q4oD4D,Cream,Travel Coat,Sarcastic,Clear Glasses,Grizzly,Backwards Skate Cap,Pouting
 7432,72,7338,0,https://magiceden.io/item-details/2t1FwV6jBCDn64BEqhejytkYH74TNmpezMtksY6jtbMs,Warm Grey,Sleeveless Tee,Annoyed,Wayfarer Sunglasses,Ginger,,Okay
 7434,200,1184,0,https://magiceden.io/item-details/8SxofAUPZJy68yixUunN4fwk4fM8Tr3Qj1jFu9eqWZCH,Grey,Vintage Shirt,Tired,,Albino,Baker Boy Hat,Asparagus
 7441,65,8659,4.26,https://magiceden.io/item-details/FbeY2XLi1RNLfFr3wD5696YUj8zTyKwsRz3LtvUt2DGr,Green,Puffer Jacket,Okay,,Albino,,Proud
@@ -1039,7 +1045,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 7518,177.77,876,0,https://magiceden.io/item-details/FvBcVVV5WTbb2gSLi32i6RdQYmphv7XPvKFaks3e3hgw,Grey,Double Jacket,Happy,,Coral,Sweatband,Forced Smile
 7525,111,4935,0,https://magiceden.io/item-details/4bLTDNYqnNEek9dZVzBpKi4eJbAfLV2nTTbzbAG93Xjy,White,Vintage Windbreaker,Disappointed,,Pink,Backwards Flat Cap,Clean Smile
 7528,200,141,0,https://magiceden.io/item-details/G8D9zg3vDi2o3icNtHz5TbzqcUikQHzp6BaDVrJPYnNz,Grey,Silk Robe,Spirited,Pixel Glasses,Pink,Ear Tag,Proud
-7530,100,6728,0,https://magiceden.io/item-details/3tsSGvQaTBsHcXF175fMhypVbENKMNvDR4vE1kSGmwW4,Warm Grey,Puffer Jacket,Okay,,Tan,Rubik's Cube,Okay
 7532,75,5892,0,https://magiceden.io/item-details/2iQ4HjwKHwm6eR1VG3Fn1d152qLtbUoQzgiYp9f5D6bb,White,Faded Denim Jacket,Happy,,Tan,Okay Beanie,Proud
 7544,70,6151,0,https://magiceden.io/item-details/A993jFgzBPWNYMHwjHsJy1NB7uR8WcFLYYYkttzLmgwU,Yellow,Torn Sleeveless Tee,Disappointed,,Sun,Army Hat,Okay
 7545,66,3361,15.45,https://magiceden.io/item-details/FXCdhf3JExkZ4b4oTfasJLXrChXCucgDdAfFF6LzFDqM,Cream,Hawaiian Shirt,Spirited,Clear Glasses,Pink,,Clean Smile
@@ -1067,9 +1072,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 7743,500,8974,0,https://solanart.io/search/?token=5H3ygvgKrNA89AAk7mb1NWjj2J9hpFKdm5oyz4qDE31v,Cream,Torn Sleeveless Tee,Sarcastic,,Polar,,Clean Smile
 7749,111.111,1386,0,https://magiceden.io/item-details/3Xi6RmMqXBKMc4R3dfHWmrRkhhxGqqGyeDcxf1WVfBaR,Yellow,Pullover Windbreaker,Defeated,Wayfarer Sunglasses,Tan,Beret,Gah
 7750,99,3685,0,https://magiceden.io/item-details/6qM4rduR12c1ZGFQaMo2A2rF3A5xi3UmvoNvw6RigfGd,Cream,Polo with Headphones,Annoyed,Aviator Sunglasses,Grizzly,Worn Out Beanie,Okay
-7759,65,4822,19.61,https://magiceden.io/item-details/YZHFmvhjhiaCUbhrHKfxAH7fF2U8kutb2ceWXJydezg,Yellow,,Disappointed,,Andean,Worn Out Beanie,Yum
 7765,120,165,0,https://magiceden.io/item-details/8ELMu27i4SZnww6vkrihgU3KtYuPbf5WdjANXV851TH,Cream,Overalls,Sarcastic,Pixel Glasses,Black,Sticky Note,Ahh
 7766,150,291,0,https://magiceden.io/item-details/CpbQveDp8Eb7Z2WhEB83k2DbLVktwqiikcEpyoEybUAL,Yellow,Torn Sleeveless Tee,Disappointed,VR Headset,Sun,,Honey
+7783,60,8650,54.3,https://magiceden.io/item-details/Qs4v1R4DCsSJ8pdeoKZPs8CR916VpsBpDprTepwnt2K,Purple,Loose Overalls,Okay,,Grizzly,Mumford Hat,Okay
 7787,150,146,0,https://magiceden.io/item-details/GfiypWMdNB4FVS3zFDonkFg7RdBHzJfNXyCrnDDHNCRA,Blue,Utility Vest,Golden Glow,Circle Sunglasses,Pink,Baker Boy Hat,Proud
 7788,2000,53,0,https://magiceden.io/item-details/4LFAEBoXrdMTW8T8TiAAQCUTv8gygjLRo8qczWunxu5w,White,Black Suit,Interested,,Robot,Pom Pom Beanie,Toothpick
 7793,75,8784,0,https://magiceden.io/item-details/BZWKW5tjdfW3QEAZyGLFjCiKGNmzSXEdDXPwpzyGBSuk,White,Black Tee,Happy,,Green,,Wry
@@ -1098,13 +1103,11 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 8019,75,726,0,https://magiceden.io/item-details/DCf6V6CJ6a91ors3DWu7ftHsGRv15PtNksBFWU8hcstR,White,Summer Shirt,Sad,Flying Goggles,Polar,Bandana,Proud
 8020,99,225,0,https://magiceden.io/item-details/B12KMchgTmcVr6ReovY2tdFQgvXVGNr4dYUovSXp4nc4,Green,Camel Coat,Interested,Clear Glasses,Sand,Visor,Worried
 8036,80,5704,0,https://magiceden.io/item-details/8L3YoMAdP56JQ2A8KRNTqTeVcWssJtvWLg4UXRRSn2nY,Grey,Vintage Shirt,Defeated,,Sun,Sweatband,Okay
-8036,80,5704,0,https://magiceden.io/item-details/8L3YoMAdP56JQ2A8KRNTqTeVcWssJtvWLg4UXRRSn2nY,Grey,Vintage Shirt,Defeated,,Sun,Sweatband,Okay
 8055,111.5,457,0,https://magiceden.io/item-details/9eV8fKTp72Z9n7w5MFAtYPun7Fsfz4BAFv5R7Hsuno5N,Yellow,Legacy Windbreaker,Interested,Barrel Sunglasses,Dark Brown,Classic Cap,Raspberry
 8064,100,2939,0,https://magiceden.io/item-details/CVGURRtxLKuW7QwjqnhGf1veGXa5PqyMF9rccJS9219t,Green,Puffer Jacket,Happy,Holographic,Sand,Skate Cap,Okay
 8065,360,3613,0,https://magiceden.io/item-details/DPsnCkjJWayv2Ros9QXr5sZwmP8VoHYyQ35WiWtYY3jv,White,,Happy,,Green,Surf Bucket Hat,Yawn
 8071,100,8812,0,https://magiceden.io/item-details/D2bCztPG91b4ATBfNv8fuZgKhVRJGLiGXfVdyTfYEBmV,Purple,Black Tee,Sarcastic,,Grizzly,Visor,Okay
 8072,97,6256,0,https://magiceden.io/item-details/GbcbuZvXGA2PA3NCxq34X5tCFP9R4qj5ZtJDvdZDvJ1F,Green,Formal Vest,Spirited,,Sand,Army Hat,Okay
-8076,88.88,9218,0,https://magiceden.io/item-details/A9xxx5nXMBd76AKXdGfZ2NckGSxX1kSUAQrGKyebEWkr,Green,Torn Sleeveless Tee,Wide Eyed,,Dark Brown,,Okay
 8080,335,6259,0,https://magiceden.io/item-details/2iLkk4JKyn5hLaUyoDBYB7cQX6WuFNNGE7k5eo4aix5Q,Green,,Golden Glow,Pixel Glasses,Andean,,Okay
 8085,220,2736,0,https://magiceden.io/item-details/7JCtXyYn4hp1FbBGVCeBKGqX3DjoyjyWEVjiXu7FouYd,Warm Grey,,Tired,Round Glasses,Dark Brown,Okay Beanie,Wheat
 8106,180,984,0,https://magiceden.io/item-details/BBtVTMDAh2VYkrSmXK7uezaLKac6ZdHSo11vciD73muj,Yellow,Summer Shirt,Wide Eyed,,Red Panda,Pencil,Toothpick
@@ -1115,6 +1118,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 8153,110,1674,0,https://magiceden.io/item-details/DvRME7DKmm4LLJg6EZfHrKyssWgXdBzRNVnfSNFzxU9L,Warm Grey,Double Jacket,Annoyed,Circle Sunglasses,Tan,Runner Cap,Raspberry
 8155,300,6569,0,https://magiceden.io/item-details/GExyZi4zoq1nQTdq92yjTSwz6iqkfJXXyzaCiu6j8SYH,Cream,,Golden Glow,,Dark Brown,,Eight Ball
 8159,66.6,6464,0,https://magiceden.io/item-details/C6eakndjcnaKgbi5unjCK7mJz1g4jEr9EtkWnFj1JXQA,Green,Golf Polo,Okay,,Sand,Flat Cap,Pouting
+8160,127,2742,0,https://magiceden.io/item-details/BYMQiAUHRFn534nFT3zXbspHmW5ZaieWeP382CvW9UYa,Blue,Pullover Windbreaker,Okay,Round Glasses,Black,Flat Hat,Pouting
 8175,222,55,0,https://magiceden.io/item-details/5HJgsvdzxcAxGJmZpsda9zG4P3jvuMWEQaRvhCjim7cz,Blue,Hawaiian Shirt,Tired,Holographic,Polar,Visor,Drool
 8178,68,5007,0,https://solanart.io/search/?token=CeExDdsjR2oWXBbvm11Xq9ZwVSY6xUtaSBJ8YmUktTRR,Grey,Aviator Jacket,Happy,,Tan,Skate Cap,Gah
 8180,90,532,0,https://magiceden.io/item-details/8aRRcrxT9iyNPwkZv9uppc2czsJgzJYHzp6qAZmCXeLN,Blue,Golf Polo,Sarcastic,Pixel Glasses,Sand,Bandana,Yum
@@ -1136,10 +1140,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 8278,149,592,0,https://magiceden.io/item-details/4WzwvaGgvUPbpQXKEqGfmBuztiSjK74RQRFx7s9jH6QW,Warm Grey,Faded Denim Jacket,Closed,,Red Panda,Earrings,Pencil
 8300,89,1376,0,https://magiceden.io/item-details/oGV3pBZmkBDDhhB2axeG6SSYSzNGLAhuggHY2XMr6y6,Warm Grey,Winter Scarf,Interested,,Tan,Rabbit Fur Hat,Raspberry
 8303,98,9304,0,https://magiceden.io/item-details/2AJhEKB71pMjvC65hoq3uNnKKsZxZCJEtm4TsYP2aUsM,Warm Grey,,Spirited,,Grizzly,Ear Tag,Okay
-8307,93,6783,0,https://magiceden.io/item-details/6PiGHmA3hRswru2rLmSUc8ksU6Z28943H4RCFSpouSRg,Blue,Black Tee,Okay,,Blueprint,Skate Cap,Wry
 8308,75,9952,0,https://magiceden.io/item-details/A8xb4uudq2qn4zLKjnDRc7CWWkvAcT7AC1ox8kTHBK4c,Warm Grey,,Disappointed,,Tan,,Pouting
 8309,500,8674,0,https://magiceden.io/item-details/EUXfhjVMsKVMkyFsGquV6JYs97tDL8kRtnM9nRTSB68h,White,Torn Sleeveless Tee,Defeated,,Grizzly,Skate Cap,Okay
-8321,74.99,5321,0,https://magiceden.io/item-details/Cc89wbpuwFubqhyodcPSbGMbaMsCG6YP2TtLzdWsitJ1,Cream,,Spirited,Round Glasses,Tan,Ear Tag,Pouting
 8335,69,7821,0,https://magiceden.io/item-details/24v2XbEmaC5cAhqopSFNwFERfej6LHSZScANS332EHc2,Warm Grey,Lumber Jacket,Okay,,Grizzly,Visor,Pouting
 8346,100,4765,0,https://magiceden.io/item-details/5w3abXCAPj8b72wqtKvjNHLdeszJveRmFqwCP9PunRz5,Grey,Vintage Shirt,Annoyed,,Panda,Worn Out Cap,Gah
 8351,89.69,245,0,https://magiceden.io/item-details/ur1oh2qBcx2v1fxM5RYZRjbszHxLuwSaLTLfNJYL3tr,White,Hooded Cardigan,Golden Glow,Flying Goggles,Albino,,Toothpick
@@ -1168,7 +1170,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 8446,95,550,0,https://magiceden.io/item-details/6gmQ7zzd4jpDQ2kKB4rLS4A3qbiQpFQwBH4nxpEAm6Qy,Green,Summer Shirt,Golden Glow,,Green,Ear Tag,Pencil
 8449,83,2865,0,https://magiceden.io/item-details/FwTApzogy7pBm7Hs7rtdY7JHqZ44oKYFmdqyXrEKRDfs,Green,Striped Tee,Okay,Flying Goggles,Dark Brown,Head Cam,Pouting
 8452,169,8651,0,https://solanart.io/search/?token=DGAXM3PdAk9LkexzF1j9ZF7NfEaupjWoJkyyz4QrPYAy,Green,Vintage Shirt,Defeated,,Grizzly,,Proud
-8453,69,3640,0,https://magiceden.io/item-details/6S2YJwkN97me2Ys87xDJwrqj4Tb9eofP4qjyHKiyi6zm,Warm Grey,Vintage Shirt,Golden Glow,,Green,Black Bucket Hat,Clean Smile
 8473,70,4640,0,https://magiceden.io/item-details/5tLDqTSV9RYDtEsWuhoSQQNtWqhyiPNXJP89vTgbvMm3,Blue,Hooded Cardigan,Sarcastic,,Tan,Beret,Ohh
 8480,128,2276,0,https://magiceden.io/item-details/HJNvWovzN14cxb2MXn5qaCtjAdo2yiopmQRRmppSsHmm,Warm Grey,Torn Sleeveless Tee,Happy,Aviator Sunglasses,Grizzly,Bandana,Hmm
 8481,67,7944,0,https://magiceden.io/item-details/FwAmfYirXRDLthCYG1RiLzrbG7vobSa95FxHCHkCVTS,Blue,Pullover Windbreaker,Disappointed,,Sand,Black Bucket Hat,Okay
@@ -1193,7 +1194,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 8657,120,8451,0,https://magiceden.io/item-details/AqNjP58rHj9tEa9HvFhXv7JZT8G9vTEqMg55Ymg1c8Fx,Grey,,Annoyed,,Pink,,Pencil
 8658,110,9174,0,https://magiceden.io/item-details/BuFV75TeR3j8xGkwgqynaRDUesYEUY4iEytZxoyaDJJA,Warm Grey,,Spirited,,Dark Brown,Mumford Hat,Okay
 8665,99.99,1185,0,https://magiceden.io/item-details/Er5wdx9J6VChoX2ythbSewWwMmmHj6q687bUdR3Js2dE,Blue,Formal Vest,Spirited,Wayfarer Sunglasses,Tan,Okay Beanie,Huh
-8672,1100,1348,0,https://magiceden.io/item-details/4muNxw4rxZke4qcPEzb3BGa9Xwj8iVuLMciUYKkdNWNN,White,Hoodie with Headphones,White Glow,,Sun,Pencil,Ugh
+8672,350,1348,0,https://magiceden.io/item-details/4muNxw4rxZke4qcPEzb3BGa9Xwj8iVuLMciUYKkdNWNN,White,Hoodie with Headphones,White Glow,,Sun,Pencil,Ugh
 8680,99.99,7098,0,https://magiceden.io/item-details/GF2YK7GG5X7ums1zFiGQGVkJssY18chvMY4pn59m4zy4,Yellow,Wool Overcoat,Happy,,Dark Brown,,Ohh
 8682,70,2900,0,https://magiceden.io/item-details/6G3F37U8WnqrXLihekKXjZuv665YbVjt9zQWWSX5CoHa,Purple,Hawaiian Shirt,Annoyed,Holographic,Tan,,Wheat
 8703,100,1445,0,https://magiceden.io/item-details/9yLCrVfG7Gw8ysKkPorYLRmNDf1z9A4zSAESSmUghKQp,Green,Cord Tracksuit,Closed,Barrel Sunglasses,Grizzly,,Ohh
@@ -1211,6 +1212,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 8800,59.9,8757,54.87,https://magiceden.io/item-details/Ewt5GntHxBzXWYY27pPRTCLkPx2xQruQBm51tCH7sC2,Yellow,Cord Tracksuit,Defeated,,Tan,,Pouting
 8803,120,1881,0,https://magiceden.io/item-details/4VfE8zgnbfcr8SDaX5nvz5ivm8BxxXSiNfpvR9ybtkNz,White,Wool Overcoat,Interested,,Red Panda,Worn Out Beanie,Huh
 8811,79.99,1325,0,https://magiceden.io/item-details/BYuR16FtbRsQc4tkh3Ea6qzg5tuvDwibu5TCS6f6ysWN,Purple,Loose Overalls,Spirited,Wayfarer Sunglasses,Polar,Backwards Skate Cap,Clean Smile
+8812,100,5977,0,https://magiceden.io/item-details/7hxejzVEea7bQPGd5F1UNxLAqRGsFCnXbzqwEpPXwMiK,Warm Grey,,Disappointed,,Andean,Skate Cap,Yum
 8813,200,1384,0,https://magiceden.io/item-details/AjHntUWibLW3rjkF3D1KpB8TrNFfibDLH7xyTYGctnKD,Purple,Fur Coat,White Glow,,Tan,Pom Pom Beanie,Oou
 8819,99.5,1295,0,https://magiceden.io/item-details/BW9tw8r3Fc61i4McwByQX1kp9CQJysZhkDcRmrd6vPuT,Yellow,Overalls,Wide Eyed,,Tan,Ear Tag,Ahh
 8854,98,2032,0,https://magiceden.io/item-details/9CeRuumRxxfkjRQdkugVjdrXQEnpVurFWdCvqosG4N2C,Blue,Torn Tee,Happy,Wayfarer Sunglasses,Ginger,Okay Beanie,Okay
@@ -1252,6 +1254,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 9161,100,3637,0,https://magiceden.io/item-details/EVxJTexdTyDrBmg178XtXCDebKyng7mY1Srywc8bQdeR,Purple,Loose Overalls,Sarcastic,,Ginger,Pom Pom Beanie,Sneer
 9165,200,9911,0,https://magiceden.io/item-details/FEsBxxD1EEQdbLAHSqwtKH569S42XHmWegfgy3XAGgKj,Green,,Sarcastic,,Pink,,Okay
 9168,80,994,0,https://magiceden.io/item-details/2oM3BUjqFgQcHQRvi4eifnxQ2ZHyQF8UaDY83xwGWBoi,Blue,Suede Jacket,Annoyed,Pixel Glasses,Grizzly,Runner Cap,Forced Smile
+9168,80,994,0,https://magiceden.io/item-details/2oM3BUjqFgQcHQRvi4eifnxQ2ZHyQF8UaDY83xwGWBoi,Blue,Suede Jacket,Annoyed,Pixel Glasses,Grizzly,Runner Cap,Forced Smile
 9169,100,3534,0,https://magiceden.io/item-details/B95cyR5JKtuE7aXHrGSypGiimdfvnbXGhnZquLJb9Vxh,Green,Hooded Cardigan,Tired,,Panda,,Drool
 9185,80,5603,0,https://magiceden.io/item-details/2KZgv57H9LPnD9ycSLx8oAqtqKE22mPszr5Fd7nhBi9m,Purple,Pullover Windbreaker,Sarcastic,,Polar,Backwards Flat Cap,Clean Smile
 9186,69,6947,0,https://magiceden.io/item-details/5ypzCegZ6SqoEmGBS2xoPRua5au7kWUudcK7y4CcPewj,Purple,,Happy,,Wood,Ear Tag,Pouting
@@ -1268,6 +1271,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 9268,60.6942,8596,47.57,https://magiceden.io/item-details/49qpRikrZxHmArPLn1iAsvbVoTybRxUU3puSSh1Gfm6y,White,,Annoyed,,Dark Brown,Sweatband,Ohh
 9276,294,4472,0,https://magiceden.io/item-details/51gY4FTtU6ExyAvLiX8WoX1sgGjKtG7aD16XcD6fhh9o,Cream,Hoodie with Headphones,Okay,,Panda,Classic Cap,Haa
 9281,116,3452,0,https://magiceden.io/item-details/EGxmWqhrW6PocZwMwAzPKBPxtnwBSs4QaaJ5KaVniNVE,Cream,Loose Overalls,Happy,Wayfarer Sunglasses,Grizzly,Black Bucket Hat,Clean Smile
+9292,69.2,5185,0,https://magiceden.io/item-details/BWcV4QyWN2B5A28LERG8iNhpASzkjKEE6iC46icN2XEy,Cream,,Sarcastic,Round Glasses,Red Panda,Visor,Okay
 9297,80,6781,0,https://magiceden.io/item-details/4us5pAeT6oQtTWcj3V4aor59BCzWDxfKwuBN9oqKYW21,White,Double Jacket,Sad,Aviator Sunglasses,Dark Brown,,Okay
 9307,75.99,6026,0,https://magiceden.io/item-details/HnEv5EwPmCdYqhhfjMMpNwSaBEn657AxkPSp23NXGsa1,Green,Loose Overalls,Disappointed,,Polar,Beret,Clean Smile
 9329,444,8152,0,https://magiceden.io/item-details/9BgvPLqbzSc84nuAb4DjhzRevZXrkhQWHZwXWDkbEHF5,Green,Torn Sleeveless Tee,Annoyed,,Sand,Bandana,Pouting
@@ -1291,7 +1295,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 9428,80,6019,0,https://magiceden.io/item-details/AJV9DSDku5QoJAAHGHuSwf8pUKbK1G5ai7bLdQMocjBF,Green,,Okay,,Grizzly,Book,Asparagus
 9441,70,7923,0,https://magiceden.io/item-details/EnfVo2gQejhzKWgj4tEooeGgKqGECZRPYv2rs6E5nU87,Warm Grey,Tech Jacket,Defeated,,Dark Brown,,Clean Smile
 9444,69.69,2427,0,https://magiceden.io/item-details/7a5bVq9oNK1pWZy3ivw2P1L6jTnHdx6oxVN3FYgM3M4h,Purple,,Interested,Barrel Sunglasses,Sun,,Ahh
-9452,59.87,6859,62.76,https://magiceden.io/item-details/F77xkyN2WGXbNNWDp26DnHPSumfCUpsZFTfBbf6ToPaB,Yellow,Double Jacket,Happy,,Tan,Worn Out Beanie,Wry
 9456,87.69,9078,0,https://magiceden.io/item-details/4nSUAadpKDwPaKvx1KtUfrsLdH9hBBkiDwv7AjWuofPT,Green,,Okay,,Albino,Sweatband,Clean Smile
 9458,110,7995,0,https://magiceden.io/item-details/4kBcgXZH31JNvMuhNCVyoNDWsVgdk27woducEqYqpVHk,Yellow,,Sad,,Sun,Earrings,Okay
 9469,120,1030,0,https://magiceden.io/item-details/DpQdbmFEDuRaBhVcAHD35SW3NoPpd38vahLHW35JLGwm,Warm Grey,,Spirited,Barrel Sunglasses,Wood,Ear Tag,Proud
@@ -1340,7 +1343,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 9788,97,4826,0,https://magiceden.io/item-details/8yaXxNm3ZATkVbn8BTuGarqrZjbJasqJBPgpeiFgKKRV,Green,Olive Windbreaker,Annoyed,,Polar,Earrings,Hmm
 9796,80,1372,0,https://magiceden.io/item-details/Eb9U3CkMJfaoM93XE3stFgifTiE7MJFBiCXqe4nj2frh,Grey,Utility Vest,Spirited,Barrel Sunglasses,Dark Brown,Backwards Flat Cap,Clean Smile
 9804,100,1998,0,https://magiceden.io/item-details/HDivVfHgzjQhnWaZAhicPNzEEctuvGXZPKMkJxvsfWAy,Blue,Vintage Shirt,Okay,Holographic,Black,,Toothpick
-9805,90,606,0,https://magiceden.io/item-details/Am8u9LERhLnvCavGiMb9fptbbUp8pDDJJN79Q2J8Kojd,Grey,Travel Coat,Happy,Pixel Glasses,Sand,Bandana,Oou
+9805,75,606,0,https://magiceden.io/item-details/Am8u9LERhLnvCavGiMb9fptbbUp8pDDJJN79Q2J8Kojd,Grey,Travel Coat,Happy,Pixel Glasses,Sand,Bandana,Oou
 9813,85,778,0,https://magiceden.io/item-details/D3hs195o45xSN6Fhx6YKgjr8kLFz4Dpjd5BareenKDPM,Green,Vintage Windbreaker,Annoyed,Clear Glasses,Pink,Sweatband,Wheat
 9817,77,3852,0,https://magiceden.io/item-details/6RFRHxWciaqGBYPpz1S9qYux7BU8ZiiggFqUV3DRFT4Y,Cream,Summer Shirt,Happy,,Wood,Earrings,Wry
 9818,90,1980,0,https://magiceden.io/item-details/J6Esfy7znL5GppV53GmhEQLD6cQRtdoELTCUaJWREPfr,Grey,Black Tee,Tired,Snow Goggles,Red Panda,,Wry
