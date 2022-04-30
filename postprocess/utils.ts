@@ -115,7 +115,7 @@ export function addScore({
 
   // Calculate minPrice and maxRank for scoring
   //let minPrice = Infinity; test distortion
-  minPrice = 1000;
+  let minPrice = 1000;
   let maxRank = 0;
 
   items.forEach((item) => {
