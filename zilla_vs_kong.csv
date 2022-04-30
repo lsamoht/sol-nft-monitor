@@ -1,25 +1,19 @@
 id,price,moonRank,💎 score (%),storeURL,Background,Eyes,Head,Mouth,Neck,Skins,Type
 101,24,458,0,https://magiceden.io/item-details/7bQWQuDWUWcZDhvebvJ5zFSVL6xQXucVZWBdWUX61zmP,Desert,Rainbow Glasses,none,Bandage,none,White,Zilla
-103,11.5,681,69.05,https://magiceden.io/item-details/HQ2PXitz1WZ4Dy4qktK1SY56gm1zGNFgHravj7hnAxY3,City,Cyborg,none,none,none,Desert,Zilla
-111,11.5,744,66.18,https://magiceden.io/item-details/3AVYxeiGhRxu8gXQx3pyGpGgfT1DrYrHRmfnuCe3sT4y,Hot air baloon,Shades,none,none,none,Furry,Zilla
-114,16,438,35.09,https://magiceden.io/item-details/9j6o3dgxgtoW1bWL1wNwhpGLcusr26Rg61ZtZjwC6bh7,Beach,none,Pirate hat,Rose,none,Burning,Kong
-116,14.2069,708,40.75,https://magiceden.io/item-details/3UqsZSDEDPToVZVyFpRDwi1kmvkRcFgsbEgRHc462Rue,Cabin,none,none,Fire,none,Burning,Kong
-132,16.99,505,22.15,https://magiceden.io/item-details/4LB7qXhrpoYp51o72ChnNBBdm2M4dggZSa5B1KxS8U61,Cabin,none,none,Bananna,Tie,Zebra,Kong
-168,14.9,603,38.59,https://magiceden.io/item-details/77W484uQo7R1jnUqM7BnXWTuxGsSLbi19G6LHsNWwnJK,Beach,none,Pirate hat,Laser,none,Alpha,Kong
-218,17.5,260,28.18,https://magiceden.io/item-details/CqzLUwbmLCSRUHgE6ii9V6CmghRBkywvBCj9Fi5qr93c,Mountains,Techno,Pirate hat,Cigarrette,none,Winter,Kong
-251,15.9,558,30.64,https://magiceden.io/item-details/5kKjfZSC7cxyn75VEctdxXjq4E1PDCh9HkS7cLx26v7m,Fast food,Zilla laser,none,none,none,Cyborg,Zilla
-315,12,666,64.73,https://magiceden.io/item-details/BHxUTdHqjeqQKLMVUKhafhzP2AqjnaKcNc6g8KD2jPGK,City,none,none,Building,none,White,Zilla
-369,20,53,12.59,https://magiceden.io/item-details/47i2jccPr6wukWngwbxrodg26CuHo5k1c2mF9SbGoXMR,Desert,Zilla laser,Blue fire,Blunt,none,Skeleton,Zilla
+116,14.2069,708,61.05,https://magiceden.io/item-details/3UqsZSDEDPToVZVyFpRDwi1kmvkRcFgsbEgRHc462Rue,Cabin,none,none,Fire,none,Burning,Kong
+132,16.99,505,44.38,https://magiceden.io/item-details/4LB7qXhrpoYp51o72ChnNBBdm2M4dggZSa5B1KxS8U61,Cabin,none,none,Bananna,Tie,Zebra,Kong
+168,14.9,603,59.89,https://magiceden.io/item-details/77W484uQo7R1jnUqM7BnXWTuxGsSLbi19G6LHsNWwnJK,Beach,none,Pirate hat,Laser,none,Alpha,Kong
+218,17.5,260,52.76,https://magiceden.io/item-details/CqzLUwbmLCSRUHgE6ii9V6CmghRBkywvBCj9Fi5qr93c,Mountains,Techno,Pirate hat,Cigarrette,none,Winter,Kong
+251,15.9,558,52.37,https://magiceden.io/item-details/5kKjfZSC7cxyn75VEctdxXjq4E1PDCh9HkS7cLx26v7m,Fast food,Zilla laser,none,none,none,Cyborg,Zilla
+315,23,666,0,https://magiceden.io/item-details/BHxUTdHqjeqQKLMVUKhafhzP2AqjnaKcNc6g8KD2jPGK,City,none,none,Building,none,White,Zilla
+369,20,53,39.15,https://magiceden.io/item-details/47i2jccPr6wukWngwbxrodg26CuHo5k1c2mF9SbGoXMR,Desert,Zilla laser,Blue fire,Blunt,none,Skeleton,Zilla
 392,35,10,0,https://magiceden.io/item-details/7MtLCx9w5uZQ8oHkpoyFbTS3Ca5XbBWNRoM5qxBvYtrf,Snowy mountains,none,Baby tiger,Rose,Prisonor leash,Scaled,Kong
-420,15,528,41,https://magiceden.io/item-details/ANEiEWMN9dJLd1xWyQtUVUXXXbgcyiKvwpCPGBfs6MZK,Cabin,none,Viking helmet,Rose,none,Alpha,Kong
-447,18,54,32.55,https://magiceden.io/item-details/9E8haQXZ6uPMkvxridTmp27Gpy9XubiF4DuM2rQ8bNTp,Hot air baloon,Cyborg,none,Building,Spikes,White,Zilla
-504,12,589,68.23,https://magiceden.io/item-details/HnbX9RU355FURLaZ9RnhfsJAgkK9JuoxvQvybs2k14aZ,Cabin,Smoke,none,Cigarrette,none,Zebra,Kong
-514,11.5,880,60,https://magiceden.io/item-details/7TxwxX2XZ6tBhjjYY3yybcVU2aaETAUYXjSSuUPmkEbZ,Snowy mountains,none,none,none,none,Alpha,Kong
-583,18.554,515,6.05,https://magiceden.io/item-details/8uxGfnpvTBMbxvo2qoZWdGPYSqSNFmTBZ6N5Rs1FJMqp,Volcano,none,Horns,Bandage,none,Alpha,Zilla
-635,21.5,350,0,https://magiceden.io/item-details/3oY8Kt25ZPrMvimc9dc9BNL84ZP6x8T4Jw1XUVyyqTPD,Volcano,none,Horns,Pipe,none,Ice,Zilla
-663,18.4,727,0,https://magiceden.io/item-details/9hrSfpQRPuEWTGftXyqN5auwnPU6mujJqF24gfRpQDZy,Fast food,none,none,Blunt,none,Ice,Zilla
-666,15,682,34,https://magiceden.io/item-details/4yhbfTEjFr7iYNLcqjp82E9SHtGCrzjr8vSaNCtvc218,Beach,none,none,Cigar,none,Gold,Kong
-722,21.99,59,0,https://magiceden.io/item-details/7ByPBX55TMfDTkkqW7bPYKgLvDCgV8EtU4dzuN4XEnZK,Rainforest,Smoke,Halo,Cigar,Prisonor leash,Alpha,Kong
+447,18,54,59.1,https://magiceden.io/item-details/9E8haQXZ6uPMkvxridTmp27Gpy9XubiF4DuM2rQ8bNTp,Hot air baloon,Cyborg,none,Building,Spikes,White,Zilla
+583,18.554,515,28.19,https://magiceden.io/item-details/8uxGfnpvTBMbxvo2qoZWdGPYSqSNFmTBZ6N5Rs1FJMqp,Volcano,none,Horns,Bandage,none,Alpha,Zilla
+635,21.5,350,7.81,https://magiceden.io/item-details/3oY8Kt25ZPrMvimc9dc9BNL84ZP6x8T4Jw1XUVyyqTPD,Volcano,none,Horns,Pipe,none,Ice,Zilla
+663,18.4,727,18.07,https://magiceden.io/item-details/9hrSfpQRPuEWTGftXyqN5auwnPU6mujJqF24gfRpQDZy,Fast food,none,none,Blunt,none,Ice,Zilla
+666,15,682,54.54,https://magiceden.io/item-details/4yhbfTEjFr7iYNLcqjp82E9SHtGCrzjr8vSaNCtvc218,Beach,none,none,Cigar,none,Gold,Kong
+722,21.99,59,18.92,https://magiceden.io/item-details/7ByPBX55TMfDTkkqW7bPYKgLvDCgV8EtU4dzuN4XEnZK,Rainforest,Smoke,Halo,Cigar,Prisonor leash,Alpha,Kong
 804,30,112,0,https://magiceden.io/item-details/FowUxarVUi2zZhCWyoDh2mM6RspVgp8kFhBWQzkzQ1L6,Cabin,none,Baby tiger,Fire,none,Gold,Kong
 867,20.5,713,0,https://magiceden.io/item-details/7CxyZCBjk2eZ3okXRbmbChyZtS2GGfxJy1WEk8yLzwWM,Hot air baloon,none,none,Bandage,none,White,Zilla
-876,15,413,46.23,https://magiceden.io/item-details/J7r1WCeLwQzfhFp6Wc5SytK2GVdC7zJhimEM591hDz69,Rainforest,Coins,Pirate hat,none,none,Zombie,Kong
+876,15,413,69.35,https://magiceden.io/item-details/J7r1WCeLwQzfhFp6Wc5SytK2GVdC7zJhimEM591hDz69,Rainforest,Coins,Pirate hat,none,none,Zombie,Kong
