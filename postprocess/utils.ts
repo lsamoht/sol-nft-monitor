@@ -114,8 +114,7 @@ export function addScore({
   const items = [...csvData, ...data];
 
   // Calculate minPrice and maxRank for scoring
-  //let minPrice = Infinity; test distortion
-  let minPrice = 1000;
+  let minPrice = Infinity;
   let maxRank = 0;
 
   items.forEach((item) => {
