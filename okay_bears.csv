@@ -67,7 +67,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 516,1000,4587,0,https://solanart.io/search/?token=Fm49dCBBRXv4P8yPDToJ7DCjSqjo3f2M2SDZch9GmcKZ,Purple,,Tired,,Lofi,Baker Boy Hat,Gah
 528,190,7617,0,https://solanart.io/search/?token=3WSPr8PDR2QT6mekfJW7T4RrzB2WofBRenrPaHpb3c5R,Blue,,Interested,Circle Sunglasses,Sand,,Wry
 544,850,3365,0,https://solanart.io/search/?token=Bn3BxDmSJTeA6Y1gsiCJS6bPMcKKYXU6X2agYAGhfm91,Green,,Golden Glow,,Red Panda,Mumford Hat,Huh
-561,98,3364,0,https://solanart.io/search/?token=9CsjXVijkj8dr1CRgKdCGiPrhwQgYvydf8JhEYUZJDRD,Yellow,Black Tee,Okay,,Sun,Black Bucket Hat,Pencil
+561,98,3364,5.34,https://solanart.io/search/?token=9CsjXVijkj8dr1CRgKdCGiPrhwQgYvydf8JhEYUZJDRD,Yellow,Black Tee,Okay,,Sun,Black Bucket Hat,Pencil
 563,3000,1704,0,https://solanart.io/search/?token=GKipSpkNH59259zWRk6kt3ihvKUPrGWwyMNfC69fKap5,Purple,Black Suit,Disappointed,,Sun,Baker Boy Hat,Wry
 566,555,7051,0,https://solanart.io/search/?token=71xGTeiWim5pLLWZT376hQYK3QetUzXyCnuunV82hZAp,Cream,Overalls,Okay,,Lofi,Skate Cap,Okay
 579,2000,464,0,https://solanart.io/search/?token=AsTacDvNCZXHU3u5pV3HPRzaRM12FCADSGtAwStMgYdm,Warm Grey,Faded Denim Jacket,Happy,,Panda,Rabbit Fur Hat,Honey
@@ -140,7 +140,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 1278,325.420685,580,0,https://solanart.io/search/?token=4xD7At3mnTCVZHwwHVpcxG9g4nToibJLtJNKZ4zmwxY4,Green,Okay Tee,Tired,Clear Glasses,Green,Sticky Note,Gah
 1286,700,5424,0,https://solanart.io/search/?token=62A2buLAGa3dVKgwdPcuM2dUisXKNZcxdvKw9EudjM5z,Purple,,Okay,,Sand,Mumford Hat,Yoyo
 1306,300,5500,0,https://solanart.io/search/?token=6VgNvZa4DiEZBjnrD12mhkU3nmsNod7acNDBCJSNEH2k,Yellow,Autumn Sweater,Robot,,Grizzly,Skate Cap,Okay
-1318,91.800003,7934,30.26,https://solanart.io/search/?token=2rg583531JZd1wTKLyEEYpWzBSpqdKm1KHeKfEqgvniv,Grey,Okay Tee,Okay,,Polar,Classic Cap,Pouting
+1318,91.800003,7934,49.06,https://solanart.io/search/?token=2rg583531JZd1wTKLyEEYpWzBSpqdKm1KHeKfEqgvniv,Grey,Okay Tee,Okay,,Polar,Classic Cap,Pouting
 1319,375,1304,0,https://solanart.io/search/?token=oDH9K6pnkxPVomXn4J22NC5FyfU9zMctMCKJDgeoPcv,Blue,,Golden Glow,Round Glasses,Dark Brown,Black Bucket Hat,Worried
 1325,500,267,0,https://solanart.io/search/?token=HVBEHjqee73uRt3AxK4HLqxrB2atkpuQuSJbzuETYY3J,Blue,Sling Pack,Disappointed,Clear Glasses,Andean,Pom Pom Beanie,Ahh
 1332,1200,9311,0,https://solanart.io/search/?token=EezVVusU9RppicC3r1xVHaH9Nqsv9vcjuUbfkrsPWhXj,White,,Okay,,Lofi,Bandana,Okay
@@ -181,7 +181,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 1622,200,1298,0,https://solanart.io/search/?token=63ZFrZvayxmudJo1yaaqjvp2qMHUhQEKEecH8kxDj9Jb,Purple,Double Jacket,Annoyed,Barrel Sunglasses,Ginger,Bandana,Gah
 1632,240,7893,0,https://solanart.io/search/?token=FT53FxJ4tESMxUJhqrD198WFBWS8rZQoeJ5vjXjJXfNA,Warm Grey,,Disappointed,Pixel Glasses,Black,,Pouting
 1637,189,137,0,https://solanart.io/search/?token=4o969MTDuhwxiFqMskUuNrEpShwbuNDYA2rX46CfF795,Green,Vintage Shirt,Disappointed,Wayfarer Sunglasses,Wood,Ear Tag,Forced Smile
-1639,89.879997,5936,57.45,https://solanart.io/search/?token=2pUTVvXfHGYpenPAT2a5UWSc9qaWkAejQNnfQ9UqUNCf,Warm Grey,Olive Windbreaker,Defeated,,Albino,,Haa
+1639,89.879997,5936,76.25,https://solanart.io/search/?token=2pUTVvXfHGYpenPAT2a5UWSc9qaWkAejQNnfQ9UqUNCf,Warm Grey,Olive Windbreaker,Defeated,,Albino,,Haa
 1640,350,7891,0,https://solanart.io/search/?token=6jvF3JfdUcf1mwwmwEWjU54BhUMQoNsiWHs2oUoA2MGH,Warm Grey,Silk Robe,Happy,,Black,,Okay
 1705,341,5379,0,https://solanart.io/search/?token=EDg7MAd5V65GaSZWdfUz5xTLmWFzBsaRQ3EBYZcBw3Lh,Warm Grey,Silk Robe,Okay,,Polar,Black Bucket Hat,Clean Smile
 1733,888,1146,0,https://solanart.io/search/?token=5z4F7tnun3S9aaHUM7yLbFMWtwQNACx7PLnqKqKQK3aF,Green,,Okay,Mechanical Goggles,Lofi,Sweatband,Gah
@@ -214,7 +214,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 1964,200,674,0,https://solanart.io/search/?token=G9h43SJ3g4kijhW8YRizfMaNjz7gSyf4kALhaz8H6TQw,Grey,Faded Denim Jacket,Okay,Barrel Sunglasses,Dark Brown,Skate Cap,Yoyo
 1967,666,8141,0,https://solanart.io/search/?token=DjCz9Fh9UFX8YT1hfxHnmkQn7be5PRbHgEVp6F4JWnxi,Green,Loose Overalls,Disappointed,,Tan,Backwards Skate Cap,Okay
 1977,299,9081,0,https://solanart.io/search/?token=F4mKndSacTJYkfxvpxCpP25wS37VGQBanBb6xB3kyMZu,Cream,,Sad,,Sand,Worn Out Beanie,Okay
-1987,93,7312,20.75,https://solanart.io/search/?token=5sTwv41xiKdysPC5NmkXHqbytfREzJhC5QULvdHr74F7,Yellow,,Disappointed,,Andean,Visor,Gah
+1987,93,7312,39.55,https://solanart.io/search/?token=5sTwv41xiKdysPC5NmkXHqbytfREzJhC5QULvdHr74F7,Yellow,,Disappointed,,Andean,Visor,Gah
 1989,450,8358,0,https://solanart.io/search/?token=XhagwjgEWtBLhq2XvUsGoFXZmsy3z6VDN4Xi7SNG7Qd,Green,,Golden Glow,,Ginger,,Huh
 1997,800,226,0,https://solanart.io/search/?token=A3AbrzNsAXZdP7wjtFWmYkExcu12sHNTtdzBZRPAyy8r,White,Polo with Headphones,White Glow,Flying Goggles,Grizzly,Mumford Hat,Gah
 2001,111,7149,0,https://solanart.io/search/?token=2XUL7f5dJsWgMynHbcJkM9fwutWE2hivG5GcvV4UZrV4,Cream,,Annoyed,Flying Goggles,Black,,Clean Smile
@@ -254,8 +254,8 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 2289,119,537,0,https://solanart.io/search/?token=8WohJbaqAAy6EJC1qrVH17PSQE9vEaGBQLWH6eGvzAz6,Yellow,Puffer Jacket,Wide Eyed,Aviator Sunglasses,Grizzly,Head Cam,Gah
 2310,222,1810,0,https://solanart.io/search/?token=HFNyN5dGsUSMvMr14iebipunnq73zoQQMS8EbcxqaLSs,Grey,Legacy Windbreaker,Okay,,Pink,Book,Wheat
 2320,499,1806,0,https://solanart.io/search/?token=vQ5xt2qcG5FabJcy562gfp2pYpijwixYXaLM5yYTNXU,Yellow,Olive Windbreaker,Interested,,Dark Brown,Sticky Note,Eight Ball
-2325,140,1403,0,https://solanart.io/search/?token=BiebLHTT6YM1R3vvEYyLkamzdmdmkFGnR7BNdMahYB8o,White,Faded Denim Jacket,Sarcastic,,Wood,Worn Out Cap,Forced Smile
-2327,93,5257,28.97,https://solanart.io/search/?token=Abs2BkxmA5Q9dN3NPqTe1b6yTBDJhFGAJnHNug91d4Vq,Grey,Okay Tee,Okay,,Panda,Sweatband,Hmm
+2325,135,1403,0,https://solanart.io/search/?token=BiebLHTT6YM1R3vvEYyLkamzdmdmkFGnR7BNdMahYB8o,White,Faded Denim Jacket,Sarcastic,,Wood,Worn Out Cap,Forced Smile
+2327,93,5257,47.77,https://solanart.io/search/?token=Abs2BkxmA5Q9dN3NPqTe1b6yTBDJhFGAJnHNug91d4Vq,Grey,Okay Tee,Okay,,Panda,Sweatband,Hmm
 2356,450,3054,0,https://solanart.io/search/?token=BeM7jwbuH8BMgp4JbTJmvoHMJaZqwwALMdewMWsUUCgU,Warm Grey,Leather Jacket,Disappointed,,Lofi,Army Hat,Wry
 2376,1100,903,0,https://solanart.io/search/?token=5Vdibix5zyxG85XqXaXjUwTbdvojrobKCRizb7aPCQX4,Blue,Sleeveless Tee,White Glow,Clear Glasses,Coral,,Proud
 2377,275,1092,0,https://solanart.io/search/?token=FyuDN7XsezTMhyUfNq4kCSKdXgzNyrZefyCjYMXRQLC4,Blue,Okay Hoodie,White Glow,,Polar,Classic Cap,Asparagus
@@ -301,7 +301,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 2724,259.5,2525,0,https://solanart.io/search/?token=HaS6wAEKBL3mPk4AXBN9pghTsXpcDB1fYxL2FPMWwtBg,Grey,Pullover Windbreaker,Okay,Round Glasses,Grizzly,Army Hat,Gah
 2729,300,9034,0,https://solanart.io/search/?token=CV5j7XgmKaPn8huBuVRynTTuGjBPvdksWiKdgboR6B9M,Cream,Overalls,Okay,,Sun,,Okay
 2739,129,254,0,https://solanart.io/search/?token=B2YdJ6dutdFVkTncZEgA8c3SKwcn9ybQp1N5RNAgepha,Green,Insulated Jacket,Tired,Flying Goggles,Black,Pom Pom Beanie,Proud
-2742,93,5796,26.81,https://solanart.io/search/?token=6GYRLBQQbqwN5TYiPR8p5Tj7otV6ZXQL633eseMRsjdV,White,Faded Denim Jacket,Okay,,Albino,Bandana,Gah
+2742,93,5796,45.61,https://solanart.io/search/?token=6GYRLBQQbqwN5TYiPR8p5Tj7otV6ZXQL633eseMRsjdV,White,Faded Denim Jacket,Okay,,Albino,Bandana,Gah
 2753,168,8750,0,https://solanart.io/search/?token=5AMSemZVrwmNWmTkEhzLsHG4tb1dHQ6mS2wYTcWLagLM,Purple,,Disappointed,,Ginger,,Toothpick
 2771,400,1621,0,https://solanart.io/search/?token=4QEVDcu5ksfDEKRUtmHcgRae9FguzPbMnT1juYfmczha,Green,Lumber Jacket,Okay,Barrel Sunglasses,Grizzly,Pom Pom Beanie,Proud
 2774,250,7091,0,https://solanart.io/search/?token=25f5QZtjmsJj86jLGnPc6Gj3PVSLcCm2PnwMnDNW5Qd3,Grey,,Disappointed,Wayfarer Sunglasses,Grizzly,Sweatband,Pouting
@@ -317,10 +317,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 2877,180,7271,0,https://solanart.io/search/?token=DAybrEKaCbuALdQdJta5GnvuAyKDofxgpZtRRXpnE9QL,Purple,Wool Overcoat,Sad,,Albino,,Pouting
 2898,399,1673,0,https://solanart.io/search/?token=9AhZM4mXxLPtiaJhKu8ur5NaTeQewxtnHYkXHGro6pii,Warm Grey,Polo with Headphones,Happy,,Sand,Bandana,Honey
 2915,215,6363,0,https://solanart.io/search/?token=AeYbXCEMkqSBToUTuieayJD38oH8ucJDzhu86XJri53x,Purple,Coat with Headphones,Okay,,Grizzly,Skate Cap,Huh
-2918,91,7728,39.08,https://solanart.io/search/?token=23jBA9MLBwRzCGYSENzXqedoFgAh37NBYsx9vSsBdM42,Green,,Okay,,Andean,Pencil,Wheat
+2918,91,7728,57.88,https://solanart.io/search/?token=23jBA9MLBwRzCGYSENzXqedoFgAh37NBYsx9vSsBdM42,Green,,Okay,,Andean,Pencil,Wheat
 2930,100,3345,0,https://solanart.io/search/?token=9Uu9VzvTi6ZCj68yAAGXujz5Hn3TQ1m3x159qEYWo4qm,Yellow,Torn Tee,Interested,,Red Panda,Worn Out Cap,Pouting
 2949,480,573,0,https://solanart.io/search/?token=DaLjKdHuFx8jgVQZQvF6ewBvptFzh2kHwi3tzDkm6M8H,Warm Grey,Vintage Shirt,Spirited,Barrel Sunglasses,Panda,Surf Bucket Hat,Pouting
-2952,97.5,3692,0,https://solanart.io/search/?token=38bBoBJ6WFPBcnXTbDLZaPesRwJSBEevrCvmWpMu9A1k,Purple,Faded Denim Jacket,Okay,,Red Panda,Backwards Flat Cap,Oou
+2952,97.5,3692,9.03,https://solanart.io/search/?token=38bBoBJ6WFPBcnXTbDLZaPesRwJSBEevrCvmWpMu9A1k,Purple,Faded Denim Jacket,Okay,,Red Panda,Backwards Flat Cap,Oou
 2962,114,5857,0,https://solanart.io/search/?token=5KwT36hns8zaaV9pUF7uxWm2hfTe1wcdNuekAnJ3Vm81,Warm Grey,Woven Sweater,Okay,,Albino,Head Cam,Pouting
 2975,750,6489,0,https://solanart.io/search/?token=HANhB56oqRo2EQDvpLDjM1ir82paBZ5UZTSqAkZ25t9g,Green,,Golden Glow,,Wood,Worn Out Cap,Okay
 2979,200,5668,0,https://solanart.io/search/?token=ASkDk6cG76EwehLifa7ePVVb9SKTAs37aSLd9FVVGZyp,Grey,,White Glow,,Green,Flat Cap,Clean Smile
@@ -418,7 +418,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 3831,116,4894,0,https://solanart.io/search/?token=9PaV858buyBQWrTEv4JeuvR8SvCjt8dutXLLVsfyxnVW,Yellow,,Spirited,,Albino,Flat Hat,Forced Smile
 3853,777,6205,0,https://solanart.io/search/?token=CRd3Z9sq5wNsbU8L9hC3ByP984QnncpUpmyZPvWZ4zrQ,White,Olive Windbreaker,Okay,,Dark Brown,Flat Cap,Proud
 3857,264,4902,0,https://solanart.io/search/?token=CaYbmHf7s9vyZyg4ETpn3HXcf45XoJgbCp3wgodBxoe7,Cream,Hawaiian Shirt,Okay,,Andean,Bandana,Hmm
-3863,99,1934,0,https://solanart.io/search/?token=D2zHdWwaiEtMGPvnfrTEdjPS5Gc34tG9WZeWBJ5gcqZo,Green,Black Tee,Closed,,Black,Head Cam,Ohh
+3863,99,1934,1.06,https://solanart.io/search/?token=D2zHdWwaiEtMGPvnfrTEdjPS5Gc34tG9WZeWBJ5gcqZo,Green,Black Tee,Closed,,Black,Head Cam,Ohh
 3869,134.949997,4183,0,https://solanart.io/search/?token=GaGtDNZtGxeRMP3AukDRBuGbuWTjJzRCSjbBbvyDJDpB,Warm Grey,Striped Tee,Okay,,Andean,Pencil,Forced Smile
 3873,199,1040,0,https://solanart.io/search/?token=DSbWMvrgFdGu3SHRHMdbnSjihUR5dq2ji8MNA7K6eFy6,Purple,Woven Sweater,Okay,Aviator Sunglasses,Panda,Sweatband,Beaming Smile
 3888,888,70,0,https://solanart.io/search/?token=FvyrUCRHPUg1NPRvGmRZ2ThfwmEMpdtwY9ojUng3WANi,Grey,Tweed Suit,Tired,,Red Panda,Book,Earphones
@@ -436,7 +436,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 3964,140,5687,0,https://solanart.io/search/?token=7JE2dyL2jiFz5v9VbTRD5DZ6nd1rwo6xACc2ayKYXAL,Cream,Winter Scarf,Okay,Round Glasses,Dark Brown,,Pouting
 3966,200,6691,0,https://solanart.io/search/?token=6tV1tsjgbTGWU28xDeLDGGvdVMwVRLSrn36p2agXJrkb,White,,Golden Glow,,Panda,Visor,Pouting
 3976,750,5400,0,https://solanart.io/search/?token=5GUJJZcN4E3FGqngFSpkkWWYWeZ1z2WfKMJJHXNhSw9z,Blue,Golf Polo,Okay,,Coral,Pencil,Okay
-3995,95,5565,7.74,https://solanart.io/search/?token=7Mn7PvPLwU1kGszXUegU1DN5LTJphq96RKtLybwFCggB,Purple,Lumber Jacket,Annoyed,,Green,Mumford Hat,Okay
+3995,95,5565,26.54,https://solanart.io/search/?token=7Mn7PvPLwU1kGszXUegU1DN5LTJphq96RKtLybwFCggB,Purple,Lumber Jacket,Annoyed,,Green,Mumford Hat,Okay
 3997,129,3399,0,https://solanart.io/search/?token=6jAYDFhvmgXChGihFv2v9vuAr4KSKLjZRka7jcWo86tM,Warm Grey,Tech Jacket,Interested,,Ginger,Pencil,Gah
 4068,150,9762,0,https://solanart.io/search/?token=GZ4sLEBLSAc1osVLMh1tNDz9KkkrQSoWMV6cEXDCYdD9,Cream,,Annoyed,,Grizzly,,Sneer
 4072,175,5084,0,https://solanart.io/search/?token=2WnzmoGtG4xMNY3qNicnamh68qg8wUYuvoDmgu2o5WPE,Purple,Faded Denim Jacket,Happy,,Lofi,,Oou
@@ -450,9 +450,9 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4297,700,249,0,https://solanart.io/search/?token=5ucE73WcCgNpZyQ1FSqnjGoeB6diWsN4R9p8LATAiHZU,White,Scarf,Spirited,Clear Glasses,Red Panda,Bandana,Haa
 4321,248,1000,0,https://solanart.io/search/?token=EBoJVKK2hE3AVFaJ5CBYGbjT6Wtipxyvb4o8iuTx8JBW,Cream,Pullover Windbreaker,Interested,Pixel Glasses,Tan,Runner Cap,Wheat
 4324,205,247,0,https://solanart.io/search/?token=BetwCS3G5f4SvvZ5upvG1CfEet12BpabTRj58DJNzEx9,Blue,Hoodie with Headphones,Golden Glow,Circle Sunglasses,Sand,Okay Beanie,Oou
-4325,129.690002,462,0,https://solanart.io/search/?token=6mKbZ7tZ5fE2DvDLAsoDzDojNYrmBepSsitAQNPf9HBY,Warm Grey,Okay Tee,Happy,Holographic,Grizzly,Beret,Toothpick
+4325,169.690002,462,0,https://solanart.io/search/?token=6mKbZ7tZ5fE2DvDLAsoDzDojNYrmBepSsitAQNPf9HBY,Warm Grey,Okay Tee,Happy,Holographic,Grizzly,Beret,Toothpick
 4334,120,4599,0,https://solanart.io/search/?token=F9XBm4RcBun4s9CEmBzsTnZL6mqLkBHFCZaaAhgetKHB,Cream,Camel Coat,Closed,,Albino,Pencil,Okay
-4350,180,4939,0,https://solanart.io/search/?token=D4WvGRsRTBfMVYZe1wcbpS2WBx3GUZ17W2PW5ETaw14k,Green,Camel Coat,Annoyed,,Tan,Flat Hat,Hmm
+4350,145,4939,0,https://solanart.io/search/?token=D4WvGRsRTBfMVYZe1wcbpS2WBx3GUZ17W2PW5ETaw14k,Green,Camel Coat,Annoyed,,Tan,Flat Hat,Hmm
 4354,999,660,0,https://solanart.io/search/?token=7jAmZJH7aJuS6QSds2wEmrTw8zgc5d3Sm9Y1tLNKxSwm,Blue,Vintage Windbreaker,Spirited,Wayfarer Sunglasses,Grizzly,Head Cam,Ohh
 4387,800,14,0,https://solanart.io/search/?token=AhbJtKbBMzgScBdhNzWczqUWnXm21BXaW122KrPG83e3,Cream,Camel Coat,White Glow,Punk Sunglasses,Pink,Ear Tag,Yum
 4402,399,2568,0,https://solanart.io/search/?token=9XKyjzgGwro6THaAbNJH2LFKNqTiacnjU9CU6avTpPne,Cream,Silk Robe,Okay,Aviator Sunglasses,Polar,Okay Beanie,Okay
@@ -479,7 +479,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4560,350,155,0,https://solanart.io/search/?token=3d1889NLVUcReegjnSEivMq8gT9XeMYPUhRgKMcyZPNB,Grey,Okay Hoodie,Golden Glow,Round Glasses,Ginger,Runner Cap,Ohh
 4569,2000,864,0,https://solanart.io/search/?token=E8E6pLKQzBdr3imVFJQBVUn5jZj2R93U21JoQL3KFiVh,Cream,Pullover Windbreaker,Annoyed,Snow Goggles,Pink,,Yum
 4579,220,4972,0,https://solanart.io/search/?token=2TpUN1ueXbf2z2doWVvPdHRybVNZZ1pxH1sMgM33JpwQ,Yellow,Loose Overalls,Golden Glow,,Green,Sweatband,Okay
-4591,200,69,0,https://solanart.io/search/?token=6732eS76XhqcdWW17WsYaD3H6cDgHByE358D3DR7VMhM,White,Sling Pack,Wide Eyed,Round Glasses,Albino,Pencil,Pencil
+4591,269,69,0,https://solanart.io/search/?token=6732eS76XhqcdWW17WsYaD3H6cDgHByE358D3DR7VMhM,White,Sling Pack,Wide Eyed,Round Glasses,Albino,Pencil,Pencil
 4603,220,3887,0,https://solanart.io/search/?token=BPyXyVYe5R8ND36N4qULmmsnBiUbFCCB9PntWrsKdGns,Grey,Striped Tee,Sad,,Wood,,Yum
 4605,115,3835,0,https://solanart.io/search/?token=FHjLycetgTPZ9w5DaUH2x1WNVUey9iLtEqBV2MdpXxhH,Green,Sleeveless Tee,Okay,,Panda,Sweatband,Toothpick
 4614,269,3876,0,https://solanart.io/search/?token=62rWWWazDvE1XVDyWkHSFTDUezjRoMUSxyJjgrSfhZdh,Grey,Coat with Headphones,Okay,,Black,Book,Pouting
@@ -490,13 +490,13 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4652,888,231,0,https://solanart.io/search/?token=82G7mVHZynzEaC3LYfLHzeCMLkEWbPRCoLivXsVATF7q,Cream,Sling Pack,Spirited,Flying Goggles,Grizzly,Bandana,Earphones
 4654,1000,516,0,https://solanart.io/search/?token=GckKiKghDfuuxWWKqLD74bZyTeMBMGVRaBZzEXoTtcUt,Grey,Vintage Shirt,Annoyed,Pixel Glasses,Panda,Ear Tag,Beaming Smile
 4655,120,3756,0,https://solanart.io/search/?token=Csqu1yVRKnbHTrYBXXWokpqGH9ZBRRPtN6GJd2Kh9YsX,Grey,Denim Jacket,Disappointed,,Dark Brown,Pencil,Sneer
-4667,95,8567,0,https://solanart.io/search/?token=6kYJEaMq9v2YyjDPhUgWi4cQLMyNMt47Dv47noHc1dRt,Green,,Tired,,Pink,Visor,Okay
+4667,95,8567,14.53,https://solanart.io/search/?token=6kYJEaMq9v2YyjDPhUgWi4cQLMyNMt47Dv47noHc1dRt,Green,,Tired,,Pink,Visor,Okay
 4679,120,3971,0,https://solanart.io/search/?token=4VzaJ7weRKBCpKvvRmxs65ZGvdQU5RMh9qoEpAA7TvSV,Warm Grey,,Okay,Round Glasses,Dark Brown,Mumford Hat,Sneer
 4683,164.899994,759,0,https://solanart.io/search/?token=J65dhWdUtERfRuxcmHV3GjZDMHS7njetXfjmPkMePQDZ,Green,,Sarcastic,Circle Sunglasses,Grizzly,Book,Earphones
 4715,200,3973,0,https://solanart.io/search/?token=4G1gc8hwY3fw5qfd7qsDbSWb85yYBTQTUesxUoQra85f,Cream,,Defeated,Barrel Sunglasses,Pink,Okay Beanie,Okay
 4731,275,2737,0,https://solanart.io/search/?token=ELzsFXUSwJmds28i1apnXdE33G52iCNVxV3vjnzz6k6X,Grey,Golf Polo,Robot,,Albino,Skate Cap,Wry
 4735,400,3395,0,https://solanart.io/search/?token=BBsRmyjBS8fmVSztKCCVhad3t8gTcN4owqhMzRammq5v,Yellow,Winter Scarf,White Glow,Circle Sunglasses,Dark Brown,,Okay
-4759,90,6278,54.89,https://solanart.io/search/?token=CVNVVCGWRKugdB2UekVjN457FidbRoiDeqBRbTB1AXg2,Green,Autumn Sweater,Disappointed,,Red Panda,Bandana,Okay
+4759,90,6278,73.69,https://solanart.io/search/?token=CVNVVCGWRKugdB2UekVjN457FidbRoiDeqBRbTB1AXg2,Green,Autumn Sweater,Disappointed,,Red Panda,Bandana,Okay
 4763,249,8815,0,https://solanart.io/search/?token=874KTKroiuDmdbFkYYDouv7vQuBoQ9DdXkmYAPSs9fdM,Yellow,Black Tee,Happy,,Black,,Wry
 4777,172,2793,0,https://solanart.io/search/?token=Gstyq3ga6YhMFkB5Rs3iYWc8hC6PJb8BpC4Vr98Gv7th,Purple,Overalls,Okay,Clear Glasses,Andean,Backwards Flat Cap,Okay
 4779,123,5611,0,https://solanart.io/search/?token=B8uY4TdQLuzTW2Q7rEsK2W1MomoUaG9eEkfYzywEFQDc,Cream,Autumn Sweater,Sarcastic,,Dark Brown,Okay Beanie,Gah
@@ -508,7 +508,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4801,144,2774,0,https://solanart.io/search/?token=4ZHZ87vkjzaUemSoq87a8pXXESCqp6BaRT9aBo76i9me,Green,,Happy,Round Glasses,Tan,Sweatband,Drool
 4805,240,9983,0,https://solanart.io/search/?token=By5bX31AZZL1aR3aSDxLzx1re5D9RXzK6mgmdKbGArJt,Blue,,Okay,,Polar,,Okay
 4819,888,4180,0,https://solanart.io/search/?token=7mLbSeMFH7GBP82M9WXCPZXX2cstmMMBhWH5iBWyb6dV,Grey,,Spirited,,Albino,Skate Cap,Eight Ball
-4821,94.419998,2924,24.1,https://solanart.io/search/?token=FxqQhdAn9K9Nioxhuj2t9hUtJP6tdfChCvY8q64GeZke,Blue,Tech Jacket,Okay,,Red Panda,Sweatband,Beaming Smile
+4821,94.419998,2924,42.9,https://solanart.io/search/?token=FxqQhdAn9K9Nioxhuj2t9hUtJP6tdfChCvY8q64GeZke,Blue,Tech Jacket,Okay,,Red Panda,Sweatband,Beaming Smile
 4824,469,5674,0,https://solanart.io/search/?token=314DEs6MWLYAkhWKG6aVxbXLF7vRfTiU2ghrouPTTDnv,Yellow,Olive Windbreaker,Happy,,Lofi,Classic Cap,Okay
 4843,10000,7347,0,https://solanart.io/search/?token=3HubwZExuJq7KiFuxNjnbLCv4ZYexeRqfA3JKK2ScSaB,Blue,,Robot,,Grizzly,Backwards Flat Cap,Pouting
 4846,188,1501,0,https://solanart.io/search/?token=9Luhu9KBwquxjL7qqjKTwy71vNwaL1UuYDJH4YfR4r6u,White,Autumn Sweater,Wide Eyed,,Grizzly,Skate Cap,Eight Ball
@@ -530,7 +530,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 4968,190,5111,0,https://solanart.io/search/?token=6GkALZ7VrLbWFc8g7AbPY2YSkeDYTKPGGJq8jA4Q5ry,Blue,Insulated Jacket,Disappointed,,Dark Brown,Earrings,Gah
 4975,320,926,0,https://solanart.io/search/?token=CeQYR9FJovcrsUHMRV3Zt7PhjDWUBrFym9XCfYYfqAeD,Blue,Vintage Windbreaker,Golden Glow,Round Glasses,Dark Brown,Skate Cap,Gah
 4978,350,1970,0,https://solanart.io/search/?token=AhSCJSa5dJ2X4RssEoMwY2ejmrLqw2RYCBNTczZPkBLX,White,Sleeveless Tee,Golden Glow,,Pink,Pencil,Beaming Smile
-4985,95,5638,7.45,https://solanart.io/search/?token=HHSzLXefW4NuYgB2gXzW3dbLpUXspYNkDGUQkmM3P3ZM,White,Scarf,Happy,,Grizzly,Baker Boy Hat,Wry
+4985,95,5638,26.25,https://solanart.io/search/?token=HHSzLXefW4NuYgB2gXzW3dbLpUXspYNkDGUQkmM3P3ZM,White,Scarf,Happy,,Grizzly,Baker Boy Hat,Wry
 4988,1400,5473,0,https://solanart.io/search/?token=1KVpLymDvyD51w4fD8qhVVRDaWr82p89Rb3fT2Qq87W,White,Wool Overcoat,Sad,,Albino,Black Bucket Hat,Okay
 5011,149.979996,4227,0,https://solanart.io/search/?token=DFKpBSTFGF5oZ3wk6C213S9MSYfphSviXFy65rFsDdZx,Blue,,Annoyed,,Wood,Flat Hat,Pencil
 5021,280,3436,0,https://solanart.io/search/?token=BL6u2tGMqw6Gt539Bg6o19yPutmGUBDm8zXRAHezhTfr,Blue,Sleeveless Tee,Happy,Pixel Glasses,Sand,Classic Cap,Okay
@@ -567,7 +567,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 5279,555,9894,0,https://solanart.io/search/?token=7swFXtk9g7aQ2iYLtwDKcC3f5B5jPsCpdfoLv2fG97fz,Warm Grey,,Okay,,Tan,,Hmm
 5299,135,6906,0,https://solanart.io/search/?token=6LdmqEbbgHG5qSXbhZUEdrn5KCa9oPAdpFN8Y5J6w7x1,Grey,Puffer Jacket,Sarcastic,,Ginger,Black Bucket Hat,Pouting
 5316,150,595,0,https://solanart.io/search/?token=DwBW6cHXYixPcsEWMP5TdXxrFNj4BvCMoAYJu8gSuGqY,Warm Grey,Winter Scarf,Disappointed,Aviator Sunglasses,Polar,Surf Bucket Hat,Pouting
-5318,88,8344,66.62,https://solanart.io/search/?token=6CFseszdFt5DpkBy7Ax6vyCSotWTM3x9nWU5QoyoHrq,Blue,Black Tee,Okay,Barrel Sunglasses,Grizzly,,Okay
 5323,666,5291,0,https://solanart.io/search/?token=DzD76t7Xs4kCpf2Jf7YPLBjJ2sB7Lvc5GimvELaFgfP7,Purple,Pullover Windbreaker,Sarcastic,,Tan,Black Bucket Hat,Wheat
 5340,350,9127,0,https://solanart.io/search/?token=5YCVdbvk9nctpDkpUxMb5cmMkVjgjrHJTery7Q291rUC,Grey,,Okay,,Black,Flat Cap,Okay
 5346,141,2247,0,https://solanart.io/search/?token=GPJJQ59ZaX1LQbRfBoeefwthaTv3nPvtL3vFa4dgetSZ,Cream,Vintage Shirt,Okay,Pixel Glasses,Grizzly,Okay Beanie,Haa
@@ -686,7 +685,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 6391,159,9389,0,https://solanart.io/search/?token=74tSV5pEWRBTyDVa7z9MvAw2QPUgmGL5AZcQJJ85X3kX,Grey,,Annoyed,,Panda,Pencil,Okay
 6403,104,5213,0,https://solanart.io/search/?token=JDirC6UmvWxhU9f9QbYCY4GZebaUGapgH4b5JuMeZA54,White,,Sad,,Polar,Okay Beanie,Toothpick
 6411,500.690002,1874,0,https://solanart.io/search/?token=3Ea6mzYCSJXmDrbWmAYGF2upGB8b4w2ox2yM96detuNP,Purple,Sling Pack,Happy,,Lofi,Pom Pom Beanie,Ohh
-6419,95,4727,11.09,https://solanart.io/search/?token=4hQNf92h7irWpKWX3prNtDTncrS8AnX9nf457uhjKq9H,White,Vintage Shirt,Okay,,Sun,Baker Boy Hat,Proud
+6419,95,4727,29.89,https://solanart.io/search/?token=4hQNf92h7irWpKWX3prNtDTncrS8AnX9nf457uhjKq9H,White,Vintage Shirt,Okay,,Sun,Baker Boy Hat,Proud
 6432,444,365,0,https://solanart.io/search/?token=CAzvs8kwTMHH2DkmTFLh5f5xm2VvJVJDc9Cb8nPCuNdG,Warm Grey,Tweed Suit,Tired,Aviator Sunglasses,Polar,Okay Beanie,Gah
 6435,125,2697,0,https://solanart.io/search/?token=2wyb75kJpDhjVUHGWyxLc6eDYmxKhjvFxj27Lsb24Pqc,Grey,Sleeveless Tee,Disappointed,,Dark Brown,Backwards Skate Cap,Honey
 6437,400,2797,0,https://solanart.io/search/?token=HY1jjXaqdnYXoT7D3sWppLFdjbz7LrQ5LEHdCEGeoHuu,Grey,Urban Hoodie,Okay,,Sun,Worn Out Cap,Ohh
@@ -793,7 +792,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 7373,290,900,0,https://solanart.io/search/?token=3RLU23hMa1fbwYR1jSpGLx2AxFWrJtKjartNgfMyLjjH,Yellow,Camel Coat,Disappointed,,Pink,Worn Out Cap,Yoyo
 7405,289,1693,0,https://solanart.io/search/?token=GaG7U669ieNfhhsiGHzYtAQR7rh53GqoQ1iG5fZYRyvE,Cream,Formal Vest,Disappointed,Pixel Glasses,Andean,Pom Pom Beanie,Okay
 7413,115,1892,0,https://solanart.io/search/?token=CTViu79AFULup3nYhRAUUEFxJCaZAg7EB5MnGzybXTZU,Warm Grey,Lumber Jacket,Spirited,Flying Goggles,Tan,Okay Beanie,Okay
-7420,95,9180,0,https://solanart.io/search/?token=EuNNWydo2to4v6DhDz1jhPfmQJ5T9XknnBc7zZRLyUtM,Blue,Scarf,Okay,,Andean,,Okay
+7420,95,9180,12.08,https://solanart.io/search/?token=EuNNWydo2to4v6DhDz1jhPfmQJ5T9XknnBc7zZRLyUtM,Blue,Scarf,Okay,,Andean,,Okay
 7438,160,6453,0,https://solanart.io/search/?token=3Nn2sHhKtiWyA4sqEcC8rmJuDN3UCZpEfWWxt1Kuc1Q4,Purple,Sleeveless Tee,Disappointed,,Dark Brown,Beret,Proud
 7439,245,9023,0,https://solanart.io/search/?token=42H6Y8K1tnSEmdms1d4Pd48JGRyoaWVzQnKuWt1WozzN,White,,Sad,,Dark Brown,Okay Beanie,Pouting
 7442,250,1487,0,https://solanart.io/search/?token=3B64gvJnPbGeKb1DQ3ZTn7uSzLU8a7CDPP9j4DLtHPQg,Grey,Wool Overcoat,Closed,,Black,Okay Beanie,Ohh
@@ -814,7 +813,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 7561,210,9986,0,https://solanart.io/search/?token=5BcAbRkY8MuCLDE6AjZUE98Rs4cBdkCJfEtiV9azjs5s,Warm Grey,,Sarcastic,,Grizzly,,Okay
 7600,210,8948,0,https://solanart.io/search/?token=7dAMGSk5UkWZpt47qNUgErekkyDnJkM9yFVyqpqVkwdn,Green,,White Glow,,Sand,Classic Cap,Okay
 7602,888,304,0,https://solanart.io/search/?token=F3ScRCU1JZRskEWiTYdEK2mbEJXKig98PrLtnJ6vd6L3,Green,Insulated Jacket,Okay,Flying Goggles,Albino,Head Cam,Oou
-7603,94,7904,8.38,https://solanart.io/search/?token=4jeL7NmN2gXA7vKDTZaUYiXqbLYiiZYYsC2Nx6JD1gWN,Green,Okay Tee,Wide Eyed,,Tan,,Proud
+7603,94,7904,27.18,https://solanart.io/search/?token=4jeL7NmN2gXA7vKDTZaUYiXqbLYiiZYYsC2Nx6JD1gWN,Green,Okay Tee,Wide Eyed,,Tan,,Proud
 7604,500,140,0,https://solanart.io/search/?token=Bktbv9SZ7troX4GvCkGTG2hEMxeJ11EVT3g6NLXtgqQf,Yellow,Hooded Cardigan,Golden Glow,Wayfarer Sunglasses,Tan,Skate Cap,Yoyo
 7608,1000,3831,0,https://solanart.io/search/?token=DzdnDSCbuDmMFaScQmsfNnRrNfWht5tvbm5KirSa4soC,Green,,Annoyed,Pixel Glasses,Lofi,Visor,Pouting
 7612,1200,96,0,https://solanart.io/search/?token=8PFhcbSx5whSj9d3Q6Lyg8jduWHZdhepJwAP5B7rd4M2,Green,Insulated Jacket,Spirited,Aviator Sunglasses,Blueprint,Earrings,Ohh
@@ -840,11 +839,10 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 7828,200,3041,0,https://solanart.io/search/?token=F66SvTNVFb9a17JqfnM7C7GSPk6Y9e7r4TrZ1Lm1TWJb,Cream,Sleeveless Tee,White Glow,Round Glasses,Dark Brown,Backwards Flat Cap,Okay
 7844,150,3240,0,https://solanart.io/search/?token=EUnbZTqTQopodFWDLQmTtFvQpbzebDLGwCxkf7X4iKLF,Yellow,Formal Vest,Happy,,Panda,Army Hat,Proud
 7855,777,4968,0,https://solanart.io/search/?token=9N6unkN95fCKrf6NkrNLt8Z745BxhJ3PV5ui3ArJxT6A,Green,Hoodie with Headphones,Annoyed,,Grizzly,Skate Cap,Pencil
-7863,96.473,5173,0,https://solanart.io/search/?token=3L253DXadn44tcck4mAVCDsFXjtRixNXwpgBBahFhSjg,Cream,Vintage Shirt,Happy,,Dark Brown,Worn Out Cap,Oou
+7863,96.473,5173,13.38,https://solanart.io/search/?token=3L253DXadn44tcck4mAVCDsFXjtRixNXwpgBBahFhSjg,Cream,Vintage Shirt,Happy,,Dark Brown,Worn Out Cap,Oou
 7867,385,8603,0,https://solanart.io/search/?token=2m7aYDMMtd1pJefbt1Hhsu7EYa1XVXDJHPFgHTAUhd6T,Yellow,Hawaiian Shirt,Annoyed,,Wood,,Okay
 7892,170,6152,0,https://solanart.io/search/?token=574KJfyAChbvvnyjPC7Qk1JM5Ms6PUjP7gQ96b1EQRME,Cream,Tweed Suit,Disappointed,,Ginger,Classic Cap,Okay
 7899,248,8363,0,https://solanart.io/search/?token=GLzadSJRnEEn7mkAj2vU5p82iPjwnGZi2zLMM7dAvVYS,Grey,,Annoyed,,Dark Brown,Flat Hat,Beaming Smile
-7908,89.900002,7758,49.96,https://solanart.io/search/?token=AZLtqPP2q4SSznN7iz4eKtyiWQiaFKDsuSNeqrT4KETZ,Yellow,,Interested,,Tan,Okay Beanie,Beaming Smile
 7913,190,3064,0,https://solanart.io/search/?token=3sQC3zs5zp7c86K1Cqbw3Ge8XgiDo4ttcFDqM22BoNfQ,Grey,Sleeveless Tee,Tired,,Wood,Book,Okay
 7922,8888,287,0,https://solanart.io/search/?token=4TTkcv21FTH9PAtjSLqjT2zgwXuRLgF1NbNCxfnW5Djd,Grey,Lumber Jacket,Wide Eyed,,Albino,Earrings,Eight Ball
 7925,228,2878,0,https://solanart.io/search/?token=J1ht1de1PgvNcNpXqSwDPUqT8VNYFHLeQ1Ch8cywgCMZ,Warm Grey,Suede Jacket,Sarcastic,Mechanical Goggles,Dark Brown,,Wry
@@ -911,6 +909,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 8564,269,9176,0,https://solanart.io/search/?token=HXG8Jkhmxu6swxAtpdhVMrXTM4fEiWggnLZyB5Pg4o5n,White,,White Glow,,Dark Brown,Visor,Okay
 8568,192,7819,0,https://solanart.io/search/?token=6gBPxQnb7KrQk3UGj1SxzVnmksbRUQ1hDSDTkvKutguH,Grey,Denim Jacket,Sarcastic,,Green,,Pouting
 8575,189,6352,0,https://solanart.io/search/?token=H59DQn3yCNx6iyVmwCc9hGrhD8mju24JZmNJWJwDR1aA,Purple,Torn Sleeveless Tee,Okay,,Panda,Book,Okay
+8577,100,2716,0,https://solanart.io/search/?token=CNtPCXhHNaSbaqmT6JjkeKtvMF9WwYdpxMXMYbJViUxB,Yellow,Black Tee,Okay,,Green,Baker Boy Hat,Honey
 8583,110,786,0,https://solanart.io/search/?token=J9r1ykVY7XhDteKa3SEkppUYkqXrkKfasnBJasVDkNHS,Blue,Suede Jacket,Happy,Holographic,Sand,Flat Hat,Proud
 8584,128,2998,0,https://solanart.io/search/?token=48cRwqS6rTpxZ9C6jJ1RZuKtbMPUnavzQJKJSSqtPuuQ,Cream,Torn Sleeveless Tee,Defeated,Holographic,Tan,Runner Cap,Okay
 8585,224.990005,3675,0,https://solanart.io/search/?token=A2dmdKSNVNcMGhWabNToYgXYYom2fN8jZCZZL9ePuhAP,Green,Insulated Jacket,Defeated,,Green,Worn Out Cap,Clean Smile
@@ -960,7 +959,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 9002,450,3129,0,https://solanart.io/search/?token=DVM81ppdq94RVzCgLxaoo8ezqXjnMTQUpicHbD5GjhZ6,White,Polo with Headphones,Tired,,Dark Brown,Backwards Flat Cap,Oou
 9003,280,6253,0,https://solanart.io/search/?token=EEe7jPcD8JXdoX7i1bH42ys4GbkWWQzuHxq5msTUFoHw,Blue,,Defeated,Round Glasses,Sand,,Huh
 9021,320,1624,0,https://solanart.io/search/?token=8cEiHtMyZicKbewHKzNJbM2GTNdEj3D17jrbZP5xq8uZ,Yellow,Puffer Jacket,Interested,Circle Sunglasses,Dark Brown,Backwards Skate Cap,Wry
-9026,180,3348,0,https://solanart.io/search/?token=ASWWefUh7RcKsvinxyS8573PgEQmqrsg5yWGsDxWtfg7,Purple,,Happy,Punk Sunglasses,Albino,Worn Out Beanie,Wry
+9026,122,3348,0,https://solanart.io/search/?token=ASWWefUh7RcKsvinxyS8573PgEQmqrsg5yWGsDxWtfg7,Purple,,Happy,Punk Sunglasses,Albino,Worn Out Beanie,Wry
 9027,188,635,0,https://solanart.io/search/?token=HAMQUuFUHqfxmUxjMZMi76Z7eCaLDQg7diEkxxHCxn6L,Warm Grey,Torn Tee,Happy,,Lofi,Flat Hat,Yawn
 9030,399,9270,0,https://solanart.io/search/?token=BimAXsx34NSykswa1ueShQ9QjDe6XLtRLQeZARBoNWER,Grey,,Tired,,Dark Brown,,Beaming Smile
 9031,150,9289,0,https://solanart.io/search/?token=A1ZA9XDjHVFwzYBmjC62RhwC7rWbmri42tfabmyMubpY,Green,,Happy,,Ginger,Runner Cap,Okay
@@ -1004,7 +1003,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 9356,420,6671,0,https://solanart.io/search/?token=7JNv8pzF8jirp5Tn5fhGQm63tJyQqoYJ6WAHhGBaEPni,Yellow,Woven Sweater,Disappointed,,Panda,Classic Cap,Okay
 9363,288,6216,0,https://solanart.io/search/?token=2BvV2Z9hfFGKf2MnNh21mx233aeFdkcCdgP2UeXq5fwo,Yellow,Sling Pack,Okay,Clear Glasses,Tan,,Gah
 9377,138,2770,0,https://solanart.io/search/?token=xWYboPywpkySNthEKvmZi3t4T1ovaq7FAu48CG626Sy,Cream,Torn Sleeveless Tee,Tired,,Ginger,Surf Bucket Hat,Huh
-9378,96.5,8098,0,https://solanart.io/search/?token=2E9NM1zugqH253SKiUDN22xnaVgH5vZz44Pv1e4V3PZq,Warm Grey,Striped Tee,Annoyed,,Albino,Sweatband,Okay
+9378,96.5,8098,1.4,https://solanart.io/search/?token=2E9NM1zugqH253SKiUDN22xnaVgH5vZz44Pv1e4V3PZq,Warm Grey,Striped Tee,Annoyed,,Albino,Sweatband,Okay
 9380,444,3588,0,https://solanart.io/search/?token=Gm5TBKQrAof8Soa4iAtYMLEmQfTkdTtUHAgx1PDQ8zZ5,Warm Grey,,Golden Glow,,Blueprint,Bandana,Hmm
 9381,310,3920,0,https://solanart.io/search/?token=5Ep3puv6W3mSNriNMGufwvzUmCwzGKmV8McPsqVb5dec,Cream,Wool Overcoat,Spirited,Punk Sunglasses,Grizzly,,Clean Smile
 9383,222,3161,0,https://solanart.io/search/?token=AwVzh28QYcxzrSEfLpaRSo1EvK9AZhtTmAJJmhPAXyWr,Blue,Polo with Headphones,Disappointed,,Sand,Skate Cap,Forced Smile
@@ -1020,7 +1019,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 9474,237,4155,0,https://solanart.io/search/?token=4oStdFM3RJYqHa63Vpntr7ao4n2igNZiwfaoizvVNSW9,Cream,Leather Jacket,Interested,,Pink,Army Hat,Pouting
 9483,169,822,0,https://solanart.io/search/?token=5M9vAkoQUe523w4edpeasNcYN8JJ4PeJygyeBXF7rUmS,Green,Suede Jacket,Sarcastic,Circle Sunglasses,Polar,Bandana,Ohh
 9490,260,1200,0,https://solanart.io/search/?token=9GFu4dKRNbTP5C8dzEQsjJRGYS1moP4MPBshFthumUwe,Blue,Tweed Suit,White Glow,Wayfarer Sunglasses,Grizzly,Head Cam,Okay
-9491,95,4741,11.03,https://solanart.io/search/?token=5Ljq5Vd4FGYteeeKGQkXDMeemFxpMW1q28nbBYJWGY8t,Green,Summer Shirt,Interested,,Green,Ear Tag,Pouting
+9491,95,4741,29.83,https://solanart.io/search/?token=5Ljq5Vd4FGYteeeKGQkXDMeemFxpMW1q28nbBYJWGY8t,Green,Summer Shirt,Interested,,Green,Ear Tag,Pouting
 9497,250,2778,0,https://solanart.io/search/?token=HbY9wKWtEHCBCdGqTdHedbzdee85EAVtjuVChw8PFUg3,Green,,Tired,Flying Goggles,Tan,Skate Cap,Haa
 9500,111,7202,0,https://solanart.io/search/?token=2eVMuqPcQtvqgmbUxDQLrb2YBDJn7wiNt1CP5QJdqYKF,Yellow,Torn Sleeveless Tee,Happy,,Grizzly,Worn Out Beanie,Wry
 9520,3000,59,0,https://solanart.io/search/?token=8hTuYrymYXz4yMohX4DAMK8zBPrHYQxvXzBH7vhE3UYy,Cream,Insulated Jacket,Tired,Aviator Sunglasses,Ginger,Pom Pom Beanie,Gaiter
@@ -1041,7 +1040,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Clothes,Eyes,Eyewear,Fur,Ha
 9674,250,7912,0,https://solanart.io/search/?token=A3xS61NLMQERWUZr3TW3GAR2dWdzk1JVAmxaPfRqiWKE,Blue,Summer Shirt,Annoyed,,Dark Brown,Visor,Pouting
 9675,549,3317,0,https://solanart.io/search/?token=7FisxJdVwmVFVYrbpVcefG4GVo7sHviA4bwwnDEzhzKJ,White,Leather Jacket,Okay,,Pink,Skate Cap,Bubble Gum
 9677,138,3789,0,https://solanart.io/search/?token=7z5CFLDULHkCdMFhg3QbSGBkgnHYRNoosvo7aAJLeJWC,Grey,Urban Hoodie,Spirited,Circle Sunglasses,Albino,,Okay
-9679,1000002,7399,0,https://solanart.io/search/?token=GWSr3KvU4iE3o9xH13HqKTrBRPEySS3yW8JtuFNKicDd,White,,Defeated,,Albino,Pencil,Proud
 9687,600,109,0,https://solanart.io/search/?token=DXdXoRLZ1eNEXyULSx6uv8raQbt63hLGdzj2Aruo1zg6,Warm Grey,Aviator Jacket,Interested,Round Glasses,Tan,Sweatband,Yoyo
 9698,15000,6929,0,https://solanart.io/search/?token=5ZsnSQte5BA1wuESw2n6CciZQmGTedoNbBR2awvmnSmK,Blue,,White Glow,,Coral,,Proud
 9706,165,2859,0,https://solanart.io/search/?token=2BfQ3Gbs5S9gtayvVz869xnic8iCiNBUVPeBkmC439d7,White,Black Tee,Disappointed,,Andean,Classic Cap,Yum
