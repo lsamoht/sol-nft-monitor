@@ -80,3 +80,31 @@ jobs:
           http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=okaybears&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
           downloaded_filename: okay_bears__solanart.json
           postprocess: ./postprocess/solanart.ts
+
+      - name: trippin_ape_tribe - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: trippin_ape_tribe__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: trippin_ape_tribe - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=trippinape&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
+          downloaded_filename: trippin_ape_tribe__solanart.json
+          postprocess: ./postprocess/solanart.ts
+
+      - name: primates - Fetch Magic Eden data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://reqbin.com/echo/get/json
+          downloaded_filename: primates__magiceden.json
+          postprocess: ./postprocess/magiceden.ts
+
+      - name: primates - Fetch Solanart data
+        uses: githubocto/flat@v3
+        with:
+          http_url: https://qzlsklfacc.medianetwork.cloud/get_nft?collection=primates&page=0&limit=100&order=price-ASC&fits=any&trait=&search=&min=0&max=0&listed=true&ownedby=&attrib_count=&bid=all
+          downloaded_filename: primates__solanart.json
+          postprocess: ./postprocess/solanart.ts
