@@ -2,7 +2,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Face,Hat,Outfit
 11,3333,4,0,https://solanart.io/search/?token=Huve9tQoYLFQeiTNdneBiEfGZYxCXWLmjSWc5B6G4YXE,Magenta Swirl,Inferno Trypophobia,Radioactive,Ten Strip,Ceremonial Hood,Ceremonial Hood
 14,777,3,0,https://solanart.io/search/?token=8NEcwpkSZVzyf2BiZJ7hnWAcapxkQE6mF3K6y8bqXwVg,Dark Shroom,Drippy Sol,Radioactive,Substrate,Ceremonial Hood,Ceremonial Hood
 15,380,5,0,https://solanart.io/search/?token=HYkpnuUjuX1ccKSJV3nKFUVzL1PUBkQLiph9MxDJPdWJ,Purple Swirl,Galaxy Trypophobia,Radioactive,Ten Strip,Ceremonial Hood,Ceremonial Hood
-30,34,535,0,https://solanart.io/search/?token=GNQh52GEQqwj2viCycT4R53fMggq4PHoopMgCYs822Gc,Dark Shroom,Feathers,Alert Blue,Trippy Grill,Shroom Cap,Paisley Suit
 64,120,2024,0,https://solanart.io/search/?token=GXXxG99CuVVfc6gPNqAH1NVrVzXVQDrWwdZ29j7abw1B,Cotton Candy,Blue Tryptamine,Rainbow Shades,Ten Strip,Field Hat,Mad Scientist
 76,35,2762,0,https://solanart.io/search/?token=A3q9EmVxb3SsC22x5bcjYX814rQ1vB7GrurjPv6PEXuo,Lava Green,Drippy Blue,Wired,Rainbow Vomit,Paisley Cowboy,Tux Shirt
 78,144,7292,0,https://solanart.io/search/?token=3QcTFLzN9XpNhd6L94pgyEvud5grz5jJ8CaJCeqEhhvF,Cloudy Orange,Purple Tryptamine,Sus,Gold Grill,Mad Hatter,Groovy Green
@@ -32,6 +31,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Face,Hat,Outfit
 576,62,1659,0,https://solanart.io/search/?token=Arbaz4cjjJx3nYqkfMUoGequhkU5eniGbqnR5Grs9mQh,Lime,Inferno Trypophobia,Aviators,Fangs,Valhalla Helm,Psychonaut
 587,170,478,0,https://solanart.io/search/?token=FtThEee8pu6DpM3id6w9ya93AFX19tGVnBC8DiUP6i9Y,Blue Tryptamine,Skelly,Alert Blue,Skull Quiet,Shroom Cap,Coogi
 590,47,2665,0,https://solanart.io/search/?token=Hmrcoztwk2i4wnLaMw6LzQXHRPuRowQALQMb96MBnZrp,Light,Feathers,Scuba Glasses,Shout,Paisley Cowboy,Suspenders
+592,25,3547,29.79,https://solanart.io/search/?token=33Bx7zqeP9112AvDGHvZY2t2JAPikoJmqWgXGi11ZqQQ,Lime,Marble,Pop Out,Pipe,Octopus,Butterflies
 607,65,1117,0,https://solanart.io/search/?token=5c4QU3ZuAXJ7AjBJ763Ndmz1Jq1n692J6LQz98HaGZmM,Mint,Infrared Trypophobia,3D Glasses,Solana Quiet,Mind Blown,Suspenders
 613,70,9762,0,https://solanart.io/search/?token=4hap9er6i5jcGKDHueSPLKYphbJEg2bysyEi2neja7Mj,Lilac,Blue Tryptamine,Sus,Gold Grill,Beanie,Tribal
 614,26,6882,6.44,https://solanart.io/search/?token=CjoSL7j6qWAgyWp4LuszLqGf1DM2KaXaApk5ZPyoi57V,Lilac,Purple Paranoia,Sus,Gold Grill,Fedora,White Robe
@@ -83,7 +83,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Face,Hat,Outfit
 1529,32,655,0,https://solanart.io/search/?token=Hwf3WsYasXBLPKx8u8ZQzh5UZH73DE9H9DdYPatFBrn2,Green Flower,DMTree,Pit Vipers,Gold Grill,Field Hat,Blue Tank
 1539,48.880001,5244,0,https://solanart.io/search/?token=8kJ4F6hwDcZ6QWxW1u4xEbWcXUszDE4bLJdjKPcZJhcn,Pink Circles,Marble,Blue Shades,Eyeball,Fedora,Psychonaut
 1542,39,1572,0,https://solanart.io/search/?token=Fgjb6Dcs62HJCjZrUrntongGXbgEFoaa723Rm9wru2La,Light,Inferno Trypophobia,Aviators,J,Paisley Cowboy,Black Robe
-1550,19.5,7702,68.15,https://solanart.io/search/?token=FCYZjGhJ9PBvj4xgaC747FDDiU1F5Nh3WtMEPDFQSmpt,Beige,Swirls,Rainbow Shades,Shout,Paisley Cowboy,Hoodie
 1570,20,9511,55.91,https://solanart.io/search/?token=H19LuDHLWNUUX7Ug8xgnY9ybfKkq9Dqu6BYKNrSmBDwa,Beige,Drippy Blue,Sus,Tats,,I _3 Chorles
 1595,42.889999,6093,0,https://solanart.io/search/?token=4vQgYUtrjtb3PB2ewD11EBTPP3sMmYzz9NNPeaqbCSp9,Light,Purple Paranoia,420 Glasses,Quiet,Beanie,Butterflies
 1603,30,912,0,https://solanart.io/search/?token=4Uxrp3AJASZdG8EPrEwoabqk3N76ib2LW2a1nnVnsMbf,Peach,Skelly,Blue Shades,Skull Quiet,Cap,Butterflies
@@ -127,7 +126,6 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Face,Hat,Outfit
 2319,35,4413,0,https://solanart.io/search/?token=5VSrPJGEf5tPSd6fnkkh5mDR6EkJtrwC6WRTBbAaboFF,Peach,Infrared Trypophobia,Stoned,Eyeball,Mohawk,Hoodie
 2328,78,8427,0,https://solanart.io/search/?token=BLLSntx3GKkMnUUeaNhN9K949gGVH7bAnDicq1A6AFPx,Cotton Candy,Marble,Alert Blue,Pipe,Shroom Cap,Blue Tank
 2333,23.5,2922,47.3,https://solanart.io/search/?token=GSWPGmZMXxpjvGTbxn14p6MBmno27WUv2bL88J9GAscd,Watercolor,Blue Paranoia,Rainbow Shades,Face Melt,White Bucket,Black Robe
-2350,22.219999,5678,49.06,https://solanart.io/search/?token=3fcQiFTdrsCtGFLMXZrUD4H6RJT5mPnkRtohJXh3sGr4,Purple,Drippy Sol,Spaced Out,Shout,Solar System,Bat Country
 2355,82,6391,0,https://solanart.io/search/?token=7GKS91hGPaHByofXSdb9U5vFTCLY1YF28YiBihnLJGFy,Purple,Marble,Pop Out,Cig,Solar System,Tux Shirt
 2359,72,8896,0,https://solanart.io/search/?token=4WyTB5AHyaRv5PY8Hsjjkmp5Nbsx3EJTC8ajcWRKE3eb,Purple,Purple Tryptamine,Alert Blue,Cig,Paisley Cowboy,Coogi
 2366,29,8378,0,https://solanart.io/search/?token=J76rXUyhP9bG3fv6z4GyQfAJRcvoZVBs1YyzeAjjEtZL,Lilac,Swirls,420 Glasses,Shout,Mind Blown,Groovy Blue
@@ -313,7 +311,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Face,Hat,Outfit
 5350,25,3644,29.41,https://solanart.io/search/?token=DwLrWgnyiGapLdRLUmkswzA35BbQRWVb47sSaCiu2s6z,Purple,Swirls,Shroom Lennons,Gold Grill,Paisley Cowboy,Suspenders
 5351,21,6337,58.62,https://solanart.io/search/?token=G917gJ1ZdsGpLdpnw8BVzZ6cLUcmTWrqTv6WJkRE6Wk6,Lime,Purple Paranoia,Alert Blue,Gold Grill,Valhalla Helm,Paisley Suit
 5359,60,3432,0,https://solanart.io/search/?token=6AfZfk2uY5XKBNWzR4dRnq1Vb61PBn4iBZqmR3MGvAjM,Cotton Candy,Infrared Trypophobia,Blue Hypno,Fangs,Banana Split,I _3 Chorles
-5363,27.5,1546,12.81,https://solanart.io/search/?token=7ji3Lt6Br6oWYFPPRw86R7aHX8adPskv3ZrAbVLPHACz,Orange Flower,Swirls,Shroom Lennons,Snarl,Solar System,Groovy Green
+5363,26,1546,27.81,https://solanart.io/search/?token=7ji3Lt6Br6oWYFPPRw86R7aHX8adPskv3ZrAbVLPHACz,Orange Flower,Swirls,Shroom Lennons,Snarl,Solar System,Groovy Green
 5365,99.989998,9404,0,https://solanart.io/search/?token=4qbrDsC7hVoCzYrsnxYRqLMqgsUJ48cP9tZKUK8V7hKd,Sky Blue,Marble,Pop Out,Snarl,,I _3 Chorles
 5374,75,6359,0,https://solanart.io/search/?token=C1TwTCHtgvPyQPEPCV1vEbY2ByB2wD5kcY4SAzXiH8nn,Mint,Blue Tryptamine,Rainbow Bliss,Face Melt,,Bat Country
 5390,32,5233,0,https://solanart.io/search/?token=7XRXAKuvePKLDztkJp5f7wbf2yKCi5N6xSPsHHeZrq6q,Mulberry Shroom,Drippy Pink,Blue Shades,Fangs,Mind Blown,Groovy Blue
@@ -328,7 +326,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Face,Hat,Outfit
 5549,23,5432,42.24,https://solanart.io/search/?token=D8RhqBhoQeMQR9wXKS3eAtUdyekiD1NqEWPiFP4irV26,Cotton Candy,Phoenix,420 Glasses,Acid Tab,Fedora,Tribal
 5554,27,2574,13.69,https://solanart.io/search/?token=2ueWB2dHHt1Qj5RMF6B1MSfXPkCgk3sbSw7Tb1jPW4fi,Cotton Candy,Skelly,Alert Red,Skull Quiet,Field Hat,I _3 Chorles
 5624,21,2739,73.03,https://solanart.io/search/?token=8gtWitib1xHwBd2BaEFWAYVBMNNPP4XQ8rjEExab2LVs,Peach Flower,Drippy Pink,Blue Swirl,Quiet,Third Eye,Scarf
-5657,22,4733,55.04,https://solanart.io/search/?token=GZxzXpAgGBtjns6rEgmNbRm7B4RDydgSXdDVyaumUA5M,Purple,Feathers,Sus,Cig,White Bucket,Kimono
+5657,25.5,4733,20.04,https://solanart.io/search/?token=GZxzXpAgGBtjns6rEgmNbRm7B4RDydgSXdDVyaumUA5M,Purple,Feathers,Sus,Cig,White Bucket,Kimono
 5666,70,4132,0,https://solanart.io/search/?token=DHGQoQTyCddy1mYUCh1QnYupbG1TRDkuQ1wo7XxbSBpa,Peach Flower,Marble,420 Glasses,Balloon Purple,Field Hat,Groovy Blue
 5675,21,5109,63.54,https://solanart.io/search/?token=AE8PUmE5XV2FuMWTwnJjPEDxPqYhfLjfWpXcmsjVSStH,Lava Purple,Blue Tryptamine,Holy F_k,Eyeball,Headband,Hoodie
 5696,24,4257,36.95,https://solanart.io/search/?token=5vLHkTTneLHzB3hjfTzPkzQADqHiMXz9rpvmHk2rnCU4,Lime,Blue Tryptamine,Holy F_k,Tats,,Mad Scientist
@@ -376,7 +374,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Face,Hat,Outfit
 6524,48,5549,0,https://solanart.io/search/?token=CEdFEmVFxKwG9Cf4jetb2sdCppPrqbWxxFfZABTTx237,Beige,Phoenix,Rainbow Bliss,Eyeball,Fedora,Black Robe
 6539,50,7985,0,https://solanart.io/search/?token=GxvxmNqXPRhZM3L5q1dytqcrxWsZCfrDVoPNoy6FFVUV,Lava Purple,Purple Tryptamine,Wired,Gold Grill,Third Eye,I _3 Chorles
 6548,500,224,0,https://solanart.io/search/?token=EQKMjewc5E9VwJZVn9C1Lk5xJ45mYrZG2pkG2KKjRs8w,Light,XRay,Orange Hypno,XRay Quiet,Field Hat,Black Robe
-6553,22.4,3980,54.06,https://solanart.io/search/?token=6jY4qEGEmsTfemT6ZrENaY39rLstL4ygtgCX1ehuiF6z,Mulberry Shroom,Blue Tryptamine,3D Glasses,Tats,Valhalla Helm,Groovy Green
+6553,21.280001,3980,65.26,https://solanart.io/search/?token=6jY4qEGEmsTfemT6ZrENaY39rLstL4ygtgCX1ehuiF6z,Mulberry Shroom,Blue Tryptamine,3D Glasses,Tats,Valhalla Helm,Groovy Green
 6581,188.690002,1147,0,https://solanart.io/search/?token=9yveVTNesf9nKLFD4mocGBHTPbkqQP9BKp8E6owvKA43,Peach,Skelly,Alert Blue,Skull Shout,Shroom Cap,Mad Hatter
 6590,35,1937,0,https://solanart.io/search/?token=6tt9mDtF1gxfPU1qxqYSD6kVEpB3DVw3kkNXz1j5e3g4,Lilac,XRay,Wired,XRay Shout,Beanie,Tribal
 6596,100,1356,0,https://solanart.io/search/?token=75Lmsvs2X11uhxN3gEVvxEHqgUDhti4SBBFRxqmZ5zJ2,Sand,Galaxy Trypophobia,Holy F_k,Pipe,Valhalla Helm,Patchwork Denim
@@ -429,6 +427,7 @@ id,price,moonRank,💎 score (%),storeURL,Background,Body,Eyes,Face,Hat,Outfit
 7394,22,6060,49.73,https://solanart.io/search/?token=9PF9qBePTR1JHz4Eb6iBi8GZKx2Zo9qJA1xRhkqBcrFS,Beige,Blue Tryptamine,Blue Hypno,Balloon Purple,Cap,Groovy Blue
 7409,33.689999,1069,0,https://solanart.io/search/?token=GMVBukJhRjxKUBA872Tary1k9n5ppRqhdEmhzBpR3J1v,Lime,Phoenix,Rainbow Madness,Balloon Purple,Field Hat,Coogi
 7412,150,1224,0,https://solanart.io/search/?token=71g9ASU7v5UzawW5QHd8y3aexoA1exVd8ZC1pAEovWae,Lava Purple,Drippy Radioactive,Alert Red,Eyeballs,Octopus,Blue Tank
+7423,40,4033,0,https://solanart.io/search/?token=DJGB83xpVznWDtEotN1um8mYkxDetbBzvGrwD6iPyZXL,Watercolor,Gold,Stoned,Quiet,Field Hat,TyeDye
 7457,138,188,0,https://solanart.io/search/?token=AvfhCRfuukeAvorhoM3sEHnNjWdtBSJ6nM1u4PAo6T9D,Lava Purple,Galaxy Trypophobia,Radioactive,Pizza,Banana Split,Paisley Suit
 7490,44,4799,0,https://solanart.io/search/?token=B5JjsfFoEUTZLZuiePuKvFGmdFnuhymLysKSXCrpT5cR,Orange Flower,Galaxy Trypophobia,Sus,Quiet,Valhalla Helm,Groovy Blue
 7518,24.9,4616,26.51,https://solanart.io/search/?token=7x2W3LJP8LrWQuuHPttE9gKULvjjENg6w9xwXZh4qTaH,Beige,DMTree,Stoned,Acid Tab,White Bucket,Groovy Blue
